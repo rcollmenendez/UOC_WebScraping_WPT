@@ -28,18 +28,10 @@ Los recursos utilizados para la realización de esta práctica son:
 
 https://github.com/rubenkerkhofs/Airbnb-scraping
 https://medium.com/analytics-vidhya/using-python-and-selenium-to-scrape-infinite-scroll-web-pages-825d12c24ec7
-
-
-
-
-Pasos realizados para el escaneo de la página WPT:
-
-1. Abrir la URL principal del ranking y hacer scroll down
-
-2. Extraer del código HTML de la página completa las URLs de la ficha de cada jugador
-
-3. Acceder a la ficha de cada jugador y extraer la información deseada
-
-4. Crear la estructura de datos y el fichero CSV con la información anterior
-
+Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+Masip, D. El lenguaje Python. Editorial UOC.
+Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
+Github https://guides.github.com/activities/hello-world. 
 
