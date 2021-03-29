@@ -1,0 +1,80 @@
+1. Contexto. Explicar en qué contexto se ha recolectado la información. Explique 
+por qué el sitio web elegido proporciona dicha información.
+
+Aunque el Padel es un deporte en crecimineto y con un gran potencial, que se está expandiendo de manera muy rápida entre
+los diferentes países Europeos aún no tiene los mismos recursos que otros deportes mayoritarios.
+La organización principal que está detrás del Padel e impulsando dicho deporte es World Padel Tour. Empresa privada que
+ha creado un circuito de Padel profesional y que a día de hoy es el más reconocido y que más fuerza esta cogiendo,
+contando con una estructura de torneos en diferentes sedes y países, premios en metálico y repercusión mediática.
+
+Al ser la organización que mayor peso tiene a día de hoy hemos decidido extraer la información de su página web que si bien permite
+consultar la misma, no hay manera de descargarla para representarla en otra herramienta.
+
+https://www.worldpadeltour.com/
+
+Como apasionado del deporte en general y del Padel en particular y viendo el gran crecimiento que el mismo esta teniendo en los últimos años,
+me parece interesante
+
+2. Definir un título para el dataset
+El título elegido para el dataset creadp es: WPT_players_info
+
+3. Descripción del dataset. Desarrollar una descripción breve del conjunto de datos 
+que se ha extraído (es necesario que esta descripción tenga sentido con el título 
+elegido).
+
+El dataset creado contiene información tanto demográfica como del rendimiento de los jugadores del ranking World Padel Tour (WPT).
+
+4. Representación gráfica. Presentar esquema o diagrama que identifique el 
+dataset visualmente y el proyecto elegido
+
+WPT General - WPT Ranking - WPT Ranking Masculino - WPT Ficha Jugador
+
+5. Contenido. Explicar los campos que incluye el dataset, el periodo de tiempo de 
+los datos y cómo se ha recogido.
+
+El dataset creado contiene la fecha en la que se ha extraído la información de manera que podamos ir guardando
+fotos del mismo a lo largo del tiempo.
+
+Los campos seleccionados para la creación de la primera version del dataset han sido:
+
+- Nombre: Contiene el nombre completo del jugador
+- Origen:
+- País de residencia:
+- Altura:
+- Ranking actual: Contiene la posición del ranking WPT a fecha de extracción de la información
+- Partidos jugados
+- Partidos ganados
+- Victorias consecutivas
+- Efectividad: Cálculo del número de partidos ganados entre el número total de partidos jugados
+- URL: enlace a la ficha del jugador de la cuál se ha extraído la información
+
+6. Agradecimientos. Presentar al propietario del conjunto de datos. Es necesario 
+incluir citas de análisis anteriores o, en caso de no haberlas, justificar esta 
+búsqueda con análisis similares. 
+
+7. Inspiración. Explique por qué es interesante este conjunto de datos y qué 
+preguntas se pretenden responder. Es necesario comparar con los análisis 
+anteriores presentados en el apartado 6.
+
+
+
+
+8. Licencia
+
+
+○ Released Under CC0: Public Domain License
+○ Released Under CC BY-NC-SA 4.0 License
+○ Released Under CC BY-SA 4.0 License
+○ Database released under Open Database License, individual contents 
+under Database Contents License
+○ Other (specified above)
+○ Unknown License
+
+9. Código
+El código del proyecto se puede ver en el siguiente enlace: (Añadir enlace de github)
+
+10. Dataset
+El data set se puede consultar en Zenodo siguiendo el siguiente enlace: (Añadir enlace de Zenodo)
+https://zenodo.org/
+
+
