@@ -1,4 +1,4 @@
-# UOC - WebScraping - WPT
+# Wiki - UOC_WebScraping - WPT
 
 - Estudios: Máster universitario de Ciencia de Datos de la UOC
 - Asignatura: (M2.851) Tipología y ciclo de vida de los datos - Aula 3
@@ -7,11 +7,11 @@
 
 ### Descripción
 
-Objetivo:
+
 
 ### Miembros
 
-Esta práctica ha sido realizada de manera individual por Ruben Coll Menéndez
+Esta práctica ha sido realizada de manera individual por el estudiante Ruben Coll Menéndez
 
 ### Ficheros
 
