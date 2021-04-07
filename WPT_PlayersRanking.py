@@ -57,7 +57,8 @@ for element in soup.find_all('li', {'class': 'c-player-card__item'}):
     name = element.find('a', {'class': 'c-trigger'})['href']
     urls.append(name)
 
-soup.find_all('p', {'class': 'c-form__group'})
+# Fecha de actualización del ranking
+reference_date = soup.find_all('div', {'class': 'c-form__group'})[0].find('p').text
 
 # Comprobamos que se han cargado las URLs en la lista
 len(urls)
@@ -83,12 +84,20 @@ player_dict = {'nombre': [],
                'p_perdidos': [],
                'efectividad': [],
                'vict_consecutivas': [],
-               'url': []}
+               'companero_actual': [],
+               'posicion_juego': [],
+               'lugar_nacimiento': [],
+               'fecha_nacimiento': [],
+               'altura': [],
+               'lugar_residencia': [],
+               'url': [],
+               'reference_date': []}
 
 # Creamos una lista vacía para comprobar que urls se han escaneado
 scanned_urls = []
 
-for url in urls[0:30]:
+# Loop para la extracción de la información de cada URL de cada jugador
+for url in urls[0:100]:
     scanned_urls.append(url)
     # Abrir URL de cada jugador
     driver = webdriver.Chrome(executable_path='C:/Users/RCOLL/Downloads/chromedriver_win32/chromedriver.exe')
@@ -97,7 +106,7 @@ for url in urls[0:30]:
     content = driver.page_source
     soup = BeautifulSoup(content, 'html.parser')
     driver.quit()
-    # Extracción de la información del HTML obtenido en el paso anterior
+    # Extracción de la información de rendimiento
     nombre = soup.find_all('h1', {'class': 'c-ranking-header__title'})[0].get_text()
     ranking_actual = soup.find_all('p', {'class': 'c-ranking-header__data'})[0].get_text()
     puntos = soup.find_all('p', {'class': 'c-ranking-header__data'})[1].get_text()
@@ -106,8 +115,13 @@ for url in urls[0:30]:
     p_perdidos = soup.find_all('p', {'class': 'c-ranking-header__data'})[4].get_text()
     efectividad = soup.find_all('p', {'class': 'c-ranking-header__data'})[5].get_text()
     vict_consecutivas = soup.find_all('p', {'class': 'c-ranking-header__data'})[6].get_text()
-    link = url # Cambiar el 0 por el índice cuando creeemos el loop
-    # Insertamos la info en el diccionario
+    link = url
+    # Extracción de la información personal
+    info_personal = []
+    for element in soup.find_all('li', {'class': 'c-player__data-item'}):
+        data = element.find('p').text
+        info_personal.append(data)
+    # Insertamos la info de rendimiento en el diccionario
     player_dict['nombre'].append(nombre)
     player_dict['ranking_actual'].append(ranking_actual)
     player_dict['puntos_wpt'].append(puntos)
@@ -117,6 +131,14 @@ for url in urls[0:30]:
     player_dict['efectividad'].append(efectividad)
     player_dict['vict_consecutivas'].append(vict_consecutivas)
     player_dict['url'].append(link)
+    player_dict['reference_date'].append(reference_date)
+    # Insertamos la info personal en el diccionario
+    player_dict['companero_actual'].append(info_personal[0])
+    player_dict['posicion_juego'].append(info_personal[1])
+    player_dict['lugar_nacimiento'].append(info_personal[2])
+    player_dict['fecha_nacimiento'].append(info_personal[3])
+    player_dict['altura'].append(info_personal[4])
+    player_dict['lugar_residencia'].append(info_personal[5])
     # Añadimos cierta variabilidad en la ejecución para evitar que nos bloqueen
     seg = random.randrange(1, 4, 1)
     time.sleep(seg)
