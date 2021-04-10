@@ -33,5 +33,5 @@ Los recursos utilizados para la realización de esta práctica son:
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 - Masip, D. El lenguaje Python. Editorial UOC.
 - Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
-- Github https://guides.github.com/activities/hello-world. 
+- https://guides.github.com/activities/hello-world. 
 
