@@ -1,0 +1,411 @@
+,nombre,ranking_actual,puntos_wpt,p_jugados,p_ganados,p_perdidos,efectividad,vict_consecutivas,companero_actual,posicion_juego,lugar_nacimiento,fecha_nacimiento,altura,lugar_residencia,url,reference_date
+0,Alejandra Salazar Bengoechea,1,12390,272,219,53,"80,51",16,Gemma Triay Pons,Drive,Madrid,31/12/1985,"1,68",Madrid,https://www.worldpadeltour.com/jugadores/alejandra-salazar-bengoechea/,05/04/2021
+1,Ariana Sánchez Fallada,1,12390,239,161,78,"67,36",8,Paula Josemaría Martín,Revés,Reus,19/07/1997,"1,65",Barcelona,https://www.worldpadeltour.com/jugadores/ariana-sanchez-fallada/,05/04/2021
+2,Gemma Triay Pons,3,11665,250,176,74,"70,4",16,Alejandra Salazar Bengoechea,Revés,Mahón,28/06/1992,"1,73",Barcelona,https://www.worldpadeltour.com/jugadores/gemma-triay-pons/,05/04/2021
+3,Lucía Sainz Pelegri,3,11665,262,185,77,"70,61",16,Beatriz González Fernández,Drive,Barcelona,05/10/1984,"1,73",Barcelona,https://www.worldpadeltour.com/jugadores/lucia-sainz-pelegri/,05/04/2021
+4,Marta Marrero Marrero,5,11260,287,224,63,"78,05",16,Marta Ortega Gallego,Revés,Las Palmas de Gran Canaria,16/01/1983,"1,73",Barcelona,https://www.worldpadeltour.com/jugadores/marta-marrero-marrero/,05/04/2021
+5,Marta Ortega Gallego,6,10930,269,188,81,"69,89",9,Marta Marrero Marrero,Drive,Madrid,14/02/1997,"1,70",Madrid,https://www.worldpadeltour.com/jugadores/marta-ortega-gallego/,05/04/2021
+6,Paula Josemaría Martín,7,8885,139,77,62,"55,4",7,Ariana Sánchez Fallada,Drive,Moraleja (Caceres),31/10/1996,"1,60",Valladolid,https://www.worldpadeltour.com/jugadores/paula-josemaria-martin/,05/04/2021
+7,María José Sánchez Alayeto,8,8170,302,244,58,"80,79",30,María Pilar Sánchez Alayeto,Revés,Zaragoza,20/06/1984,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/maria-jose-sanchez-alayeto/,05/04/2021
+8,María Pilar Sánchez Alayeto,9,7630,277,228,49,"82,31",30,María José Sánchez Alayeto,Drive,Zaragoza,20/06/1984,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/maria-pilar-sanchez-alayeto/,05/04/2021
+9,Elisabet Amatriaín Armas,10,6350,282,198,84,"70,21",7,Sofia Araujo,Drive,Logroño,10/03/1984,"1,61",Madrid,https://www.worldpadeltour.com/jugadores/elisabeth-amatriain-armas/,05/04/2021
+10,Patricia Llaguno Zielinski,10,6350,282,198,84,"70,21",7,María Virginia Riera,Revés,Cartagena,25/02/1985,"1,67",Madrid,https://www.worldpadeltour.com/jugadores/patricia-llaguno-zielinski/,05/04/2021
+11,Beatriz González Fernández,12,6045,130,75,55,"57,69",7,Lucía Sainz Pelegri,Revés,Málaga,23/11/2001,"1,74",Málaga,https://www.worldpadeltour.com/jugadores/beatriz-gonzalez-fernandez/,05/04/2021
+12,Ana Catarina Nogueira ,13,4980,184,103,81,"55,98",7,Teresa Navarro López-Barajas,Revés,Oporto,20/09/1978,"1,71",Porto,https://www.worldpadeltour.com/jugadores/ana-catarina-nogueira/,05/04/2021
+13,Delfina Brea Senesi,14,3600,118,71,47,"60,17",6,Tamara Icardo Alcorisa,Drive,Buenos Aires,05/12/1999,"1,7",Madrid,https://www.worldpadeltour.com/jugadores/delfina-brea-senesi/,05/04/2021
+14,Carolina Navarro Björk,15,3135,262,171,91,"65,27",7,Cecilia Reiter,Revés,Málaga,26/02/1976,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/carolina-navarro-bjork/,05/04/2021
+15,Aranzazu Osoro Ulrich,16,2613,85,42,43,"49,41",5,Victoria Iglesias Segador,Drive,Parana - Arg,03/06/1996,"1,65",Barcelona ,https://www.worldpadeltour.com/jugadores/aranzazu-osoro-ulrich/,05/04/2021
+16,María Virginia Riera ,17,2460,69,36,33,"52,17",4,Patricia Llaguno Zielinski,Drive,Resistencia - Arg,27/09/1988,"1,65",Resistencia - Arg,https://www.worldpadeltour.com/jugadores/maria-virginia-riera/,05/04/2021
+17,Sofia Araujo ,17,2460,90,48,42,"53,33",3,Elisabet Amatriaín Armas,Revés,Lisboa - Portugal,30/11/1994,"1,72",Lisboa - Portugal,https://www.worldpadeltour.com/jugadores/sofia-araujo/,05/04/2021
+18,Alba Galán Romo,19,2243,199,112,87,"56,28",3,María Del Carmen Villalba Sánchez,Revés,Madrid,14/04/1992,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/alba-galan-romo/,05/04/2021
+19,Victoria Iglesias Segador,20,2240,210,122,88,"58,1",6,Aranzazu Osoro Ulrich,Revés,Sevilla,16/05/1994,"1,76",Sevilla,https://www.worldpadeltour.com/jugadores/victoria-iglesias-segador/,05/04/2021
+20,Verónica Virseda Sánchez,21,2212,134,60,74,"44,78",3,Lucía Martínez Gómez,Revés,Toledo,01/07/1992,"1,70",Toledo,https://www.worldpadeltour.com/jugadores/veronica-virseda-sanchez/,05/04/2021
+21,María Del Carmen Villalba Sánchez,22,2150,195,105,90,"53,85",3,Alba Galán Romo,Drive,Málaga,20/05/1987,"1,60",Madrid,https://www.worldpadeltour.com/jugadores/maria-del-carmen-villalba-sanchez/,05/04/2021
+22,Cecilia Reiter ,23,1770,251,164,87,"65,34",7,Carolina Navarro Björk,Drive,Olivos - B.A. - Arg,30/03/1982,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/cecilia-reiter/,05/04/2021
+23,Tamara Icardo Alcorisa,24,1588,133,55,78,"41,35",3,Delfina Brea Senesi,Revés,Valencia,10/10/1995,"1,78",Valencia,https://www.worldpadeltour.com/jugadores/tamara-icardo-alcorisa/,05/04/2021
+24,Teresa Navarro López-Barajas,25,1573,180,91,89,"50,56",3,Ana Catarina Nogueira,Drive,Granada,22/10/1988,"1,70",Las Palmas,https://www.worldpadeltour.com/jugadores/teresa-navarro-lopez-barajas/,05/04/2021
+25,Sandra Hernández Camacho,26,1564,151,68,83,"45,03",2,Araceli Martínez Ibáñez,Drive,Palma de Mallorca,31/10/1986,"1,61",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/sandra-hernandez-camacho/,05/04/2021
+26,Catalina Tenorio ,27,1544,248,158,90,"63,71",7,Julieta Evangelina Bidahorria,Drive,Parana - Arg,27/08/1975,"1,62",Madrid,https://www.worldpadeltour.com/jugadores/catalina-tenorio/,05/04/2021
+27,Marta Talaván Ruiz,28,1500,144,60,84,"41,67",3,Lorena Rufo Ortiz,Drive,Madrid,12/04/1995,"1,63",Madrid,https://www.worldpadeltour.com/jugadores/marta-talavan-ruiz/,05/04/2021
+28,Carla Mesa Salazar,29,1442,160,74,86,"46,25",2,Barbara Las Heras Monterde,Revés,Tenerife,24/03/1991,"1,68",Madrid,https://www.worldpadeltour.com/jugadores/carla-mesa-salazar/,05/04/2021
+29,Lucía Martínez Gómez,30,1389,168,82,86,"48,81",3,Verónica Virseda Sánchez,Drive,Granada,16/05/1991,"1,66",Madrid,https://www.worldpadeltour.com/jugadores/lucia-martinez-gomez/,05/04/2021
+30,Nicole Traviesa Mola,31,1370,105,49,56,"46,67",5,Nelida Brito,Revés,Barcelona,13/07/1999,"1,74",Barcelona,https://www.worldpadeltour.com/jugadores/nicole-traviesa-mola/,05/04/2021
+31,Alix Collombon ,32,1336,55,24,31,"43,64",4,Jessica Castelló López,Drive,Lyon,17/03/1993,"1,74",Lyon,https://www.worldpadeltour.com/jugadores/alix-collombon/,05/04/2021
+32,Raquel Piltcher ,33,1324,65,32,33,"49,23",3,Esther Carnicero Martín,Drive,Pelotas (Brasil),14/06/1991,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/raquel-piltcher/,05/04/2021
+33,Jessica Castelló López,34,1311,74,38,36,"51,35",3,Alix Collombon,Revés,Villena,29/10/1997,"1,69",Villena,https://www.worldpadeltour.com/jugadores/jessica-castello-lopez/,05/04/2021
+34,Esther Carnicero Martín,35,1300,85,47,38,"55,29",4,Raquel Piltcher,Revés,Valladolid,23/11/1999,"1,70",Valladolid,https://www.worldpadeltour.com/jugadores/esther-carnicero-martin/,05/04/2021
+35,Celeste Paz ,36,1296,130,61,69,"46,92",4,Sara Ruiz Soto,Drive,Necochea - Arg,31/10/1983,"1,68",Alicante,https://www.worldpadeltour.com/jugadores/celeste-paz/,05/04/2021
+36,Nelida Brito ,37,1280,161,73,88,"45,34",2,Nicole Traviesa Mola,Drive,Lomas de Zamora,05/08/1979,1.58,Barcelona ,https://www.worldpadeltour.com/jugadores/nelida-brito/,05/04/2021
+37,Anna Cortiles Tapias,38,1277,119,61,58,"51,26",3,Ana Fernández de Ossó Fuentes,Drive,Tarragona,24/07/1996,"1,59",Mont-Roig del Camp,https://www.worldpadeltour.com/jugadores/anna-cortiles-tapias/,05/04/2021
+38,Lorena Rufo Ortiz,39,1261,33,22,11,"66,67",4,Marta Talaván Ruiz,Drive,Cáceres,04/08/2003,"1,66",Cáceres,https://www.worldpadeltour.com/jugadores/lorena-rufo-ortiz/,05/04/2021
+39,Lorena Alonso De Lera,40,1254,145,57,88,"39,31",4,Isabel Domínguez Munaiz,Revés,León,01/06/1982,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/lorena-alonso-de-lera/,05/04/2021
+40,Melania Merino Saéz,41,1239,68,37,31,"54,41",4,Alicia Blanco Rojo,Drive,Valladolid,24/04/1999,"1,72",Valladolid,https://www.worldpadeltour.com/jugadores/melania-merino-saez/,05/04/2021
+41,Alicia Blanco Rojo,42,1223,117,48,69,"41,03",4,Melania Merino Saéz,Revés,Medina del Campo,17/11/1989,"1,64",Valladolid,https://www.worldpadeltour.com/jugadores/alicia-blanco-rojo/,05/04/2021
+42,Beatriz Caldera Sánchez,43,1216,78,31,47,"39,74",2,Carmen Goenaga García,Drive,Valladolid,03/09/2001,"1,64",Valladolid,https://www.worldpadeltour.com/jugadores/beatriz-caldera-sanchez/,05/04/2021
+43,Barbara Las Heras Monterde,44,1200,28,18,10,"64,29",4,Carla Mesa Salazar,Drive,Madrid,07/10/1993,1.61,Madrid,https://www.worldpadeltour.com/jugadores/barbara-las-heras-monterde/,05/04/2021
+44,Carmen Goenaga García,45,1161,44,24,20,"54,55",4,Beatriz Caldera Sánchez,Revés,Salamanca ,23/02/2004,"1,67",Salamanca ,https://www.worldpadeltour.com/jugadores/carmen-goenaga-garcia/,05/04/2021
+45,Nuria Rodríguez Camacho,46,1151,134,49,85,"36,57",3,Ángela Caro Cantín,Drive,Sanlucar de Barrameda,09/12/1994,"1,6",Madrid,https://www.worldpadeltour.com/jugadores/nuria-rodriguez-camacho/,05/04/2021
+46,Isabel Domínguez Munaiz,47,1113,141,59,82,"41,84",3,Lorena Alonso de Lera,Revés,Pontevedra,22/09/1978,"1,77",Pontevedra,https://www.worldpadeltour.com/jugadores/isabel-dominguez-munaiz/,05/04/2021
+47,Ángela Caro Cantín,48,1098,119,48,71,"40,34",4,Nuria Rodríguez Camacho,Revés,Zaragoza,25/06/1985,"1,73",Zaragoza,https://www.worldpadeltour.com/jugadores/angela-caro-cantin/,05/04/2021
+48,Araceli Martínez Ibáñez,49,1050,90,44,46,"48,89",4,Sandra Hernández Camacho,Revés,Murcia,22/08/2000,"1,60",Murcia,https://www.worldpadeltour.com/jugadores/araceli-martinez-ibanez/,05/04/2021
+49,Ana Fernández De Ossó Fuentes,50,1038,134,47,87,"35,07",2,Anna Cortiles Tapias,Revés,Sevilla,17/05/1986,"1,68",Sevilla,https://www.worldpadeltour.com/jugadores/ana-fernandez-de-osso-fuentes/,05/04/2021
+50,Andreína De Los Santos Sarasúa,51,1016,132,62,70,"46,97",5,Marta Porras Sánchez,Drive,Salto - Uru,10/04/1990,"1,66",Málaga,https://www.worldpadeltour.com/jugadores/andreina-de-los-santos-sarasua/,05/04/2021
+51,Nuria Rovira Noguer,52,1013,116,59,57,"50,86",4,Maite Gabarrus Alonso,Revés,Barcelona,28/01/1987,"1,83",Barcelona,https://www.worldpadeltour.com/jugadores/nuria-rovira-noguer/,05/04/2021
+52,Léa Godallier ,53,994,27,16,11,"59,26",4,Laura Clergue,Drive,Papeete,09/05/1995,"1,78",Pozuelo de Alarcón ,https://www.worldpadeltour.com/jugadores/godallier-lea/,05/04/2021
+53,Laura Clergue ,54,993,82,38,44,"46,34",4,Léa Godallier,Revés,Castres - Fra,13/03/1990,"1,71",Madrid,https://www.worldpadeltour.com/jugadores/laura-clergue/,05/04/2021
+54,Ariadna Cañellas Rodero,55,942,71,37,34,"52,11",5,Léa Godallier,Revés,Palma de Mallorca,26/10/2002,"1,65",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/ariadna-canellas-rodero/,05/04/2021
+55,Julia Polo Bautista,56,853,68,36,32,"52,94",4,Sara Pujals Pérez,Revés,Rota - Cádiz,24/01/1999,"1,67",Madrid,https://www.worldpadeltour.com/jugadores/julia-polo-bautista/,05/04/2021
+56,Sara Ruiz Soto,57,739,64,24,40,"37,5",3,Celeste Paz,Drive,Santander,06/08/1995,"1,60",Santander,https://www.worldpadeltour.com/jugadores/sara-ruiz-soto/,05/04/2021
+57,Sandra Bellver Fructuoso,58,731,54,31,23,"57,41",5,Claudia Jensen Sirvent,Revés,Barcelona,14/12/1991,"1,67",Barcelona,https://www.worldpadeltour.com/jugadores/sandra-bellver-fructuoso/,05/04/2021
+58,Julieta Evangelina Bidahorria ,59,722,13,6,7,"46,15",3,Catalina Tenorio,Revés,Jesús Maria - Cba ,12/12/1991,"1,78",Brunete ,https://www.worldpadeltour.com/jugadores/julieta-evangelina-bidahorria/,05/04/2021
+59,Patricia Martínez Fortún,60,697,33,18,15,"54,55",5,Arantxa Soriano Pérez,Drive,Zaragoza,26/09/2001,"1,67",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/patricia-martinez-fortun/,05/04/2021
+60,Sara Pujals Pérez,61,676,114,44,70,"38,6",3,Julia Polo Bautista,Drive,Berga,31/05/1988,"1,61",Berga,https://www.worldpadeltour.com/jugadores/sara-pujals-perez/,05/04/2021
+61,Manuela Isabel Alaga Drosdov,62,675,27,17,10,"62,96",4,Estela Francés Fernández,Revés,Salto - Uruguay,03/06/1989,"1,68",Salto - Uruguay,https://www.worldpadeltour.com/jugadores/manuela-isabel-alaga-drosdov/,05/04/2021
+62,Marina Martínez Lobo,63,622,67,36,31,"53,73",3,Sofía Saiz Vallejo,Drive,Alicante,06/03/2003,"1,69",Novelda,https://www.worldpadeltour.com/jugadores/marina-martinez-lobo/,05/04/2021
+63,Elena Ramírez Gómez,64,620,104,43,61,"41,35",4,Raquel Segura Aguilar,Revés,Huelva,29/08/1996,"1,65",Huelva,https://www.worldpadeltour.com/jugadores/elena-ramirez-gomez/,05/04/2021
+64,Arantxa Soriano Pérez,65,602,78,42,36,"53,85",4,Patricia Martínez Fortún,Drive,Requena (Valencia),24/01/1990,"1,71",Utiel (Valencia),https://www.worldpadeltour.com/jugadores/arantxa-soriano-perez/,05/04/2021
+65,Sofía Saiz Vallejo,66,590,36,23,13,"63,89",5,Andreína de Los Santos Sarasúa,Revés,Palma de Mallorca,26/03/2003,"1,73",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/sofia-saiz-vallejo/,05/04/2021
+66,Nuria Vivancos Vivancos,67,561,52,26,26,50,5,Xenia Clasca Vidiella,Drive,Murcia,31/12/2001,"1,60",Murcia,https://www.worldpadeltour.com/jugadores/nuria-vivancos-vivancos/,05/04/2021
+67,Chiara Pappacena Cipriani,68,530,29,17,12,"58,62",5,Giulia Sussarello,Drive,Roma,14/07/1994,1.71,Roma,https://www.worldpadeltour.com/jugadores/chiara-pappacena-cipriani/,05/04/2021
+68,Xenia Clasca Vidiella,69,528,60,30,30,50,4,Nuria Vivancos Vivancos,Revés,Barcelona,23/09/2001,"1,69",La Roca del Valles,https://www.worldpadeltour.com/jugadores/xenia-clasca-vidiella/,05/04/2021
+69,Marta Caparros Maldonado,70,493,43,22,21,"51,16",4,Carmen Castillón Gámez,Drive,Málaga,17/03/2001,"1,83",Málaga,https://www.worldpadeltour.com/jugadores/marta-caparros-maldonado/,05/04/2021
+70,Giulia Sussarello ,71,492,32,16,16,50,5,Chiara Pappacena Cipriani,Revés,Como,29/05/1992,"1,60",Como,https://www.worldpadeltour.com/jugadores/giulia-sussarello/,05/04/2021
+71,Alba Izquierdo Rodríguez,72,487,104,49,55,"47,12",4,Marta Borrero Fernández de La Puente,Drive,Córdoba,02/08/1994,"1,63",Córdoba,https://www.worldpadeltour.com/jugadores/alba-izquierdo-rodriguez/,05/04/2021
+72,Carmen García Pardo,73,474,65,34,31,"52,31",4,Marta Caparros Maldonado,Revés,Torre-Pacheco,07/08/1996,"1,60",Murcia,https://www.worldpadeltour.com/jugadores/carmen-garcia-pardo/,05/04/2021
+73,Laia Bonilla Torres,74,465,71,36,35,"50,7",4,Monica Gomez Rivas,Drive,Lleida,10/05/1999,"1,63",Lleida,https://www.worldpadeltour.com/jugadores/laia-bonilla-torres/,05/04/2021
+74,Raquel Segura Aguilar,75,460,53,26,27,"49,06",4,Elena Ramírez Gómez,Drive,Torremolinos - Málaga,12/03/2001,"1,73",Torremolinos - Málaga,https://www.worldpadeltour.com/jugadores/raquel-segura-aguilar/,05/04/2021
+75,Monica Gomez Rivas,76,427,17,4,13,"23,53",4,Claudia Jensen Sirvent,Revés,Madrid,18/06/2003,"1,55",Madrid ,https://www.worldpadeltour.com/jugadores/monica-gomez-rivas/,05/04/2021
+76,Estela Francés Fernández,77,426,93,44,49,"47,31",5,Manuela Isabel Alaga Drosdov,Drive,Elda,10/08/1991,"1,6",Elda,https://www.worldpadeltour.com/jugadores/estela-frances-fernandez/,05/04/2021
+77,Ainhoa Rico Martín,78,421,89,47,42,"52,81",3,Marina Pinacho Sánchez,Revés,Madrid,03/11/1993,"1,72",Carranque,https://www.worldpadeltour.com/jugadores/ainhoa-rico-martin/,05/04/2021
+78,Marina Pinacho Sánchez,79,384,111,44,67,"39,64",5,Ainhoa Rico Martín,Revés,Valladolid,20/03/1989,"1,67",Valladolid,https://www.worldpadeltour.com/jugadores/marina-pinacho-sanchez/,05/04/2021
+79,Helena Wyckaert ,80,373,62,32,30,"51,61",3,Baharak Soleymani,Drive,Wilrijk - Amberes - Bélgica,21/11/1993,"1,59",Madrid,https://www.worldpadeltour.com/jugadores/helena-wyckaert/,05/04/2021
+80,Maite Gabarrus Alonso,81,368,77,31,46,"40,26",3,Nuria Rovira Noguer,Drive,Pamplona,02/02/1989,"1,6",Pamplona,https://www.worldpadeltour.com/jugadores/maite-gabarrus-alonso/,05/04/2021
+81,Ana Alicia Seijas Cali,82,365,89,46,43,"51,69",5,Gala León García,Revés,Mérida - Venezuela,23/06/1987,"1,75",Santiago de Compostela,https://www.worldpadeltour.com/jugadores/ana-alicia-seijas-cali/,05/04/2021
+82,Cristina Carrascosa Cazorla,83,362,48,28,20,"58,33",4,Lucía Pérez Parra,Drive,Madrid,26/05/2001,"1,58",Madrid,https://www.worldpadeltour.com/jugadores/cristina-carrascosa-cazorla/,05/04/2021
+83,Claudia Jensen Sirvent,84,348,0,0,0,0,4,Sandra Bellver Fructuoso,Drive,Madrid ,21/07/2005,"1,58",Madrid ,https://www.worldpadeltour.com/jugadores/claudia-jensen-sirvent/,05/04/2021
+84,Carmen Castillón Gámez,85,340,42,24,18,"57,14",4,Aitana Perez Encinas,Revés,Málaga,04/02/2002,"1,78",Málaga - España,https://www.worldpadeltour.com/jugadores/carmen-castillon-gamez/,05/04/2021
+85,Carlotta Casali Vannicelli,86,327,55,15,40,"27,27",4,Carolina Orsi Gallorini,Revés,Roma,30/01/1993,"1,70",Roma - Italia,https://www.worldpadeltour.com/jugadores/carlotta-casali-vannicelli/,05/04/2021
+86,Manuela Schuck Silva,87,318,26,12,14,"46,15",5,Laia Bonilla Torres,Revés,Porto Alegre - Bra,13/02/1998,"1,70",Barcelona,https://www.worldpadeltour.com/jugadores/manuela-schuck-silva/,05/04/2021
+87,Meli García Truchado,88,316,72,31,41,"43,06",3,Melissa Martin,Drive,Madrid,12/09/1989,"1,64",Madrid,https://www.worldpadeltour.com/jugadores/meli-garcia-truchado/,05/04/2021
+88,Aitana García Román,89,310,67,33,34,"49,25",3,Martina Fassio Goyeneche,Drive,Madrid,21/11/2000,"1,55",Córdoba - Esp,https://www.worldpadeltour.com/jugadores/aitana-garcia-roman/,05/04/2021
+89,Gala León García,90,296,14,6,8,"42,86",3,Ana Alicia Seijas Cali,Drive,Alcala de Henares,23/12/1973,1.60,Alicante,https://www.worldpadeltour.com/jugadores/gala-leon-garcia/,05/04/2021
+90,Marta Borrero Fernández De La Puente,91,281,29,12,17,"41,38",4,Carla Castillo Velarde,Revés,Sevilla,09/02/2003,"1,70 ",Sevilla,https://www.worldpadeltour.com/jugadores/marta-borrero-fernandez-de-la-puente/,05/04/2021
+91,Marta Porras Sánchez,92,265,70,31,39,"44,29",2,Andreína de Los Santos Sarasúa,Revés,Jaén,29/10/1993,"1,58",Andujar - Jaén,https://www.worldpadeltour.com/jugadores/marta-porras-sanchez/,05/04/2021
+92,Carla Tur Mari,93,257,0,0,0,0,5,Pilar Escandell Planells,Drive,Ibiza,19/06/1994,"1,55",Ibiza,https://www.worldpadeltour.com/jugadores/carla-tur-mari/,05/04/2021
+93,Pilar Escandell Planells,93,257,0,0,0,0,5,Carla Tur Mari,Revés,Ibiza,12/10/1984,1’77,Ibiza,https://www.worldpadeltour.com/jugadores/maria-del-pilar-escandell-planells/,05/04/2021
+94,Maria Navarro López - Barajas,95,240,35,14,21,40,5,Pilar Navarro López-Barajas,Revés,Las Palmas de Gran Canaria,25/06/1993,"1,64",Granada,https://www.worldpadeltour.com/jugadores/maria-navarro-lopez---barajas/,05/04/2021
+95,Carolina Orsi Gallorini,96,231,0,0,0,0,4,Carlotta Casali Vannicelli,Drive,Roma,04/07/1991,1.78,Roma,https://www.worldpadeltour.com/jugadores/carolina-orsi-gallorini/,05/04/2021
+96,Ana María Cabrejas Ruiz,97,217,44,11,33,25,2,Catarina Castro Vilela,Drive,México D.F.,06/06/1991,"1,62",Madrid,https://www.worldpadeltour.com/jugadores/ana-maria-cabrejas-ruiz/,05/04/2021
+97,Margarida Fernandes ,98,204,32,6,26,"18,75",2,Patrícia Maria Ribeiro,Revés,Lisboa,07/03/1992,"1,7",Lisboa,https://www.worldpadeltour.com/jugadores/margarida-fernandes/,05/04/2021
+98,Patrícia Maria Ribeiro ,99,196,10,4,6,40,2,Margarida Fernandes,Drive,Alcobaça,10/04/1986,"1,59",Lisboa,https://www.worldpadeltour.com/jugadores/patricia-maria-mendrico-coelho-ribeiro-mendrico-coelho-ribeiro/,05/04/2021
+99,Magdalena Pérez Marín,100,180,38,20,18,"52,63",5,Carmen Castillón Gámez,Drive,Sevilla,17/09/1999,"1,62",Jerez de la Frontera,https://www.worldpadeltour.com/jugadores/magdalena-perez-marin/,05/04/2021
+100,Jimena Velasco Postiguillo,101,174,4,1,3,25,2,Noa Canovas Paredes,Drive,Segovia,19/06/2004,"1,71",Segovia,https://www.worldpadeltour.com/jugadores/jimena-velasco-postiguillo/,05/04/2021
+101,Pilar Navarro López-Barajas,102,168,32,16,16,50,5,Maria Navarro López - Barajas,Drive,Granada,20/09/1987,"1,61",Granada,https://www.worldpadeltour.com/jugadores/pilar-navarro-lopez-barajas/,05/04/2021
+102,Lucía Pérez Parra,103,156,9,2,7,"22,22",3,Cristina Carrascosa Cazorla,Drive,Sevilla,06/03/2001,"1,60",Jerez de la Frontera,https://www.worldpadeltour.com/jugadores/lucia-perez-parra/,05/04/2021
+103,Cynthia Pérez Domenech,104,150,69,30,39,"43,48",3,Raquel Segura Aguilar,Revés,Alicante,02/07/1980,"1,78",Alicante,https://www.worldpadeltour.com/jugadores/cynthia-perez-domenech/,05/04/2021
+104,Baharak Soleymani ,105,147,10,4,6,40,2,Helena Wyckaert,Revés,Västerås,25/11/1985,1.70,Västerås,https://www.worldpadeltour.com/jugadores/baharak-soleymani/,05/04/2021
+105,Silvia López Vidal,106,142,73,30,43,"41,1",3,Chiara Pappacena Cipriani,Drive,Ferrol,27/02/1995,"1,67",Ferrol,https://www.worldpadeltour.com/jugadores/silvia-lopez-vidal/,05/04/2021
+106,Teresa Anillo Ramírez,107,139,94,40,54,"42,55",4,Nuria Vivancos Vivancos,Revés,Águilas,29/12/1990,"1,78",Murcia,https://www.worldpadeltour.com/jugadores/teresa-anillo-ramirez/,05/04/2021
+107,Marta Quevedo Alvare,108,137,41,24,17,"58,54",3,Marta Pérez Arias,Revés,Salinas - Asturias,15/09/2001,"1,67",Salinas - Asturias,https://www.worldpadeltour.com/jugadores/marta-quevedo-alvare/,05/04/2021
+108,Rafaella Masseron Laviaguerre Silva,109,136,26,9,17,"34,62",2,Lucía Rodríguez Rejón,Drive,Rio Grande - Brasil,23/10/1991,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/rafaella-masseron-laviaguerre-silva/,05/04/2021
+109,Melissa Martin ,110,126,14,4,10,"28,57",1,Martina Fassio Goyeneche,Revés,Paris,08/07/1990,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/martin-melissa/,05/04/2021
+110,Aitana Perez Encinas,111,124,0,0,0,0,2,Noa Canovas Paredes,Drive,Caceres,17/04/2004,160,Caceres,https://www.worldpadeltour.com/jugadores/aitana-perez-encinas/,05/04/2021
+111,Diana Da Silva ,112,120,20,4,16,20,2,Fiona Ligi,Drive,Nogueira,30/10/1990,"1,60",Maia,https://www.worldpadeltour.com/jugadores/diana-da-silva/,05/04/2021
+112,Marta Pérez Arias,113,112,16,4,12,25,2,Cristina Musial Navarro,Revés,Marbella - Málaga,01/12/1998,"1,67",Madrid,https://www.worldpadeltour.com/jugadores/marta-perez-arias/,05/04/2021
+113,Martina Fassio Goyeneche,113,112,0,0,0,0,3,Aitana García Román,Revés,Pamplona,26/04/2004,"1,65",Pamplona ,https://www.worldpadeltour.com/jugadores/martina-fassio-goyeneche/,05/04/2021
+114,Carla Barciela Rodríguez,115,110,88,36,52,"40,91",3,Gala León García,Revés,Vigo,13/02/1985,1.7,Vigo,https://www.worldpadeltour.com/jugadores/carla-barciela-rodriguez/,05/04/2021
+115,Lorena Vano ,116,108,4,0,4,0,1,Ana Varo Ramos,Drive,Caserta (Nápoles),15/08/1999,1'67,Málaga ,https://www.worldpadeltour.com/jugadores/lorena-vano/,05/04/2021
+116,Maria Del Mar Rodríguez Salazar,117,105,23,4,19,"17,39",2,Cristina González Moro,Revés,Cordoba ,10/05/2002,"1,67",Cordoba ,https://www.worldpadeltour.com/jugadores/maria-del-mar-rodriguez-salazar-rodriguez-salazar/,05/04/2021
+117,María Vera Mencías,118,104,37,4,33,"10,81",1,Noemí Aguilar Carrillo,Drive,Madrid,13/01/1994,"1,6",Madrid,https://www.worldpadeltour.com/jugadores/maria-vera-mencias/,05/04/2021
+118,Cristina Bala Abella,119,103,37,20,17,"54,05",5,Noa Canovas Paredes,Revés,Barcelona,30/12/1988,"1,64",Barcelona,https://www.worldpadeltour.com/jugadores/cristina-bala-abella/,05/04/2021
+119,Noelia Márquez Rite,120,98,97,32,65,"32,99",2,Marta Pérez Arias,Drive,Huelva,21/08/1987,"1,64",Madrid,https://www.worldpadeltour.com/jugadores/noelia-marquez-rite/,05/04/2021
+120,Agustina Ceretani Hegi,121,97,29,10,19,"34,48",1,Andrea Pérez Selles,Drive,"Rosario, Argentina",09/02/1993,"1,60",Castro Urdiales,https://www.worldpadeltour.com/jugadores/agustina-ceretani-hegi/,05/04/2021
+121,Mireia Herrada Ruiz,122,94,11,1,10,"9,09",3,Marina Guinart España,Revés,Sabadell - Barcelona,14/05/1997,"1,70",Sabadell - Barcelona,https://www.worldpadeltour.com/jugadores/mireia-herrada-ruiz/,05/04/2021
+122,Valentina Tommasi ,123,93,4,0,4,0,1,Emily Stellato,Revés,Roma,16/10/1995,"1,70",Roma,https://www.worldpadeltour.com/jugadores/valentina-tommasi/,05/04/2021
+123,Marina Guinart España,124,92,0,0,0,0,3,Mireia Herrada Ruiz,Drive,Sabadell,30/06/1996,1.78,Castellar del valles,https://www.worldpadeltour.com/jugadores/marina-guinart-espana/,05/04/2021
+124,Eugenia Guimet Bigas,125,89,21,9,12,"42,86",3,Lucía Pérez Parra,Revés,Barcelona,28/03/2001,"1,72",Barcelona,https://www.worldpadeltour.com/jugadores/eugenia-guimet-bigas/,05/04/2021
+125,Laura Martínez Escribano,126,85,59,23,36,"38,98",2,Aida González Vila,Revés,Jaén,23/02/1996,"1,72",Jaén,https://www.worldpadeltour.com/jugadores/laura-martinez-escribano/,05/04/2021
+126,Anouk Faure ,127,84,4,1,3,25,1,Ksenia Sharifova,Drive,Ginebra - Suiza,29/04/1988,"1,59",Valencia ,https://www.worldpadeltour.com/jugadores/anouk-faure/,05/04/2021
+127,Rebeca Lopez Lopez,127,84,11,4,7,"36,36",2,Melissa Martin,Drive,Madrid,02/11/2000,"1,50",Madrid,https://www.worldpadeltour.com/jugadores/rebeca-lopez-lopez/,05/04/2021
+128,Cristina González Moro,129,83,44,16,28,"36,36",2,Melisa Chico Echandia,Drive,Bilbao,21/05/1997,"1,60",Bilbao,https://www.worldpadeltour.com/jugadores/cristina-gonzalez-moro/,05/04/2021
+129,Emily Stellato ,130,81,0,0,0,0,2,Valentina Tommasi,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/emily-stellato/,05/04/2021
+130,Irene Arzamendi García,131,78,49,25,24,"51,02",3,Ainhoa Rico Martín,Drive,San Sebastián,01/04/1997,"1,65",San Sebastián,https://www.worldpadeltour.com/jugadores/irene-arzamendi-garcia/,05/04/2021
+131,Erika Zanchetta ,132,71,0,0,0,0,1,Valentina Tommasi,Revés,Latina,06/02/1989,165 cm,Latina,https://www.worldpadeltour.com/jugadores/erika-zanchetta/,05/04/2021
+132,Inés Muñoz Escudero,132,71,83,31,52,"37,35",2,Manuela Schuck Silva,Drive,Ponferrada,04/04/1996,"1,73",Valladolid,https://www.worldpadeltour.com/jugadores/ines-munoz-escudero/,05/04/2021
+133,Alba Lopez Blas,134,70,18,6,12,"33,33",2,Rafaella Masseron Laviaguerre Silva,Revés,Madrid,01/05/2002,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/alba-lopez-blas/,05/04/2021
+134,Katia Rodrigues ,134,70,1,0,1,0,0,Diana da Silva,Drive,Johanesburgo,30/11/1981,"1,73",Lisboa,https://www.worldpadeltour.com/jugadores/katia-rodrigues/,05/04/2021
+135,Sabela Barciela Rodríguez,134,70,77,30,47,"38,96",3,Carla Barciela Rodríguez,Drive,Vigo,13/02/1985,"1,7",Vigo,https://www.worldpadeltour.com/jugadores/sabela-barciela-rodriguez/,05/04/2021
+136,Ana Varo Ramos,137,67,3,1,2,"33,33",2,Lorena Vano,Revés,Marbella ,27/09/1999,"1,65",Malaga ,https://www.worldpadeltour.com/jugadores/ana-varo-ramos/,05/04/2021
+137,Cristina Musial Navarro,137,67,14,5,9,"35,71",2,Marta Pérez Arias,Revés,Valencia,05/01/2001,"1,77",Valencia,https://www.worldpadeltour.com/jugadores/cristina-musial-navarro/,05/04/2021
+138,Pilar Albarran Villalon,137,67,8,2,6,25,1,Rocio Albarran Villalon,Drive,Badajoz,15/01/2002,"1,70",Badajoz,https://www.worldpadeltour.com/jugadores/pilar-albarran-villalon/,05/04/2021
+139,Rocio Albarran Villalon,137,67,8,2,6,25,1,Pilar Albarran Villalon,Revés,Badajoz,08/01/2003,"1,70",Badajoz,https://www.worldpadeltour.com/jugadores/rocio-albarran-villalon/,05/04/2021
+140,Melisa Chico Echandia,141,64,4,1,3,25,1,Cristina González Moro,Revés,Necochea ,12/11/1984,"1,65 ",Madrid ,https://www.worldpadeltour.com/jugadores/melisa-chico-echandia/,05/04/2021
+141,Iris Donate Murcia,142,63,69,30,39,"43,48",2,Cristina Musial Navarro,Revés,Petrer,06/09/1993,"1,59",Petrer,https://www.worldpadeltour.com/jugadores/iris-donate-murcia/,05/04/2021
+142,Andrea Pérez Selles,144,59,9,2,7,"22,22",1,Agustina Ceretani Hegi,Revés,Alicante,13/04/2001,"1,73",Altea - España,https://www.worldpadeltour.com/jugadores/andrea-perez-selles/,05/04/2021
+143,Noa Canovas Paredes,145,58,0,0,0,0,1,Aitana Perez Encinas,Revés,Barcelona,23/04/2004,"1,63",Barcelona,https://www.worldpadeltour.com/jugadores/noa-canovas-paredes/,05/04/2021
+144,Ángela Álvarez Bengoa,146,57,83,29,54,"34,94",4,Patricia Martínez Fortún,Drive,Oviedo,05/11/1986,"1,66",Gijón,https://www.worldpadeltour.com/jugadores/angela-alvarez-bengoa/,05/04/2021
+145,Carla Pozuelo Salamanca,147,54,9,3,6,"33,33",1,Tamara Del Pino Calero,Revés,Madrid ,06/02/2002,"1,60",Madrid,https://www.worldpadeltour.com/jugadores/carla-pozuelo-salamanca/,05/04/2021
+146,Tamara Del Pino Calero,148,53,27,5,22,"18,52",2,Carla Pozuelo Salamanca,Drive,Talavera,05/02/1987,"1,65",Talavera,https://www.worldpadeltour.com/jugadores/tamara-del-pino-calero/,05/04/2021
+147,Ingrid Van Boven Campoy,149,49,49,23,26,"46,94",5,,Revés,Barcelona,24/07/1976,"1,79",Tiana,https://www.worldpadeltour.com/jugadores/ingrid-van-boven-campoy/,05/04/2021
+148,Carla Serrano González,150,48,15,0,15,0,0,María Del Carmen Gallego Castaño,Revés,Toledo,24/11/1997,"1,73 ",Madrid,https://www.worldpadeltour.com/jugadores/carla-serrano-gonzalez/,05/04/2021
+149,Aida González Vila,151,47,19,9,10,"47,37",2,María Vera Mencías,Revés,Valencia,28/06/1998,"1,77",Valencia,https://www.worldpadeltour.com/jugadores/aida-gonzalez-vila/,05/04/2021
+150,Catarina Castro Vilela ,151,47,2,0,2,0,1,Ana María Cabrejas Ruiz,Revés,Porto ,11/12/1994,"1,69",Porto ,https://www.worldpadeltour.com/jugadores/catarina-castro-vilela/,05/04/2021
+151,Ksenia Sharifova ,152,47,0,0,0,0,3,Anouk Faure,Revés,Yuzhno-Sakhalinsk,01/05/1996,177,Valencia,https://www.worldpadeltour.com/jugadores/ksenia-sharifova/,05/04/2021
+152,Juncal Aizpurua Menéndez,154,41,41,14,27,"34,15",2,Maria Del Mar Rodríguez Salazar,Revés,San Sebastián,20/07/1997,"1,75",Donostia - San Sebastián,https://www.worldpadeltour.com/jugadores/juncal-aizpurua-menendez/,05/04/2021
+153,Laurene Bérard ,386,0,0,0,0,0,0,Elodie Damiano,Revés,Marraquech - Marruecos,01/01/1991,"1,70",Fes - Marruecos,https://www.worldpadeltour.com/jugadores/laurene-berard/,05/04/2021
+154,Patricia García Calderaro,155,40,7,4,3,"57,14",2,Ana María Cabrejas Ruiz,Drive,Madrid,29/05/2000,"1,60",Madrid,https://www.worldpadeltour.com/jugadores/patricia-garcia-calderaro/,05/04/2021
+155,Sofia Arvidsson ,155,40,1,0,1,0,0,Nuria Vivancos Vivancos,Revés,,16/02/1984,,,https://www.worldpadeltour.com/jugadores/sofia-arvidsson/,05/04/2021
+156,Itziar Mayorga Eraña,158,39,4,1,3,25,1,Paula Puga Rey,Revés,Madrid,08/02/2001,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/itziar-mayorga-erana/,05/04/2021
+157,Fiona Ligi ,159,35,2,0,2,0,1,Diana da Silva,Revés,Perpignan ,27/04/1999,"1,70",Perpignan,https://www.worldpadeltour.com/jugadores/fiona-ligi/,05/04/2021
+158,Lucía Rodríguez Rejón,159,35,5,1,4,20,1,Rafaella Masseron Laviaguerre Silva,Revés,Valladolid,08/04/2004,"1,70",Valladolid,https://www.worldpadeltour.com/jugadores/lucia-rodriguez-rejon/,05/04/2021
+159,Claudia Jesica Fernández García,161,34,4,1,3,25,1,Alexandra Torralba Ladunca,Drive,Buenos Aires,23/04/1986,"1,60",Punta del Este,https://www.worldpadeltour.com/jugadores/claudia-jesica-fernandez-garcia/,05/04/2021
+160,Marta González De La Fuente,161,34,84,35,49,"41,67",3,Isabel Domínguez Munaiz,Revés,Valladolid,02/08/1988,"1,72",Valladolid,https://www.worldpadeltour.com/jugadores/marta-gonzalez-de-la-fuente/,05/04/2021
+161,Paula Letón Muñoz,163,33,29,4,25,"13,79",2,Carla Serrano González,Drive,Guadalajara,13/07/1995,"1,64",Guadalajara,https://www.worldpadeltour.com/jugadores/paula-leton-munoz/,05/04/2021
+162,Carla Castillo Velarde,164,32,10,2,8,20,1,Marta Borrero Fernández de La Puente,Revés,Madrid,26/06/1997,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/carla-castillo-velarde/,05/04/2021
+163,Almudena Tore García,165,31,12,5,7,"41,67",3,Carlotta Casali Vannicelli,Drive,Mañaga,03/11/1991,0,Malaga,https://www.worldpadeltour.com/jugadores/almudena-tore-garcia/,05/04/2021
+164,Alicia Lilian Berl ,166,30,78,33,45,"42,31",4,Celeste Paz,Drive,La Plata,28/10/1973,1.62,Madrid,https://www.worldpadeltour.com/jugadores/alicia-lilian-berl/,05/04/2021
+165,Audrey Casanova ,166,30,8,2,6,25,1,Lovera Carol Ann,Drive,Digne Les Bains,22/01/1984,"1,63",Aix en Provence,https://www.worldpadeltour.com/jugadores/audrey-casanova/,05/04/2021
+166,Lovera Carol Ann ,166,30,3,1,2,"33,33",1,Audrey Casanova,,,29/09/1973,,,https://www.worldpadeltour.com/jugadores/lovera-carol-ann/,05/04/2021
+167,Olga Pedrera Carmona,169,29,12,2,10,"16,67",1,Sandu Raluca,Revés,Sevilla,10/02/1994,"1,63",Granada,https://www.worldpadeltour.com/jugadores/olga-pedrera-carmona/,05/04/2021
+168,Pilar Santolalla Leurite,170,27,13,3,10,"23,08",1,Ana Varo Ramos,Revés,Antequera - Málaga,20/04/1994,"1,62",Antequera,https://www.worldpadeltour.com/jugadores/pilar-santolalla-leurite/,05/04/2021
+169,Leyre Baldellou Aguirre,171,26,6,3,3,50,2,Eugenia Guimet Bigas,Drive,Estella,23/10/2001,"1,72 ",Ayegui,https://www.worldpadeltour.com/jugadores/leyre-baldellou-aguirre/,05/04/2021
+170,María Cristina López Fuertes,171,26,4,0,4,0,0,Paula Letón Muñoz,Revés,Zaragoza,15/12/2000,"1,65",Zaragoza,https://www.worldpadeltour.com/jugadores/maria-cristina-lopez-fuertes/,05/04/2021
+171,Neus Garau Sastre,171,26,2,0,2,0,0,Jesica Daiana Brys,Revés,Santa Maria del cami,30/04/2004,1'65,Santa Maria del cami,https://www.worldpadeltour.com/jugadores/neus-sastre-garau/,05/04/2021
+172,Invernon Elodie ,174,25,2,1,1,50,1,Meites Line,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/invernon-elodie/,05/04/2021
+173,Lourdes Pascual Rodríguez,174,25,3,2,1,"66,67",3,Gala León García,Revés,Mérida,29/09/1985,1.54,Badajoz,https://www.worldpadeltour.com/jugadores/lourdes-pascual-rodriguez/,05/04/2021
+174,Meites Line ,174,25,2,1,1,50,1,Invernon Elodie,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/meites-line/,05/04/2021
+175,Claudia Noemi Cascella Piccolo,177,24,0,0,0,0,0,Francesca Ligotti,Revés,Barletta,28/12/1992,1.71,Barletta,https://www.worldpadeltour.com/jugadores/claudia-noemi-cascella-piccolo/,05/04/2021
+176,Carolina Petrelli Schiavini,178,24,0,0,0,0,1,Francesca Campigotto Canesso,Revés,Segrate,22/11/1988,"1,65",Milano,https://www.worldpadeltour.com/jugadores/carolina-petrelli-schiavini/,05/04/2021
+177,Laura Gomez Pando ,178,24,0,0,0,0,1,Ana Varo Ramos,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/laura-gomez-pando/,05/04/2021
+178,Paula Del Barrio Hernandez,180,23,3,1,2,"33,33",1,Itziar Mayorga Eraña,Drive,Torrelavega (Cantabria),05/03/2002,1.60,Torrelavega ,https://www.worldpadeltour.com/jugadores/paula-del-barrio-hernandez/,05/04/2021
+179,Paula Puga Rey,180,23,6,0,6,0,1,Itziar Mayorga Eraña,Revés,Madrid,15/09/2000,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/paula-puga-rey/,05/04/2021
+180,Fernanda Salazar Morales,182,21,2,0,2,0,0,Irene Gomez Martinez,Revés,Ciudad de México ,23/02/1998,168cm,Ciudad de México ,https://www.worldpadeltour.com/jugadores/fernanda-salazar-morales/,05/04/2021
+181,Francesca Campigotto Canesso,183,21,0,0,0,0,1,Carolina Petrelli Schiavini,,,17/10/1991,,,https://www.worldpadeltour.com/jugadores/francesca-campigotto-canesso/,05/04/2021
+182,Ana Paula De La Peña Rosas ,185,20,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ana-paula-de-la-pena-rosas/,05/04/2021
+183,De Kermadec Aurore ,185,19,2,1,1,50,1,Wendy Barsotti,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/de-kermadec-aurore/,05/04/2021
+184,Palma Osorio Lomeñas,185,19,1,0,1,0,1,Carlotta Casali Vannicelli,Drive,Málaga ,26/08/2003,1.75,Istán ,https://www.worldpadeltour.com/jugadores/palma-osorio-lomenas/,05/04/2021
+185,Wendy Barsotti ,185,19,2,1,1,50,1,De Kermadec Aurore,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/wendy-barsotti/,05/04/2021
+186,Sandra Enjuto Guisado,188,18,6,0,6,0,0,Irene Arzamendi García,Revés,San Sebastián/ Donostia,20/07/1997,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/sandra-enjuto-guisado/,05/04/2021
+187,Eunice Maria Rodriguez Garcia,189,18,0,0,0,0,0,Priscila Rodriguez Garcia,Revés,Sevilla,08/03/2004,"1,75",Sevilla,https://www.worldpadeltour.com/jugadores/eunice-maria-rodriguez-garcia/,05/04/2021
+188,Jesica Daiana Brys ,189,18,1,0,1,0,0,Neus Garau Sastre,Drive,Posadas (Misiones). Doble nacionalidad Argentina- Polaca,21/01/1988,1.79,Palma de Mallorca - Islas Baleares- España,https://www.worldpadeltour.com/jugadores/jesica-daiana-brys/,05/04/2021
+189,Priscila Rodriguez Garcia,189,18,0,0,0,0,0,Eunice Maria Rodriguez Garcia,Revés,Sevilla,08/03/2004,1’78,Sevilla,https://www.worldpadeltour.com/jugadores/priscila-rodriguez-garcia/,05/04/2021
+190,Esther Cespedes Lopez,192,17,2,0,2,0,0,María Negrillo Macarro,Drive,Almería ,16/11/2002,157,Granada,https://www.worldpadeltour.com/jugadores/esther-cespedes-lopez/,05/04/2021
+191,Marta Guallart Lain,192,17,7,3,4,"42,86",2,Rafaella Masseron Laviaguerre Silva,Revés,Zaragoza,07/11/1985,"1,75",Madrid ,https://www.worldpadeltour.com/jugadores/marta-guallart-lain/,05/04/2021
+192,Natalia Rodríguez Laudelino,192,17,0,0,0,0,2,Ksenia Sharifova,Drive,Buenos Aires,27/12/1982,"1,60",Valencia,https://www.worldpadeltour.com/jugadores/natalia-rodriguez-laudelino/,05/04/2021
+193,Alba Pérez Momha,195,16,59,29,30,"49,15",5,Agustina Ceretani Hegi,Revés,Málaga,18/09/1999,"1,65",MARBELLA,https://www.worldpadeltour.com/jugadores/alba-perez-momha/,05/04/2021
+194,Irene Gomez Martinez ,195,16,2,0,2,0,0,Cristina Álvarez Narros,Revés,Madrid,22/02/1995,"1,67",Madrid,https://www.worldpadeltour.com/jugadores/irene-gomez-martinez/,05/04/2021
+195,Alba Ferrer Giner,197,15,5,2,3,40,2,Marta Quevedo Alvare,Drive,Avilés,24/09/1996,"1,63",Avilés,https://www.worldpadeltour.com/jugadores/alba-ferrer-giner/,05/04/2021
+196,Francesca Ligotti ,198,15,0,0,0,0,0,Claudia Noemi Cascella Piccolo,Drive,Turin,21/02/2001,"1,69",Turin ,https://www.worldpadeltour.com/jugadores/francesca-ligotti/,05/04/2021
+197,Ainhoa Gomez Aleman,199,14,1,0,1,0,0,Paula Hoyos Miranda,Drive,Las Palmas de gran Canaria,03/08/2003,"1,57",Las Palmas de gran Canaria,https://www.worldpadeltour.com/jugadores/ainhoa-gomez-aleman/,05/04/2021
+198,Ariadna Rovira Benito,199,14,1,0,1,0,0,Fiona Ligi,Revés,Vic,02/01/1995,1'68,Vic,https://www.worldpadeltour.com/jugadores/ariadna-rovira-benito/,05/04/2021
+199,Miriam Sanchez Pastor,199,14,3,0,3,0,0,Anouk Faure,Revés,Petrer,01/07/1993,"1,71",Novelda,https://www.worldpadeltour.com/jugadores/miriam-sanchez-pastor/,05/04/2021
+200,Sara Marcos Durán,199,14,71,14,57,"19,72",2,Stefania Grosheva,Drive,Madrid,31/01/1990,"1,69",Madrid,https://www.worldpadeltour.com/jugadores/sara-marcos-duran/,05/04/2021
+201,Andrea Colinas Castro,203,13,13,6,7,"46,15",2,Silvia López Vidal,Drive,A Coruña,17/02/2001,"1,64",A Coruña,https://www.worldpadeltour.com/jugadores/andrea-colinas-castro/,05/04/2021
+202,Bárbara Soraia Coelho Ferreira ,203,13,2,0,2,0,0,Catarina Castro Vilela,Drive,Oliveira de Azeméis ,19/04/1992,"1,75",Porto,https://www.worldpadeltour.com/jugadores/barbara-soraia-coelho-ferreira/,05/04/2021
+203,Bruna Albuquerque Melo,203,13,3,0,3,0,0,Catarina Almeida,Revés,Porto,27/03/1996,"1,69",Porto,https://www.worldpadeltour.com/jugadores/bruna-albuquerque-melo/,05/04/2021
+204,Carolina Galaz Sanchez,203,13,2,1,1,50,1,Carla Pozuelo Salamanca,Drive,Alcorcon (MADRID) ,03/02/2002,"1,65",Alcorcon,https://www.worldpadeltour.com/jugadores/carolina-galaz-sanchez/,05/04/2021
+205,Catarina Almeida ,203,13,2,0,2,0,0,Bruna Albuquerque Melo,Revés,Porto,29/04/1988,"1,74",Porto,https://www.worldpadeltour.com/jugadores/catarina-almeida/,05/04/2021
+206,Helena Medeiros ,203,13,12,4,8,"33,33",2,Manuela Schuck Silva,Revés,Azores - Portugal,06/02/1984,"1,62",Azores - Portugal,https://www.worldpadeltour.com/jugadores/helena-medeiros/,05/04/2021
+207,Mari Carmen Diaz Saavedra,203,13,2,0,2,0,0,Estela Francés Fernández,Revés,Las Palmas de Gran Canaria,17/10/1984,"1,73",Las Palmas de Gran Canaria,https://www.worldpadeltour.com/jugadores/mari-carmen-diaz-saavedra/,05/04/2021
+208,Alessia La Monaca La Monaca Alessia ,210,12,0,0,0,0,0,,Revés,Milano,07/10/1986,1'80 cm,Roma,https://www.worldpadeltour.com/jugadores/alessia-la-monaca/,05/04/2021
+209,Ginier Jessica ,210,12,1,0,1,0,0,Léa Godallier,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/ginier-jessica/,05/04/2021
+210,Stefania Grosheva ,210,12,1,0,1,0,0,Sara Marcos Durán,Revés,Rostov Del Don - Rusia,06/05/1990,"1,73",Milan - Italia,https://www.worldpadeltour.com/jugadores/stefania-grosheva/,05/04/2021
+211,Bouchacourt Severine ,211,12,1,0,1,0,0,Mayorga Lorena,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/bouchacourt-severine/,05/04/2021
+212,Mayorga Lorena ,211,12,1,0,1,0,0,Bouchacourt Severine,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/mayorga-lorena/,05/04/2021
+213,Ruth Gonzalez Martinez,211,12,0,0,0,0,1,Aitana Perez Encinas,Revés,Valladolid ,15/12/2004,172 cm,Valladolid ,https://www.worldpadeltour.com/jugadores/ruth-gonzalez-martinez/,05/04/2021
+214,Fabiola Talayero Perez,217,10,1,0,1,0,0,Aranzazu Gallardo,Drive,México D.F.,28/05/1970,"1,60",Mexico D.F.,https://www.worldpadeltour.com/jugadores/fabiola-talayero-perez/,05/04/2021
+215,Irene Santos Bravo,217,10,7,4,3,"57,14",1,Lucía Pérez Parra,Revés,Madrid,16/08/1989,"1,73",Madrid,https://www.worldpadeltour.com/jugadores/irene-santos-bravo/,05/04/2021
+216,Laura Del Castillo Cadena,217,10,10,2,8,20,2,Tamara Del Pino Calero,Revés,Madrid,25/10/2000,"1,75",Vilassar de Mar,https://www.worldpadeltour.com/jugadores/laura-del-castillo-cadena/,05/04/2021
+217,Martina Lombardi ,217,11,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martina-lombardi/,05/04/2021
+218,Milena Rojas Moreno,217,10,9,2,7,"22,22",1,Margarida Fernandes,Drive,Barcelona,08/07/2002,"1,67",Barcelona,https://www.worldpadeltour.com/jugadores/milena-rojas-moreno/,05/04/2021
+219,Nuria Rivas Vázquez,217,10,44,21,23,"47,73",2,Isabel Domínguez Munaiz,Drive,Barcelona,27/01/1981,"1,66",Barcelona,https://www.worldpadeltour.com/jugadores/nuria-rivas-vazquez/,05/04/2021
+220,Alessia Alessia La Monaca,218,10,0,0,0,0,0,Sara Sara D'Ambrogio,,,07/10/1986,,,https://www.worldpadeltour.com/jugadores/alessia-alessia-la-monaca/,05/04/2021
+221,Camila Ramme Coellar ,218,10,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/camila-ramme-coellar/,05/04/2021
+222,Rebeca Molero Lorenzo,218,10,0,0,0,0,0,Micaela Camila Dominguez Viglianchino,Revés,Madrid,31/01/1994,"1,62",Menorca,https://www.worldpadeltour.com/jugadores/rebeca-molero-lorenzo/,05/04/2021
+223,Sara Sara D'Ambrogio,218,10,0,0,0,0,0,Alessia Alessia La Monaca,,,07/12/1983,,,https://www.worldpadeltour.com/jugadores/sara-sara-dambrogio/,05/04/2021
+224,Milou Ettekoven ,226,9,1,0,1,0,0,Marcella Koek,Drive,Utrecht ,14/06/1997,1.63,Houten ,https://www.worldpadeltour.com/jugadores/milou-ettekoven/,05/04/2021
+225,Noemí Aguilar Carrillo ,227,9,0,0,0,0,0,María Vera Mencías,Revés,Madrid,09/08/2006,"1,62",Toledo,https://www.worldpadeltour.com/jugadores/noemi-aguilar-carrillo/,05/04/2021
+226,Adriana Barrena Viota,386,0,12,7,5,"58,33",2,Maider Juanikorena Etxeberria,Revés,Vitoria,17/07/1991,"1,62",Bilbao,https://www.worldpadeltour.com/jugadores/adriana-barrena-viota/,05/04/2021
+227,Bárbara Ribeiro Ribeiro,228,8,1,0,1,0,0,Joana Brites Brites,Drive,Cascais,25/07/1993,167,Cascais,https://www.worldpadeltour.com/jugadores/barbara-ribeiro-ribeiro/,05/04/2021
+228,Carla Martín Avilés,228,8,33,9,24,"27,27",3,Rebeca Lopez Lopez,Revés,Madrid,01/12/1992,"1,60",Madrid,https://www.worldpadeltour.com/jugadores/carla-martin-aviles/,05/04/2021
+229,Joana Brites Brites,228,8,1,0,1,0,0,Bárbara Ribeiro Ribeiro,,,18/06/1997,,,https://www.worldpadeltour.com/jugadores/joana-brites-brites/,05/04/2021
+230,Lara Tena Fusalba,228,8,28,16,12,"57,14",5,Sandra Bellver Fructuoso,Drive,Barcelona,05/08/1988,"1,67",Barcelona,https://www.worldpadeltour.com/jugadores/lara-tena-fusalba/,05/04/2021
+231,Laura Fraile Moreno,228,8,8,1,7,"12,5",1,Monica Gomez Rivas,Drive,Madrid,14/04/1988,"1,69",Madrid,https://www.worldpadeltour.com/jugadores/laura-fraile-moreno/,05/04/2021
+232,María Blázquez Mota,228,8,57,17,40,"29,82",2,Iris Donate Murcia,Drive,Águilas - Murcia,04/02/1992,"1,59",MADRID,https://www.worldpadeltour.com/jugadores/maria-blazquez-mota/,05/04/2021
+233,María Victoria Ramírez García,228,8,7,0,7,0,0,Maria Del Mar Rodríguez Salazar,Drive,Córdoba - Esp,27/09/1998,"1,62",Baena - Córdoba,https://www.worldpadeltour.com/jugadores/m-victoria-ramirez-garcia/,05/04/2021
+234,Martina Lombardi Sebastiani,228,8,2,0,2,0,0,Valentina Tommasi,Drive,Roma,01/08/1993,"1,75",Guidonia Montecelio - Roma,https://www.worldpadeltour.com/jugadores/martina-lombardi-sebastiani/,05/04/2021
+235,Nerea Fuente Eslava,228,8,4,1,3,25,1,Alba Lopez Blas,Drive,Pamplona,24/10/2002,"1,69",Pamplona,https://www.worldpadeltour.com/jugadores/nerea-fuente-eslava/,05/04/2021
+236,Noelia Soledad López Oviedo,228,8,3,1,2,"33,33",1,Jesica Daiana Brys,Drive,Chaco - Arg,29/07/1978,"1,60",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/noelia-soledad-lopez/,05/04/2021
+237,Nuria Cobo Gómez ,228,8,4,1,3,25,1,Pilar Santolalla Leurite,Drive,Granada,29/03/1996,"1,72",Jaén ,https://www.worldpadeltour.com/jugadores/nuria-cobo-gomez/,05/04/2021
+238,Paula Hoyos Miranda ,228,8,1,0,1,0,0,Ainhoa Gomez Aleman,Revés,Santa Cruz de Tenerife,20/06/2002,160,Santa Cruz de Tenerife,https://www.worldpadeltour.com/jugadores/paula-hoyos-miranda/,05/04/2021
+239,Sandu Raluca ,228,8,1,0,1,0,0,Olga Pedrera Carmona,Revés,Bucharest,03/02/1980,176,MONACO ,https://www.worldpadeltour.com/jugadores/sandu-raluca/,05/04/2021
+240,Sonia Marco Zugasti,228,8,1,0,1,0,0,Diana da Silva,Revés,Estella-Lizarra ,19/04/2001,"1,67",Ayegui ,https://www.worldpadeltour.com/jugadores/sonia-marco-zugasti/,05/04/2021
+241,Tamara Aranda Núñez ,228,8,2,1,1,50,1,,Revés,Vigo,23/04/1978,"1,65",Vigo,https://www.worldpadeltour.com/jugadores/tamara-aranda-nunez/,05/04/2021
+242,Vilma Macheda ,228,8,1,0,1,0,0,Itziar Mayorga Eraña,Drive,Perù,20/06/1986,1.60,Torino,https://www.worldpadeltour.com/jugadores/vilma-macheda/,05/04/2021
+243,Yera Campos Molina,228,8,2,1,1,50,1,Adriana Barrena Viota,Revés,Getxo,05/06/1990,164,Getxo,https://www.worldpadeltour.com/jugadores/yera-campos-molina/,05/04/2021
+244,Adriana Elcoroiribe Baqué,229,8,0,0,0,0,0,Alba Perez Corral,Revés,España,14/05/1998,178,Malaga ,https://www.worldpadeltour.com/jugadores/adriana-elcoroiribe-baque/,05/04/2021
+245,Alba Perez Corral ,229,8,0,0,0,0,0,Adriana Elcoroiribe Baqué,Drive,ponferrada ,14/01/2003,"1,61",málaga ,https://www.worldpadeltour.com/jugadores/alba-perez-corral/,05/04/2021
+246,Alexandra Torralba Ladunca ,229,8,0,0,0,0,0,Claudia Jesica Fernández García,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alexandra-torralba-ladunca/,05/04/2021
+247,María Del Carmen Gallego Castaño ,229,8,0,0,0,0,0,Carla Serrano González,Revés,Valdepeñas,06/10/2002,1’75,Valdepeñas,https://www.worldpadeltour.com/jugadores/maria-del-carmen-gallego-castano/,05/04/2021
+248,Marina Garcia Jimenez,229,8,1,0,1,0,0,Olga Pedrera Carmona,Drive,Granada,12/10/1998,"1,60",Granada ,https://www.worldpadeltour.com/jugadores/marina-garcia-jimenez/,05/04/2021
+249,Martina Pugliesi ,251,7,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martina-pugliesi/,05/04/2021
+250,Lucia Garcia Trella,252,7,0,0,0,0,0,Marta Barrera de La Fuente,Drive,Malaga ,16/05/2004,1.69,Malaga,https://www.worldpadeltour.com/jugadores/lucia-garcia-trella/,05/04/2021
+251,Marta Barrera De La Fuente ,252,7,0,0,0,0,0,Lucia Garcia Trella,Revés,Cádiz,05/10/2004,"1,69",Jerez de la Frontera,https://www.worldpadeltour.com/jugadores/marta-barrera-de-la-fuente/,05/04/2021
+252,Valeria Atencia Basilio,252,7,0,0,0,0,0,Beatriz Sanchez Garcia,,,04/04/2004,,,https://www.worldpadeltour.com/jugadores/valeria-atencia-basilio/,05/04/2021
+253,Clara Teresa Siverio Trujillo,255,6,85,31,54,"36,47",2,Valerie Artiles Torres,Drive,Tenerife,13/11/1988,"1,63",Tenerife,https://www.worldpadeltour.com/jugadores/clara-teresa-siverio/,05/04/2021
+254,Sara D'Ambrogio ,255,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/sara-dambrogio/,05/04/2021
+255,Lydia Silvan Ramiro ,256,6,0,0,0,0,0,,Drive,Madrid,09/09/2004,161,Madrid,https://www.worldpadeltour.com/jugadores/lydia-silvan-ramiro/,05/04/2021
+256,Natalia Gonzalez Quintero ,256,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/natalia-gonzalez-quintero/,05/04/2021
+257,Esther Butcher Martin ,258,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/esther-butcher-martin/,05/04/2021
+258,Biljana Billie Gajic ,259,5,4,0,4,0,0,Antonette Andersson,Revés,"Norrkoping, Sweden.",28/10/1986,"1,78",Malmoe,https://www.worldpadeltour.com/jugadores/biljana-billie-gajic/,05/04/2021
+259,Coral Álvarez Castro,259,5,1,0,1,0,0,Cristina González Moro,Revés,Gijón,10/02/1993,1'70,Gijón,https://www.worldpadeltour.com/jugadores/coral-alvarez-castro/,05/04/2021
+260,Cristina Álvarez Narros ,259,5,1,0,1,0,0,Irene Gomez Martinez,Drive,Madrid,08/09/1998,"1,7",Alcalá de Henares,https://www.worldpadeltour.com/jugadores/cristina-alvarez-narros/,05/04/2021
+261,Emmie Ekdahl ,259,5,1,0,1,0,0,Lucía Pérez Parra,,,18/06/1990,,,https://www.worldpadeltour.com/jugadores/emmie-ekdahl/,05/04/2021
+262,Helga García Ortuño,259,5,18,6,12,"33,33",1,Paula Puga Rey,Drive,Almuñecar - Granada,10/08/1999,"1,62",Almuñecar - Granada,https://www.worldpadeltour.com/jugadores/helga-garcia-ortuno/,05/04/2021
+263,Idoia Martín Egaña,259,5,73,34,39,"46,58",3,Biljana Billie Gajic,Drive,Alicante,04/10/1989,"1,7",Alicante,https://www.worldpadeltour.com/jugadores/idoia-martin-egana/,05/04/2021
+264,Macarena Caballero Sancho,259,5,28,11,17,"39,29",2,Marta Pérez Arias,Drive,Córdoba,18/08/1999,"1,75",Córdoba,https://www.worldpadeltour.com/jugadores/macarena-caballero-sancho/,05/04/2021
+265,Marcella Koek ,259,5,1,0,1,0,0,Milou Ettekoven,,,27/05/1988,,,https://www.worldpadeltour.com/jugadores/marcella-koek/,05/04/2021
+266,Miriam Lorente Tortosa,259,5,11,4,7,"36,36",1,Teresa Anillo Ramírez,Drive,Murcia,01/09/2000,"1,60",Murcia,https://www.worldpadeltour.com/jugadores/miriam-lorente-tortosa/,05/04/2021
+267,Patricia Mowbray Morales,259,5,36,18,18,50,4,Noelia Márquez Rite,Revés,Málaga,02/03/1982,"1,70",Málaga,https://www.worldpadeltour.com/jugadores/patricia-mowbray-morales/,05/04/2021
+268,Abigail Micaela Zabala ,260,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/abigail-micaela-zabala/,05/04/2021
+269,Beatriz Sanchez Garcia,260,5,0,0,0,0,0,Valeria Atencia Basilio,Revés,Sevilla,05/04/2004,1’70,Sevilla,https://www.worldpadeltour.com/jugadores/beatriz-sanchez-garcia/,05/04/2021
+270,María Negrillo Macarro,260,5,1,0,1,0,0,Esther Cespedes Lopez,Revés,Sevilla,24/02/1996,"1,62",Sevilla,https://www.worldpadeltour.com/jugadores/maria-negrillo-macarro/,05/04/2021
+271,Melina Bois ,260,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/melina-bois/,05/04/2021
+272,Micaela Camila Dominguez Viglianchino,260,5,0,0,0,0,0,Rebeca Molero Lorenzo,,,29/11/1989,,,https://www.worldpadeltour.com/jugadores/micaela-camila-dominguez-viglianchino/,05/04/2021
+273,Moira Bastida Godoy ,260,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/moira-bastida-godoy/,05/04/2021
+274,Paola Pintor ,260,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paola-pintor/,05/04/2021
+275,Rocio Gayo Milla,260,5,1,0,1,0,0,Paula Puga Rey,Drive,Madrid,13/10/1999,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/rocio-gayo-milla/,05/04/2021
+276,Claudia Del Coso Iglesias ,277,4,0,0,0,0,0,,,,28/09/2003,,,https://www.worldpadeltour.com/jugadores/claudia-del-coso-iglesias/,05/04/2021
+277,Egle Petrauskaite ,277,4,1,0,1,0,0,Anouk Faure,Revés,Vilnius - Lituania,21/05/1985,"1,70",Miami - USA,https://www.worldpadeltour.com/jugadores/egle-petrauskaite/,05/04/2021
+278,Silvana Campus ,277,4,28,19,9,"67,86",3,Delfina Brea Senesi,Revés,Buenos Aires,07/09/1979,1.6,Buenos Aires,https://www.worldpadeltour.com/jugadores/silvana-campus/,05/04/2021
+279,Aroa Segura Alcover,278,4,0,0,0,0,0,,Drive,Guadassuar,20/06/2002,"1,57",Guadassuar,https://www.worldpadeltour.com/jugadores/aroa-segura-alcover/,05/04/2021
+280,Jessica Leticia Morales Escurra ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jessica-leticia-morales-escurra/,05/04/2021
+281,Loren Raquel Riquelme Kostianovsky ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/loren-raquel-riquelme-kostianovsky/,05/04/2021
+282,Mafalda Fernandes ,278,4,0,0,0,0,0,,Revés,Lisboa,15/03/2001,167,Lisboa,https://www.worldpadeltour.com/jugadores/mafalda-cruz-patrao-marques-fernandes/,05/04/2021
+283,Mariana Talarico ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mariana-talarico/,05/04/2021
+284,Nancy Dingwall ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nancy-dingwall/,05/04/2021
+285,Paloma Cortina ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paloma-cortina/,05/04/2021
+286,Paola Valeria Armestro ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paola-valeria-armestro/,05/04/2021
+287,Tess Van Dinteren ,278,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/tess-van-dinteren/,05/04/2021
+288,Benedetta Sobrero ,289,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/benedetta-sobrero/,05/04/2021
+289,Candela Escobar Martínez,289,3,9,5,4,"55,56",1,Pilar Santolalla Leurite,Drive,Málaga,10/11/1987,"1,61",Málaga,https://www.worldpadeltour.com/jugadores/candela-escobar-martinez/,05/04/2021
+290,Manuela Savini ,289,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/manuela-savini/,05/04/2021
+291,Martina Camorani ,289,3,6,2,4,"33,33",2,Giulia Sussarello,Revés,Bologna - Italia,02/09/1978,"1,75",Bologna - Italia,https://www.worldpadeltour.com/jugadores/martina-camorani/,05/04/2021
+292,Patricia Amador Fleitas,289,3,1,0,1,0,0,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/patricia-amador-fleitas/,05/04/2021
+293,Valerie Artiles Torres,289,3,10,0,10,0,0,María Victoria Ramírez García,Drive,Las Palmas,11/06/2002,"1,58",Las Palmas,https://www.worldpadeltour.com/jugadores/valerie-artiles-torres/,05/04/2021
+294,Arianna Sanna ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/arianna-sanna/,05/04/2021
+295,Barbara Cravero ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/barbara-cravero/,05/04/2021
+296,Dacil Romero Garcia ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/dacil-romero-garcia/,05/04/2021
+297,Elena Falqui ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/elena-falqui/,05/04/2021
+298,Francesca Piu ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/francesca-piu/,05/04/2021
+299,Gara Santana Gazol ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/gara-santana-gazol/,05/04/2021
+300,Georgina Coriasso Esquiliano ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/georgina-coriasso-esquiliano/,05/04/2021
+301,Giulia Coletti ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/giulia-coletti/,05/04/2021
+302,Giulia Solinas ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/giulia-solinas/,05/04/2021
+303,Greta Kerezaite ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/greta-kerezaite/,05/04/2021
+304,Ilaria Pibiri ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ilaria-pibiri/,05/04/2021
+305,Kory Gonzalez Canul ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/kory-gonzalez-canul/,05/04/2021
+306,Laura Abad ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/laura-abad/,05/04/2021
+307,Laura Albertí ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/laura-alberti/,05/04/2021
+308,Ana Cristina Gonzalez Dorantes ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ana-cristina-gonzalez-dorantes/,05/04/2021
+309,Edurne Fernandez Lopez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/edurne-fernandez-lopez/,05/04/2021
+310,Serena Moltoni ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/serena-moltoni/,05/04/2021
+311,Susana Carolina Chavez Cuadra ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/susana-carolina-chavez-cuadra/,05/04/2021
+312,Julia Herrero Gonzalez ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/julia-herrero-gonzalez/,05/04/2021
+313,Alba Tejera Dominguez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alba-tejera-dominguez/,05/04/2021
+314,Mara Buovolo Armodei ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mara-buovolo-armodei/,05/04/2021
+315,Valentina Terio ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/valentina-terio/,05/04/2021
+316,Giada Balzano ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/giada-balzano/,05/04/2021
+317,Maria Sara Cabrera Sanchez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-sara-cabrera-sanchez/,05/04/2021
+318,Chiara Sangiorgio ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/chiara-sangiorgio/,05/04/2021
+319,Ana Blanco Machado ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ana-blanco-machado/,05/04/2021
+320,Maria Del Pilar Lopez Padron ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-del-pilar-lopez-padron/,05/04/2021
+321,Maria Nicoletta Marini ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-nicoletta-marini/,05/04/2021
+322,Noemi Ollero Ramírez,325,2,1,0,1,0,0,Margarita Bonete Cayuelas,Drive,Castellón,08/10/1988,"1,70",Castellón,https://www.worldpadeltour.com/jugadores/noemi-ollero-ramirez/,05/04/2021
+323,Ines Contreras Labat ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ines-contreras-labat/,05/04/2021
+324,Giorgia Balzano ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/giorgia-balzano/,05/04/2021
+325,Maria Teresa Squeo ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-teresa-squeo/,05/04/2021
+326,Maria Lucia Venneri ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-lucia-venneri/,05/04/2021
+327,Patricia Fernandez Ramirez ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/patricia-fernandez-ramirez/,05/04/2021
+328,Lucia Rodriguez Ramiro ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lucia-rodriguez-ramiro/,05/04/2021
+329,Lourdes Alejandra Rivera Ugalde ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lourdes-alejandra-rivera-ugalde/,05/04/2021
+330,Nayra Armas González,325,2,2,0,2,0,0,Clara Teresa Siverio Trujillo,Drive,Arrecife - Lanzarote,19/02/1979,"1,74",Arrecife - Lanzarote,https://www.worldpadeltour.com/jugadores/nayra-armas-gonzalez/,05/04/2021
+331,Maria Eulalia Rodriguez Abajo ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-eulalia-rodriguez-abajo/,05/04/2021
+332,Maria Portillo Perez ,325,2,1,0,1,0,0,Carla Martín Avilés,,,29/03/2001,,,https://www.worldpadeltour.com/jugadores/maria-portillo-perez/,05/04/2021
+333,Johanna Hommy Falcon Manrique ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/johanna-hommy-falcon-manrique/,05/04/2021
+334,Elena Barrera Perez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/elena-barrera-perez/,05/04/2021
+335,Maria Lara Afonso Garcia ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-lara-afonso-garcia/,05/04/2021
+336,Lucia Micaela Fernandez Lopez ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lucia-micaela-fernandez-lopez/,05/04/2021
+337,Melissa Gasca Cardiani ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/melissa-gasca-cardiani/,05/04/2021
+338,Leyre Garner Ovejero ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/leyre-garner-ovejero/,05/04/2021
+339,Paula Caballero Pastor ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paula-caballero-pastor/,05/04/2021
+340,Alicia Romero García,386,0,4,1,3,25,1,Ana Belén Nieto González,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/alicia-romero-garcia/,05/04/2021
+341,Michelle Del Pino Perez Garcia ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/michelle-del-pino-perez-garcia/,05/04/2021
+342,Rocio Del Carmen Lopez Cruz ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/rocio-del-carmen-lopez-cruz/,05/04/2021
+343,Mª Teresa De La Mata Orallo ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/m-teresa-de-la-mata-orallo/,05/04/2021
+344,Irene García Romero,339,2,0,0,0,0,0,,,,15/09/2001,,,https://www.worldpadeltour.com/jugadores/irene-garcia-romero/,05/04/2021
+345,Victoria Cabrera Goterris ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/victoria-cabrera-goterris/,05/04/2021
+346,Ainhoa Sanchez Vigueras ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ainhoa-sanchez-vigueras/,05/04/2021
+347,Paula Besteiro Trapero ,290,3,0,0,0,0,0,,,,21/03/2002,,,https://www.worldpadeltour.com/jugadores/paula-besteiro-trapero/,05/04/2021
+348,Pamela Pino Gamboa ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pamela-pino-gamboa/,05/04/2021
+349,Paula Garcia Negrin ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paula-garcia-negrin/,05/04/2021
+350,Patricia Araus Lopez ,327,2,,,,,,,,,23/01/2005,,,https://www.worldpadeltour.com/jugadores/patricia-araus-lopez/,05/04/2021
+351,Ruta Balayte ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ruta-balayte/,05/04/2021
+352,Noelia Gomez Santana ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/noelia-gomez-santana/,05/04/2021
+353,Cristina Francesca Carta ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/cristina-francesca-carta/,05/04/2021
+354,Nuria Barges ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nuria-barges/,05/04/2021
+355,Maria Alejandra Correa Cervera ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-alejandra-correa-cervera/,05/04/2021
+356,Candela Lucendo Millan ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/candela-lucendo-millan/,05/04/2021
+357,Raquel Fernandez Tavio ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/raquel-fernandez-tavio/,05/04/2021
+358,Saray Jimenez Alcazar ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/saray-jimenez-alcazar/,05/04/2021
+359,Cosima Ludovico ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/cosima-ludovico/,05/04/2021
+360,Judit Gallén Arimont,325,2,0,0,0,0,0,,,,19/05/1999,,,https://www.worldpadeltour.com/jugadores/judit-gallen-arimont/,05/04/2021
+361,Paula Garcia Rodriguez ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/paula-garcia-rodriguez/,05/04/2021
+362,Sandra Jimenez Llorente ,339,2,0,0,0,0,0,Paula Albiñana Moscardó,Revés,Madrid,21/07/1983,"1,73",Almansa,https://www.worldpadeltour.com/jugadores/sandra-jimenez-llorente/,05/04/2021
+363,Carmela Teresa Calvo Domingo ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/carmela-teresa-calvo-domingo/,05/04/2021
+364,Aitana Manzanares Oton ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/aitana-manzanares-oton/,05/04/2021
+365,Hanna Maddock Gamez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/hanna-maddock-gamez/,05/04/2021
+366,Mariela Gutierrez Peraza ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mariela-gutierrez-peraza/,05/04/2021
+367,Carla Fito Fernandez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/carla-fito-fernandez/,05/04/2021
+368,Floriana Marangi ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/floriana-marangi/,05/04/2021
+369,Lucia Cortimiglia ,369,1,0,0,0,0,0,,Drive,"Aosta, Italia ",16/08/1995,163cm,"Genova, Italia ",https://www.worldpadeltour.com/jugadores/lucia-cortimiglia/,05/04/2021
+370,Monica Grosso ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/monica-grosso/,05/04/2021
+371,Pilar Lopez Valverde ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pilar-lopez-valverde/,05/04/2021
+372,Charlotte Maillard ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/charlotte-maillard/,05/04/2021
+373,Mayte Alonso Hernandez ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mayte-alonso-hernandez/,05/04/2021
+374,Carlotta Colombo ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/carlotta-colombo/,05/04/2021
+375,Angela Alessi ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/angela-alessi/,05/04/2021
+376,Patricia Jaoyce Porter Saunderson ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/patricia-jaoyce-porter-saunderson/,05/04/2021
+377,Ana Galache Ruiz ,327,2,,,,,,,,,29/08/2003,,,https://www.worldpadeltour.com/jugadores/ana-galache-ruiz/,05/04/2021
+378,Patrizia Mirtillo ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/patrizia-mirtillo/,05/04/2021
+379,Natalia Sanz Garcia ,327,2,0,0,0,0,0,,Drive,Madrid ,29/03/2003,1.73,Torrejón de Ardoz ,https://www.worldpadeltour.com/jugadores/natalia-sanz-garcia/,05/04/2021
+380,Lucia Di Ghionno ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lucia-di-ghionno/,05/04/2021
+381,Marianna Leo ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marianna-leo/,05/04/2021
+382,Cristina Trigo Castro ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/cristina-trigo-castro/,05/04/2021
+383,Nerea Del Pino Guerra Santana ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nerea-del-pino-guerra-santana/,05/04/2021
+384,Barbara Mingotes Crespo ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/barbara-mingotes-crespo/,05/04/2021
+385,Viria Porcelli ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/viria-porcelli/,05/04/2021
+386,Alessia Biodo ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alessia-biodo/,05/04/2021
+387,Sara Fuentes Brun,339,2,0,0,0,0,0,,Drive,Zaragoza,29/06/1993,"1,62",L’Hospitalet de l’Infant,https://www.worldpadeltour.com/jugadores/sara-fuentes-brun/,05/04/2021
+388,Lidon Gallego Bagan ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lidon-gallego-bagan/,05/04/2021
+389,Anna Saroglia ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/anna-saroglia/,05/04/2021
+390,Laura Quintana Medina ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/laura-quintana-medina/,05/04/2021
+391,Selena Victoria Vazquez Amador ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/selena-victoria-vazquez-amador/,05/04/2021
+392,Mayra Edith Cancino Argueta ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mayra-edith-cancino-argueta/,05/04/2021
+393,Elvira Aurora Camacho Marente ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/elvira-aurora-camacho-marente/,05/04/2021
+394,Marta Buitrago Moreno ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marta-buitrago-moreno/,05/04/2021
+395,Irene Molina Iborra ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/irene-molina-iborra/,05/04/2021
+396,Isabel Rapisarda Calvo ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/isabel-rapisarda-calvo/,05/04/2021
+397,Raquel Jimenez Perera ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/raquel-jimenez-perera/,05/04/2021
+398,Alicia Alegre Masnou ,327,2,0,0,0,0,0,,Revés,Madrid ,02/12/2000,1.67,Madrid ,https://www.worldpadeltour.com/jugadores/alicia-alegre-masnou/,05/04/2021
+399,Anabel Afonso Garcia ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/anabel-afonso-garcia/,05/04/2021
+400,Miriam Griselda Carmen Chavez Muzquiz ,290,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/miriam-griselda-carmen-chavez-muzquiz/,05/04/2021
+401,Lucia Arruti Mendiluce ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lucia-arruti-mendiluce/,05/04/2021
+402,Vanessa Munguia ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/vanessa-munguia/,05/04/2021
+403,Sabrina Mendez Dominguez ,290,3,0,0,0,0,0,,,,05/06/1988,,,https://www.worldpadeltour.com/jugadores/ibai-llanos-garatea/,05/04/2021
+404,Maria Del Carmen Tamayo Espinar ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-del-carmen-tamayo-espinar/,05/04/2021
+405,Monica Moreno Vilchis ,371,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/monica-moreno-vilchis/,05/04/2021
+406,Isabel Gonell Monfort ,339,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/isabel-gonell-monfort/,05/04/2021
+407,Claudia Bonet Garcia ,339,2,0,0,0,0,0,,,,25/06/2003,,,https://www.worldpadeltour.com/jugadores/claudia-bonet-garcia/,05/04/2021
+408,Maria Del Mar Auyanet Suarez ,327,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/maria-del-mar-auyanet-suarez/,05/04/2021
+409,Laura Bianchini ,297,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/laura-bianchini/,05/04/2021
