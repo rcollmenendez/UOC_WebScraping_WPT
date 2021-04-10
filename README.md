@@ -1,4 +1,4 @@
-# Wiki - UOC_WebScraping - WPT
+# UOC_WebScraping - WPT
 
 - Estudios: Máster universitario de Ciencia de Datos de la UOC
 - Asignatura: (M2.851) Tipología y ciclo de vida de los datos - Aula 3
@@ -6,21 +6,21 @@
 - Estudiante: Rubén Coll Menéndez
 
 ### Descripción
+Actividad de "web scraping" en la que se ha creado un script en Python para la descarga de información de los casi 1.000 jugadores que forman parte del ranking WPT desde la página oficial (https://www.worldpadeltour.com/).
 
-
+Para más información veáse el documento "InformeFinal.pdf" que se encuentra en la rama principal de este repositorio.
 
 ### Miembros
 
-Esta práctica ha sido realizada de manera individual por el estudiante Ruben Coll Menéndez
+Esta práctica ha sido realizada de manera individual por el estudiante Ruben Coll Menéndez.
 
 ### Ficheros
 
-A continuación se detallan los ficheros que se pueden encontrar en github y el contenido
-de cada uno de ellos:
+A continuación se detallan los ficheros que se pueden encontrar en github y el contenido de cada uno de ellos:
 
-- Código/WPT_WebScraper: Código python utilizado para el escaneo de la página de WPT
-- PDF: Respuestas a las preguntas planteadas por la UOC para esta práctica
-- WPT_players_info: Fichero ".csv" con el dataset extraído del escaneo
+- Código/WPT_PlayersRanking.py: Código python utilizado para el escaneo y descarga de la página de WPT.
+- InformeFinal.pdf: Respuestas a las preguntas planteadas por la UOC para esta práctica.
+- Datasets: Contiene los dos datasets resultantes del escaneo en formato ".csv" ("wpt_ranking_masculino.csv", "wpt_ranking_femenino.csv").
 
 ### Recursos
 
