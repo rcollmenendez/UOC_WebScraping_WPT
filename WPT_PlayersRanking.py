@@ -14,7 +14,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
 import random
-
+import sys
 
 # -------------------------------
 # Inicio
@@ -23,8 +23,9 @@ import random
 # Cargar la página con scroll infinito
 driver = webdriver.Chrome(executable_path='C:/Users/RCOLL/Downloads/chromedriver_win32/chromedriver.exe')
 driver.delete_all_cookies()
-driver.get('https://www.worldpadeltour.com/jugadores?ranking=masculino') # Descargar ranking masculino
-# driver.get("https://www.worldpadeltour.com/jugadores?ranking=femenino") # Descargar ranking femenino
+
+# driver.get('https://www.worldpadeltour.com/jugadores?ranking=masculino') # Descargar ranking masculino
+driver.get("https://www.worldpadeltour.com/jugadores?ranking=femenino") # Descargar ranking femenino
 
 time.sleep(2)
 scroll_pause_time = 2
@@ -39,7 +40,7 @@ while True:
         break
 
 # -------------------------------
-# Extracción URLs de cada jugador
+# Paso 1: Extracción URLs de cada jugador
 # -------------------------------
 
 '''
@@ -60,14 +61,17 @@ for element in soup.find_all('li', {'class': 'c-player-card__item'}):
 # Fecha de actualización del ranking
 reference_date = soup.find_all('div', {'class': 'c-form__group'})[0].find('p').text
 
-# Comprobamos que se han cargado las URLs en la lista
-len(urls)
+# CONTROL: Comprobamos que se han cargado las URLs en la lista
+if len(urls) == 0:
+    sys.exit('URLs no descargadas. Revisar Paso 1')
+else:
+    print('Paso 1 completado. URLs descargadas')
 
 # Limpiamos las variables que ya no vamos a necesitar
 del soup
 
 # -------------------------------
-# Extracción información de cada jugador
+# Paso 2: Extracción información de cada jugador
 # -------------------------------
 
 '''
@@ -97,7 +101,7 @@ player_dict = {'nombre': [],
 scanned_urls = []
 
 # Loop para la extracción de la información de cada URL de cada jugador
-for url in urls[0:100]:
+for url in urls:
     scanned_urls.append(url)
     # Abrir URL de cada jugador
     driver = webdriver.Chrome(executable_path='C:/Users/RCOLL/Downloads/chromedriver_win32/chromedriver.exe')
@@ -140,27 +144,24 @@ for url in urls[0:100]:
     player_dict['altura'].append(info_personal[4])
     player_dict['lugar_residencia'].append(info_personal[5])
     # Añadimos cierta variabilidad en la ejecución para evitar que nos bloqueen
-    seg = random.randrange(1, 4, 1)
-    time.sleep(seg)
+    pausa = random.randrange(1, 4, 1)
+    time.sleep(pausa)
 
-print(player_dict)
-
-# Creación lista con el resto de URLs no recorridas
-len(urls)
-len(scanned_urls)
+# Creación lista con el resto de URLs no recorridas por si falla
+# la descarga de información
+if len(urls) > len(scanned_urls):
+    urls = list(set(urls) - set(scanned_urls))
 
 # -------------------------------
-# Creación de un df con la información extraída
+# Paso 3: Creación de un df con la información extraída
 # -------------------------------
 
-# Diccionario a pandas df
 df = pd.DataFrame(player_dict)
 df.head(5)
 
 # -------------------------------
-# Generamos el fichero .csv con el dataset
+# Paso 4: Generamos el fichero .csv con el dataset
 # -------------------------------
 
-df.to_csv('C:/Users/RCOLL/Downloads/wpt_ranking_masculino.csv')
-# df.to_csv('C:/Users/RCOLL/Downloads/wpt_ranking_femenino.csv') # ranking femenino
-
+# df.to_csv('C:/Users/RCOLL/Downloads/wpt_ranking_masculino.csv')
+df.to_csv('C:/Users/RCOLL/Downloads/wpt_ranking_femenino.csv') # ranking femenino
