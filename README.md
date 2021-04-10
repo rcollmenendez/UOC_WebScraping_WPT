@@ -8,6 +8,10 @@
 ### Descripción
 Actividad de "web scraping" en la que se ha creado un script en Python para la descarga de información de los casi 1.000 jugadores que forman parte del ranking WPT desde la página oficial (https://www.worldpadeltour.com/).
 
+![](.README_images/WPT_General.png)
+
+
+
 Para más información veáse el documento "InformeFinal.pdf" que se encuentra en la rama principal de este repositorio.
 
 ### Miembros
