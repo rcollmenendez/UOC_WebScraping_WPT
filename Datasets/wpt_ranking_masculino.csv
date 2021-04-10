@@ -1,0 +1,653 @@
+,nombre,ranking_actual,puntos_wpt,p_jugados,p_ganados,p_perdidos,efectividad,vict_consecutivas,companero_actual,posicion_juego,lugar_nacimiento,fecha_nacimiento,altura,lugar_residencia,url,reference_date
+0,Alejandro Galán Romo,1,16360,297,206,91,"69,36",18,Juan Lebrón Chincoa,Revés,Madrid,15/05/1996,"1,86",Madrid,https://www.worldpadeltour.com/jugadores/alejandro-galan-romo/,05/04/2021
+1,Juan Lebrón Chincoa,2,15880,312,199,113,"63,78",18,Alejandro Galán Romo,Revés,Puerto de Sta. María,30/01/1995,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/juan-lebron/,05/04/2021
+2,Francisco Navarro Compán,3,11485,415,312,103,"75,18",15,Martín Di Nenno,Revés,Sevilla,10/02/1989,"1,81",Madrid,https://www.worldpadeltour.com/jugadores/francisco-navarro-compan/,05/04/2021
+3,Carlos Daniel Gutiérrez ,4,10770,435,338,97,"77,7",13,Fernando Belasteguín,Drive,San Luis - Argentina,15/06/1984,"1,77",Madrid,https://www.worldpadeltour.com/jugadores/carlos-daniel-gutierrez/,05/04/2021
+4,Pablo Lima ,5,10630,430,367,63,"85,35",53,Agustín Tapia,Drive,Porto Alegre - Bra,11/10/1986,"1,80",Bilbao,https://www.worldpadeltour.com/jugadores/pablo-lima/,05/04/2021
+5,Fernando Belasteguín ,6,10175,419,373,46,"89,02",63,Carlos Daniel Gutiérrez,Revés,Pehuajo,19/05/1979,"1,80",Barcelona,https://www.worldpadeltour.com/jugadores/fernando-belasteguin/,05/04/2021
+6,Agustín Tapia ,7,9325,93,60,33,"64,52",8,Fernando Belasteguín,Revés,Catamarca - Arg,24/07/1999,"1,79",Barcelona - España,https://www.worldpadeltour.com/jugadores/agustin-tapia/,05/04/2021
+7,Maximiliano Sánchez ,8,8490,414,310,104,"74,88",13,Adrián Allemandi,Revés,Villa Mercedes - Arg,15/12/1986,"1,83",Madrid,https://www.worldpadeltour.com/jugadores/maximiliano-sanchez/,05/04/2021
+8,Franco Stupaczuk ,9,8430,289,199,90,"68,86",10,Alejandro Ruiz Granados,Revés,Chaco - Arg,25/03/1996,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/franco-stupaczuk/,05/04/2021
+9,Federico Chingotto ,10,6730,198,132,66,"66,67",10,Juan Tello,Drive,Buenos Aires - Arg,13/04/1997,"1,70",Málaga,https://www.worldpadeltour.com/jugadores/federico-chingotto/,05/04/2021
+10,Juan Tello ,10,6730,196,132,64,"67,35",10,Federico Chingotto,Revés,Córdoba - Arg,01/02/1995,"1,85",Málaga,https://www.worldpadeltour.com/jugadores/juan-tello/,05/04/2021
+11,Matías Díaz Sangiorgio,12,5705,396,285,111,"71,97",13,Agustín Gómez Silingo,Drive,Buenos Aires,27/09/1978,"1,68",Madrid,https://www.worldpadeltour.com/jugadores/matias-diaz-sangiorgio/,05/04/2021
+12,Javier Ruiz González,13,5235,264,148,116,"56,06",7,Uri Botello Cohen,Revés,Granada,17/06/1987,"1,83",Granada,https://www.worldpadeltour.com/jugadores/javier-ruiz-gonzalez/,05/04/2021
+13,Uri Botello Cohen,13,5235,280,147,133,"52,5",5,Javier Ruiz González,Drive,Melilla,16/08/1988,"1,72",Madrid,https://www.worldpadeltour.com/jugadores/uri-botello-cohen/,05/04/2021
+14,Juan Mieres Petruf,15,4177,359,254,105,"70,75",9,Álvaro Cepero Rodríguez,Drive,Bahía Blanca,30/10/1980,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/juan-mieres-petruf/,05/04/2021
+15,Agustín Gómez Silingo,16,4130,265,151,114,"56,98",4,Matías Díaz Sangiorgio,Revés,La Plata,01/08/1983,"1,86",Madrid,https://www.worldpadeltour.com/jugadores/agustin-gomez-silingo/,05/04/2021
+16,Martín Di Nenno ,17,3685,208,136,72,"65,38",7,Francisco Navarro Compán,Drive,Ezieza - Bs As,18/03/1997,"1,75",Buenos Aires,https://www.worldpadeltour.com/jugadores/martin-di-nenno/,05/04/2021
+17,Adrián Allemandi ,18,3611,312,192,120,"61,54",4,Maximiliano Sánchez,Drive,Neuquén,28/12/1980,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/adrian-allemandi/,05/04/2021
+18,Alejandro Ruiz Granados,19,3380,264,132,132,50,4,Franco Stupaczuk,Drive,Málaga,12/06/1994,"1,87",Madrid,https://www.worldpadeltour.com/jugadores/alejandro-ruiz/,05/04/2021
+19,Javier Rico Dasi,20,3190,228,137,91,"60,09",6,Jerónimo González Luque,Drive,Valencia,15/05/1998,"1,67",Valencia,https://www.worldpadeltour.com/jugadores/javier-rico-dasi/,05/04/2021
+20,Jorge Nieto Ruiz,21,2905,203,119,84,"58,62",6,Juan Martín Díaz Martínez,Revés,Madrid,18/12/1998,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/jorge-nieto-ruiz/,05/04/2021
+21,Martín Sánchez Piñeiro,21,2905,261,133,128,"50,96",5,Javier González Barahona,Revés,A Coruña,26/10/1992,"1,84",Barcelona,https://www.worldpadeltour.com/jugadores/martin-sanchez-pineiro/,05/04/2021
+22,Miguel Lamperti ,23,2270,335,218,117,"65,07",4,Arturo Coello Manso,Revés,Bahía Blanca,11/11/1978,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/miguel-lamperti/,05/04/2021
+23,Juan Cruz Belluati López,24,2240,268,154,114,"57,46",6,Javier Garrido Gómez,Drive,Buenos Aires - Arg,20/10/1993,"1,76",Madrid,https://www.worldpadeltour.com/jugadores/juan-cruz-belluati-lopez/,05/04/2021
+24,Pablo Lijó Santos,25,2232,240,127,113,"52,92",6,Luciano Capra,Revés,Sta. Uxía de Ribeira,06/07/1991,"1,85",Madrid,https://www.worldpadeltour.com/jugadores/pablo-lijo/,05/04/2021
+25,Lucas De Oliveira Campagnolo,26,2190,200,122,78,61,6,Lucas Bergamini,Revés,Alegrete - Bra,13/06/1995,"1,79",Porto Alegre - Bra,https://www.worldpadeltour.com/jugadores/lucas-de-oliveira-campagnolo/,05/04/2021
+26,Jerónimo González Luque,27,2120,254,153,101,"60,24",5,Javier Rico Dasi,Revés,Antequera,21/02/1997,"1,80",Antequera,https://www.worldpadeltour.com/jugadores/jeronimo-gonzalez-luque/,05/04/2021
+27,Ramiro Moyano ,28,2010,265,141,124,"53,21",5,José Rico Dasi,Revés,La Plata,25/10/1989,"1,85",Madrid,https://www.worldpadeltour.com/jugadores/ramiro-moyano/,05/04/2021
+28,Luciano Capra ,29,1985,263,136,127,"51,71",6,Pablo Lijó Santos,Drive,Quilmes,16/09/1993,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/luciano-capra/,05/04/2021
+29,Lucas Bergamini ,30,1919,171,102,69,"59,65",6,Miguel Lamperti,Drive,Bento Gonçalves - Brasil,18/08/1997,"1,65",Madrid,https://www.worldpadeltour.com/jugadores/lucas-da-cunha-bergamini/,05/04/2021
+30,Javier Garrido Gómez,31,1832,171,93,78,"54,39",7,Javier Martínez Vázquez,Revés,Córdoba,26/10/2000,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/javier-garrido-gomez/,05/04/2021
+31,Cristian Gutiérrez Albizu,32,1695,331,219,112,"66,16",13,Aday Santana Ferrero,Revés,Mar del Plata,06/05/1978,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/cristian-gutierrez-albizu/,05/04/2021
+32,Ernesto Moreno Carrasco,33,1674,253,117,136,"46,25",6,Denis Tomas Perino,Revés,Málaga,19/11/1994,"1,82",Torremolinos,https://www.worldpadeltour.com/jugadores/ernesto-moreno/,05/04/2021
+33,Gonzalo Rubio Pérez,34,1639,260,122,138,"46,92",7,Christian Fuster Simarro,Drive,Sevilla,22/02/1991,"1,83",Sevilla,https://www.worldpadeltour.com/jugadores/gonzalo-rubio-perez/,05/04/2021
+34,Álvaro Cepero Rodríguez,35,1622,247,111,136,"44,94",6,Juan Mieres Petruf,Drive,San Fernando,26/04/1991,"1,67",Madrid,https://www.worldpadeltour.com/jugadores/alvaro-cepero/,05/04/2021
+35,Juan Martín Díaz Martínez,36,1520,307,240,67,"78,18",33,Jorge Nieto Ruiz,Drive,Mar del Plata - Arg,28/11/1975,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/juan-martin-diaz-martinez/,05/04/2021
+36,Javier Martínez Vázquez,37,1486,242,140,102,"57,85",7,Agustín Gutiérrez,Drive,Valladolid,18/11/1996,"1,74",Valladolid,https://www.worldpadeltour.com/jugadores/javier-martinez-vazquez/,05/04/2021
+37,José Rico Dasi,38,1482,219,106,113,"48,4",6,Ramiro Moyano,Drive,Valencia,21/09/1995,"1,76",Valencia,https://www.worldpadeltour.com/jugadores/jose-rico-dasi/,05/04/2021
+38,Antonio Fernández Cano,39,1468,222,121,101,"54,5",5,José Antonio García Diestro,Revés,Badajoz,17/08/1992,"1,8",Madrid,https://www.worldpadeltour.com/jugadores/antonio-fernandez-cano/,05/04/2021
+39,Ignacio González Gadea,39,1468,228,93,135,"40,79",5,Víctor Ruiz Remedios,Drive,Madrid,31/12/1986,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/ignacio-gonzalez-gadea/,05/04/2021
+40,Adrián Blanco Antelo,41,1452,230,103,127,"44,78",7,Maximiliano Grabiel Martínez,Revés,Orense,29/07/1987,"1,83",Valladolid,https://www.worldpadeltour.com/jugadores/adrian-blanco-antelo/,05/04/2021
+41,Arturo Coello Manso,42,1435,72,39,33,"54,17",5,Miguel Lamperti,Drive,Valladolid,08/03/2002,"1,90",Valladolid - España,https://www.worldpadeltour.com/jugadores/arturo-coello-manso/,05/04/2021
+42,Víctor Ruiz Remedios,43,1402,259,139,120,"53,67",5,Ignacio González Gadea,Revés,Cartagena,09/07/1989,"1,79",Cartagena,https://www.worldpadeltour.com/jugadores/victor-ruiz-remedios/,05/04/2021
+43,Iván Ramírez Del Campo,44,1392,118,69,49,"58,47",6,Arturo Coello Manso,Revés,Madrid,14/11/2001,"1,72",Madrid,https://www.worldpadeltour.com/jugadores/ivan-ramirez-del-campo/,05/04/2021
+44,Francisco Manuel Gil Morales,45,1388,143,89,54,"62,24",8,Sergio Alba Sánchez,Drive,Córdoba - Esp,27/04/1996,"1,80",Puente Genil,https://www.worldpadeltour.com/jugadores/francisco-manuel-gil-morales/,05/04/2021
+45,Sergio Alba Sánchez,46,1351,274,171,103,"62,41",8,Francisco Manuel Gil Morales,Revés,Guadalajara,26/05/1990,"1,78",Guadalajara,https://www.worldpadeltour.com/jugadores/sergio-alba-sanchez/,05/04/2021
+46,Denis Tomas Perino ,47,1370,144,87,57,"60,42",6,Jorge Ruiz Gutiérrez,Drive,Córdoba - Arg,08/01/1996,"1,74",Madrid,https://www.worldpadeltour.com/jugadores/denis-tomas-perino/,05/04/2021
+47,José Antonio García Diestro,47,1329,269,128,141,"47,58",6,Antonio Fernández Cano,Drive,Badajoz,01/09/1989,"1,83",Badajoz,https://www.worldpadeltour.com/jugadores/jose-garcia-diestro/,05/04/2021
+48,Agustín Gutiérrez ,48,1306,132,88,44,"66,67",9,Javier Martínez Vázquez,Revés,San Luis - Arg,07/01/1998,"1,75",San Luís - Arg,https://www.worldpadeltour.com/jugadores/agustin-gutierrez/,05/04/2021
+49,Javier González Barahona,50,1273,213,123,90,"57,75",7,Martín Sánchez Piñeiro,Drive,Madrid,17/09/1998,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/javier-gonzalez-barahona/,05/04/2021
+50,Maximiliano Grabiel Martínez,51,1268,291,169,122,"58,08",12,Adrián Blanco Antelo,Drive,La Plata,12/08/1976,"1,68",Madrid,https://www.worldpadeltour.com/jugadores/maxi-grabiel/,05/04/2021
+51,Toni Bueno Gómez,52,1256,244,141,103,"57,79",5,Rubén Rivera Serra,Drive,Barcelona,23/08/1990,"1,78",Barcelona,https://www.worldpadeltour.com/jugadores/toni-bueno-gomez/,05/04/2021
+52,Rubén Rivera Serra,53,1252,222,89,133,"40,09",4,Pedro Vera Castillo,Revés,Barcelona,29/07/1990,"1,82",Barcelona,https://www.worldpadeltour.com/jugadores/ruben-rivera/,05/04/2021
+53,Jorge Ruiz Gutiérrez,54,1227,240,143,97,"59,58",5,Diego Ramos,Revés,Torrelavega,12/12/1992,"1,74",Torrelavega,https://www.worldpadeltour.com/jugadores/jorge-ruiz-gutierrez/,05/04/2021
+54,Christian Fuster Simarro,55,1200,243,132,111,"54,32",5,Gonzalo Rubio Pérez,Revés,Villajoyosa,25/08/1989,"1,90",Alicante,https://www.worldpadeltour.com/jugadores/christian-fuster-simarro/,05/04/2021
+55,Sebastián Nerone ,56,1157,266,137,129,"51,5",3,Nicolás Suescun,Revés,Buenos Aires - Arg,24/06/1976,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/sebastian-nerone/,05/04/2021
+56,Aday Santana Ferrero,57,1132,249,129,120,"51,81",3,Cristian Gutiérrez Albizu,Revés,Las Palmas,04/05/1978,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/aday-santana-ferrero/,05/04/2021
+57,Rafael Méndez Ruiz,58,1115,294,171,123,"58,16",5,Salvador Oria Ortega,Revés,Jerez de la Frontera,22/01/1992,"1,97",Valladolid,https://www.worldpadeltour.com/jugadores/rafael-mendez-ruiz/,05/04/2021
+58,Gonzalo Díaz ,59,1113,246,117,129,"47,56",6,Francisco Gomes,Revés,Buenos Aires,28/04/1980,"1,77",Estepona,https://www.worldpadeltour.com/jugadores/gonzalo-diaz/,05/04/2021
+59,Diego Ramos ,60,1106,244,105,139,"43,03",4,Jorge Ruiz Gutiérrez,Drive,Chuy - Uruguay,10/04/1985,"1,78",Valladolid,https://www.worldpadeltour.com/jugadores/diego-ramos/,05/04/2021
+60,Aris Patiniotis ,61,1020,214,116,98,"54,21",6,Jon Sanz Zalba,Revés,Mar del Plata,12/11/1991,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/aris-patiniotis/,05/04/2021
+61,Javier Valdés González,63,1005,220,141,79,"64,09",9,Jon Sanz Zalba,Drive,Santiago de Chile,27/06/1996,"1,75",Santiago de Chile,https://www.worldpadeltour.com/jugadores/javier-valdes-gonzalez/,05/04/2021
+62,Antón Sans Riola,64,917,174,101,73,"58,05",5,Íñigo Zaratiegui Pedrosa,Drive,Tarragona,29/09/1995,"1,88",Tarragona,https://www.worldpadeltour.com/jugadores/anton-sans-riola/,05/04/2021
+63,Miguel Yanguas Diez,64,951,99,62,37,"62,63",6,Aris Patiniotis,Drive,Málaga,18/03/2002,"1,89",Granada,https://www.worldpadeltour.com/jugadores/miguel-yanguas-diez/,05/04/2021
+64,Juan Manuel Restivo ,65,907,265,132,133,"49,81",5,Raúl Marcos Durán,Revés,La Plata,11/06/1988,"1,8",Madrid,https://www.worldpadeltour.com/jugadores/juan-manuel-restivo/,05/04/2021
+65,Francisco Gomes ,66,902,234,102,132,"43,59",3,Gonzalo Díaz,Drive,Porto Alegre - Bra,07/06/1981,"1,80",Villanueva De La Cañada,https://www.worldpadeltour.com/jugadores/francisco-gomes/,05/04/2021
+66,Íñigo Zaratiegui Pedrosa,67,870,149,84,65,"56,38",5,Antón Sans Riola,Revés,Pamplona,26/07/1995,"1,85",Pamplona,https://www.worldpadeltour.com/jugadores/inigo-zaratiegui-pedrosa/,05/04/2021
+67,Mario Del Castillo Marín,69,862,133,78,55,"58,65",5,Javier Pérez Morillas,Revés,Sevilla,20/12/1997,"1,84",Sevilla ,https://www.worldpadeltour.com/jugadores/mario-del-castillo-marin/,05/04/2021
+68,Matías Marina Artuso,69,785,206,99,107,"48,06",5,Mario Huete Hernández,Drive,Mar del Plata - Arg,27/05/1993,"1,88",Madrid,https://www.worldpadeltour.com/jugadores/matias-marina/,05/04/2021
+69,Marcello Jardim ,70,775,235,101,134,"42,98",3,Miguel González García,Drive,Santa María - Brasil,14/07/1973,"1,86",Bilbao,https://www.worldpadeltour.com/jugadores/marcello-jardim/,05/04/2021
+70,Javier Pérez Morillas,72,700,201,126,75,"62,69",5,Andrés Britos,Revés,Arahal - Sevilla,07/04/1987,"1,89",Sevilla,https://www.worldpadeltour.com/jugadores/javier-perez-morillas/,05/04/2021
+71,Antonio Luque Aragón,73,689,304,171,133,"56,25",7,Mario Del Castillo Marín,Revés,Jaén,09/09/1987,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/antonio-luque-aragon/,05/04/2021
+72,Jon Sanz Zalba,73,752,106,64,42,"60,38",7,Javier Valdés González,Drive,Pamplona,25/09/2000,"1,75",Pamplona,https://www.worldpadeltour.com/jugadores/jon-sanz-zalba/,05/04/2021
+73,Germán Tamame ,74,684,225,92,133,"40,89",5,Pedro Alonso-Martínez,Revés,Trenque Lauquen,12/01/1981,"1,77",Puerto de Santa María,https://www.worldpadeltour.com/jugadores/german-tamame/,05/04/2021
+74,Andrés Britos ,75,676,242,136,106,"56,2",6,Javier Pérez Morillas,Drive,Bolivar - B.A. - Arg,06/12/1989,"1,67",Barcelona ,https://www.worldpadeltour.com/jugadores/andres-britos/,05/04/2021
+75,Miguel Ángel Solbes Llorens,76,642,300,178,122,"59,33",5,Ricardo Martínez Sánchez,Drive,Villajoyosa,16/03/1988,"1,86",Villajoyosa,https://www.worldpadeltour.com/jugadores/miguel-angel-solbes-llorens/,05/04/2021
+76,Salvador Oria Ortega,77,637,236,144,92,"61,02",7,Rafael Méndez Ruiz,Drive,Valencia,01/10/1996,"1,80",Carcaixent (Valencia),https://www.worldpadeltour.com/jugadores/salvador-oria-ortega/,05/04/2021
+77,Fernando Poggi ,78,634,211,90,121,"42,65",3,Facundo Domínguez,Revés,Buenos Aires,18/07/1976,"1,95",Madrid,https://www.worldpadeltour.com/jugadores/fernando-poggi/,05/04/2021
+78,Ricardo Martínez Sánchez,79,619,294,162,132,"55,1",7,Miguel Ángel Solbes Llorens,Revés,Yecla,24/06/1988,"1,82",Barcelona,https://www.worldpadeltour.com/jugadores/ricardo-martinez-sanchez/,05/04/2021
+79,Pedro Alonso-Martínez ,80,611,224,90,134,"40,18",5,Germán Tamame,Drive,Madrid,25/03/1988,"1,74",Madrid,https://www.worldpadeltour.com/jugadores/pedro-alonso-martinez/,05/04/2021
+80,Juan Manuel Vázquez ,81,604,245,107,138,"43,67",4,Claudio Conrado Lanzinger Zurita,Revés,Quilmes - Arg,17/05/1985,"1,80",Bilbao,https://www.worldpadeltour.com/jugadores/juan-manuel-vazquez/,05/04/2021
+81,Raúl Marcos Durán,82,585,260,121,139,"46,54",5,Juan Manuel Restivo,Drive,Madrid,28/06/1992,"1,82",Madrid,https://www.worldpadeltour.com/jugadores/raul-marcos-duran/,05/04/2021
+82,José David Sánchez Serrano,83,511,253,154,99,"60,87",6,Miguel Ángel Solbes Llorens,Revés,Murcia,03/12/1994,"1,78",Murcia,https://www.worldpadeltour.com/jugadores/jose-david-sanchez-serrano/,05/04/2021
+83,Javier Redondo Méndez,84,486,269,145,124,"53,9",6,Diogo Rocha,Revés,Barcelona,08/04/1994,"1,85",Jávea,https://www.worldpadeltour.com/jugadores/javier-redondo-mendez/,05/04/2021
+84,José Carlos Gaspar Campos,85,480,264,163,101,"61,74",6,Miguel Benítez Lara,Drive,Málaga,28/08/1997,"1,85",Mádrid,https://www.worldpadeltour.com/jugadores/jose-carlos-gaspar-campos/,05/04/2021
+85,Cristian Germán Gutiérrez ,87,476,247,127,120,"51,42",5,Marc Quílez Palleja,Drive,San Luis,15/12/1990,"1,70",Madrid,https://www.worldpadeltour.com/jugadores/cristian-german-gutierrez/,05/04/2021
+86,Jesús Moya Sos,88,477,95,50,45,"52,63",5,Javier González Barahona,Revés,Melilla,28/04/2000,"1,81",Melilla,https://www.worldpadeltour.com/jugadores/jesus-moya-sos/,05/04/2021
+87,Teodoro Víctor Zapata Pizarro,88,466,201,105,96,"52,24",6,Raúl Marcos Durán,Revés,Merida,10/04/1995,"1,78",Cáceres,https://www.worldpadeltour.com/jugadores/teodoro-victor-zapata-pizarro/,05/04/2021
+88,Jordi Muñoz Baixas,90,419,266,145,121,"54,51",5,Pepe Aliaga Cruz,Drive,Las Palmas,19/08/1976,"1,80",Barcelona,https://www.worldpadeltour.com/jugadores/jordi-munoz/,05/04/2021
+89,Sergio Icardo Alcorisa,90,419,305,189,116,"61,97",6,Diego Gil Batista,Revés,Valencia,04/10/1989,"1,78",Valencia,https://www.worldpadeltour.com/jugadores/sergio-icardo-alcorisa/,05/04/2021
+90,Eduardo Alonso Chillarón,91,460,106,60,46,"56,6",5,Juan Manuel Restivo,Drive,Valencia,08/01/2001,"1,80",Valencia,https://www.worldpadeltour.com/jugadores/eduardo-alonso-chillaron/,05/04/2021
+91,Diogo Rocha ,92,414,232,132,100,"56,9",5,Javier Redondo Méndez,Drive,Oporto,14/06/1984,"1,80",Custoias,https://www.worldpadeltour.com/jugadores/diogo-rocha/,05/04/2021
+92,Marc Quílez Palleja,93,382,251,147,104,"58,57",8,Cristian Germán Gutiérrez,Revés,Barcelona,22/09/1995,"1,92",Barcelona,https://www.worldpadeltour.com/jugadores/marc-quilez-palleja/,05/04/2021
+93,Alejandro Arroyo Albert,95,394,101,54,47,"53,47",5,Salvador Oria Ortega,Revés,Valencia,25/10/2001,"1,88",Valencia,https://www.worldpadeltour.com/jugadores/alejandro-arroyo-albert-arroyo-albert/,05/04/2021
+94,Vasco Pascoal ,95,364,232,126,106,"54,31",5,Miguel Deus,Revés,Lisboa - Portugal,21/11/1988,"1,82",Tercena - Portugal,https://www.worldpadeltour.com/jugadores/vasco-pascoal/,05/04/2021
+95,Matías Nicoletti ,96,345,218,89,129,"40,83",3,Adrián Rodríguez Rodríguez-Manzaneque,Revés,San Isidro - Arg,12/04/1980,"1,86",Valencia,https://www.worldpadeltour.com/jugadores/matias-nicoletti/,05/04/2021
+96,Jaime Menéndez Gil,98,297,134,67,67,50,5,José Solano Marmolejo,Revés,Madrid,28/03/1994,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/jaime-menendez-gil/,05/04/2021
+97,Guillermo Lahoz Rodríguez,99,276,226,113,113,50,6,Jeremy Scatena,Drive,Madrid,26/08/1971,"1,81",Santander,https://www.worldpadeltour.com/jugadores/guillermo-lahoz-rodriguez/,05/04/2021
+98,José Solano Marmolejo,99,317,140,79,61,"56,43",5,Jaime Menéndez Gil,Drive,Málaga,02/06/2000,"1,70",Málaga,https://www.worldpadeltour.com/jugadores/jose-solano-marmolejo/,05/04/2021
+99,Miguel González García,100,270,216,114,102,"52,78",5,Marcello Jardim,Revés,Melilla,21/05/1997,"1,84",Melilla,https://www.worldpadeltour.com/jugadores/miguel-gonzalez-garcia/,05/04/2021
+100,Jeremy Scatena ,101,265,123,70,53,"56,91",5,Benjamin Tison,Revés,Cannes,16/04/1985,"1,85",Nice,https://www.worldpadeltour.com/jugadores/jeremy-scatena/,05/04/2021
+101,Nicolás Suescun ,102,248,151,76,75,"50,33",4,Sebastián Nerone,Drive,Rio Tercero,29/10/1985,"1,72",Madrid,https://www.worldpadeltour.com/jugadores/nicolas-suescun/,05/04/2021
+102,José María Mouliaa López,103,246,180,102,78,"56,67",5,Pablo Castillo Valverde,Revés,Lorca,10/01/1989,"1,88",Lorca,https://www.worldpadeltour.com/jugadores/jose-maria-mouliaa-lopez/,05/04/2021
+103,Arnau Ayats Delgado,104,244,71,36,35,"50,7",4,Sergio Icardo Alcorisa,Revés,Vic - Barcelona,07/03/2000,"1,85",Castellbisbal - Barcelona,https://www.worldpadeltour.com/jugadores/arnau-ayats-delgado/,05/04/2021
+104,Benjamin Tison ,105,243,35,20,15,"57,14",5,Teodoro Víctor Zapata Pizarro,Drive,Mantes la jolie ,02/02/1989,1 m 83,Mantes la jolie ,https://www.worldpadeltour.com/jugadores/benjamin-tison/,05/04/2021
+105,Pedro Vera Castillo,106,238,152,82,70,"53,95",5,Rubén Rivera Serra,Drive,Murcia,04/12/1993,"1,84",Murcia,https://www.worldpadeltour.com/jugadores/pedro-vera-castillo/,05/04/2021
+106,Miguel Semmler Arranz,107,237,14,8,6,"57,14",4,Francisco Javier Leal Perez,Drive,Madrid,02/05/1997,1.80,Madrid,https://www.worldpadeltour.com/jugadores/miguel-semmler-arranz/,05/04/2021
+107,Francisco Jurado Sosa,108,236,98,54,44,"55,1",5,Ismael Rodriguez Mazario,Drive,El Coronil (Sevilla),10/12/1996,"1,84",El Coronil (Sevilla),https://www.worldpadeltour.com/jugadores/francisco-jurado-sosa/,05/04/2021
+108,Fran Ramírez Navas,109,234,254,140,114,"55,12",5,Jairo Jose Bautista Ortiz,Drive,Sevilla,31/07/1991,"1,74",Madrid,https://www.worldpadeltour.com/jugadores/fran-ramirez-navas/,05/04/2021
+109,Aitor García Bassas,110,229,139,81,58,"58,27",5,Pedro Vera Castillo,Revés,Gerona,10/09/1994,"1,81",Gerona,https://www.worldpadeltour.com/jugadores/aitor-garcia-bassas/,05/04/2021
+110,Jaime Muñoz Enrile,111,223,120,60,60,50,4,Javier García Mora,Drive,Madrid,14/06/1999,"1,83",Madrid,https://www.worldpadeltour.com/jugadores/jaime-munoz-enrile/,05/04/2021
+111,Javier García Mora,112,218,88,51,37,"57,95",5,Jaime Muñoz Enrile,Revés,Murcia,09/12/2000,"1,77",Murcia,https://www.worldpadeltour.com/jugadores/javier-garcia-mora/,05/04/2021
+112,Borja Yribarren Abecia,113,205,230,91,139,"39,57",4,Bastien Blanque,Drive,A Coruña,17/10/1979,"1,84",A Coruña,https://www.worldpadeltour.com/jugadores/borja-yribarren-abecia/,05/04/2021
+113,Facundo Domínguez ,114,204,64,34,30,"53,12",4,Fernando Poggi,Drive,Mar del Plata - Arg,09/11/1997,"1,72",Mar del Plata - Arg,https://www.worldpadeltour.com/jugadores/facundo-dominguez/,05/04/2021
+114,Adriá Mercadal Berenguer,115,196,243,142,101,"58,44",5,Jesús Ruíz Bohorquez,Drive,Barcelona,19/11/1990,"1,73",Barcelona,https://www.worldpadeltour.com/jugadores/adria-mercadal-berenguer/,05/04/2021
+115,Gerard Company Escriche,116,190,178,64,114,"35,96",4,Javier Redondo Méndez,Drive,Girona,27/05/1982,"1,86",Girona,https://www.worldpadeltour.com/jugadores/gerard-company-escriche/,05/04/2021
+116,Pablo Acevedo Iturribarria,117,189,190,91,99,"47,89",5,Juanlu Esbri Gonzalez,Drive,México D.F.,27/06/1986,"1,86",MADRID,https://www.worldpadeltour.com/jugadores/pablo-acevedo-iturribarra/,05/04/2021
+117,Bastien Blanque ,118,184,54,17,37,"31,48",5,Borja Yribarren Abecia,Revés,Toulouse - Francia,10/05/1995,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/bastien-blanque/,05/04/2021
+118,Diego Gil Batista,119,179,135,72,63,"53,33",5,Sergio Icardo Alcorisa,Drive,Las Palmas,27/03/1998,"1,87",Las Palmas,https://www.worldpadeltour.com/jugadores/diego-gil-batista/,05/04/2021
+119,David García Campos,120,172,285,164,121,"57,54",6,Daniel Bressel Ambrossi,Drive,Madrid,25/01/1993,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/david-garcia-campos/,05/04/2021
+120,Johan Bergeron ,121,170,91,38,53,"41,76",4,Robin Haziza,Drive,Lyon,12/06/1993,"1,75",Barcelone,https://www.worldpadeltour.com/jugadores/johan-bergerer/,05/04/2021
+121,José María Benavides Ponce De León,122,166,129,69,60,"53,49",6,Sergio Icardo Alcorisa,Revés,Granada,24/09/1989,"1,80",Granada,https://www.worldpadeltour.com/jugadores/jose-maria-benavides-ponce-de-leon/,05/04/2021
+122,Martín Andornino ,123,156,48,20,28,"41,67",4,Jesús Ruíz Bohorquez,Drive,Mar del Plata - Arg,18/09/1996,"1,73",Mar del Plata - Arg,https://www.worldpadeltour.com/jugadores/martin-andornino/,05/04/2021
+123,Miguel Benítez Lara,124,152,66,34,32,"51,52",5,José Carlos Gaspar Campos,Revés,Puerto de Santa María (Cádiz),18/08/1996,"1,90",Puerto de Santa María (Cádiz),https://www.worldpadeltour.com/jugadores/miguel-benitez-lara/,05/04/2021
+124,Roberto Gattiker ,125,150,10,4,6,40,2,Denis Tomas Perino,Revés,BUENOS AIRES - ARGENTINA,07/10/1967,0,,https://www.worldpadeltour.com/jugadores/roberto-gattiker/,05/04/2021
+125,Víctor Manuel Mena Gil,126,146,77,31,46,"40,26",4,Johan Bergeron,Revés,Madrid,24/06/1999,"1,93",Madrid,https://www.worldpadeltour.com/jugadores/victor-manuel-mena-gil/,05/04/2021
+126,José Luis González Rodríguez,127,142,51,26,25,"50,98",3,Alvaro Melendez Amaya,Drive,Sevilla,14/12/1997,"1,80",Sevilla,https://www.worldpadeltour.com/jugadores/jose-luis-gonzalez-rodriguez/,05/04/2021
+127,Jesús Espejo Sánchez,128,139,263,138,125,"52,47",5,José Carlos Bernal Rodríguez,Revés,Granada,02/06/1988,"1,83",Granada,https://www.worldpadeltour.com/jugadores/jesus-espejo-sanchez/,05/04/2021
+128,Raúl Díaz García,128,139,215,90,125,"41,86",4,Pablo García Rodrigo,Revés,Madrid,14/02/1981,"1,83",Madrid,https://www.worldpadeltour.com/jugadores/raul-diaz-garcia/,05/04/2021
+129,Santiago Frugoni ,128,139,24,17,7,"70,83",6,Yain Melgratti,Drive,Resistencia - Arg,21/05/1995,"1,90",Resistencia - Arg,https://www.worldpadeltour.com/jugadores/santiago-frugoni/,05/04/2021
+130,Christian Medina Murphy,131,137,54,8,46,"14,81",2,Oscar Vazquez Fernandez,Revés,Kingstom - Reino Unido,26/08/1998,"1,87",Jerez de la Frontera,https://www.worldpadeltour.com/jugadores/christian-medina-murphy/,05/04/2021
+131,Guillermo Casal Maldonado,132,133,182,107,75,"58,79",8,Nuno Deus,Drive,Barcelona,21/10/1994,"1,86",Barcelona,https://www.worldpadeltour.com/jugadores/guillermo-casal-maldonado/,05/04/2021
+132,Boris Castro García,133,131,96,41,55,"42,71",5,Ferrán Bueno Gómez,Revés,Douala - Camerún,11/06/1998,"1,84",A Coruña,https://www.worldpadeltour.com/jugadores/guillaume-batikali-muako-masale/,05/04/2021
+133,Matías Del Moral ,134,129,18,7,11,"38,89",3,Martín Andornino,Revés,La Rioja - Arg,08/08/1998,"1,85",La Rioja - Arg,https://www.worldpadeltour.com/jugadores/matias-del-moral/,05/04/2021
+134,Víctor Saenz De Navarrete,135,124,100,38,62,38,4,Xavier de Benito Fraile,Drive,Tenerife,04/08/1990,"1,74",Tenerife,https://www.worldpadeltour.com/jugadores/victor-saenz-de-navarrete/,05/04/2021
+135,Carlos Pérez Cabeza,136,121,42,14,28,"33,33",2,Javier de Paiz Ferrer,Drive,Málaga,27/06/1996,"1,91",Málaga,https://www.worldpadeltour.com/jugadores/carlos-perez-cabeza/,05/04/2021
+136,David Antolín Solla,137,116,87,34,53,"39,08",4,Manuel Prado Prego,Drive,León,14/04/1995,"1,69",Valladolid,https://www.worldpadeltour.com/jugadores/david-antolin-solla/,05/04/2021
+137,Daniel Windahl ,138,115,33,13,20,"39,39",2,Carl Knutsson,Revés,Helsingborg - Suecia,20/07/1996,"1,90",Uppsala - Suecia,https://www.worldpadeltour.com/jugadores/daniel-windahl/,05/04/2021
+138,Mario Cerezo Casado,139,114,92,44,48,"47,83",4,Javier Palasi Lozano,Revés,Alicante,02/07/1991,"1,82",Alicante,https://www.worldpadeltour.com/jugadores/mario-cerezo-casado/,05/04/2021
+139,Francisco Javier Leal Perez,140,111,11,3,8,"27,27",2,Miguel Semmler Arranz,Revés,Cádiz ,28/07/2003,1'75,El puerto de santa Maria ,https://www.worldpadeltour.com/jugadores/francisco-javier-leal-perez/,05/04/2021
+140,Luís Ortega Pérez,140,111,28,5,23,"17,86",2,Álvaro Delgado Sánchez,Drive,Madrid,31/03/1995,"1,81",Madrid,https://www.worldpadeltour.com/jugadores/luis-ortega-perez/,05/04/2021
+141,Alfonso Viuda Hernández,142,110,130,65,65,50,3,Jairo Jose Bautista Ortiz,Drive,Torrevieja,31/07/1991,1.71,Torrevieja,https://www.worldpadeltour.com/jugadores/alfonso-viuda-hernandez/,05/04/2021
+142,Antonio José Cardona Botella,143,106,221,113,108,"51,13",5,Jose Pedro Montalban Martin,Revés,Albacete,03/04/1987,"1,87",Albacete,https://www.worldpadeltour.com/jugadores/antonio-jose-cardona-botella/,05/04/2021
+143,Carl Knutsson ,144,105,42,16,26,"38,1",2,Daniel Windahl,Drive,Bastad - Suecia,12/05/1996,"1,93",Helsingborg ,https://www.worldpadeltour.com/jugadores/carl-knutsson/,05/04/2021
+144,Jesús Ruíz Bohorquez,145,101,61,21,40,"34,43",4,Adriá Mercadal Berenguer,Revés,Sevilla,02/07/1995,"1,83",Barcelona,https://www.worldpadeltour.com/jugadores/jesus-ruiz-bohorquez/,05/04/2021
+145,Alvaro Melendez Amaya ,146,99,27,9,18,"33,33",2,José Luis González Rodríguez,Revés,Sevilla,22/03/2000,"1,75",Sevilla,https://www.worldpadeltour.com/jugadores/alvaro-melendez-amaya/,05/04/2021
+146,Cándido Jorge Alfaro,146,99,99,36,63,"36,36",3,Adrián Marqués Berdonce,Revés,Las Palmas de Gran Canaria,22/04/1995,"1,85",Madrid,https://www.worldpadeltour.com/jugadores/candido-jorge-alfaro/,05/04/2021
+147,Daniel De Castro Bautista,146,99,72,23,49,"31,94",5,Alonso Rodríguez Martínez,Drive,Madrid,07/01/1998,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/daniel-de-castro-bautista/,05/04/2021
+148,Jorge Señorán Frutuoso,146,99,155,66,89,"42,58",4,Javier Rodríguez Márquez,Drive,Salamanca,07/12/1989,"1,83",Madrid,https://www.worldpadeltour.com/jugadores/jorge-senoran-frutuoso/,05/04/2021
+149,Jacobo Pérez Cendón,150,98,68,14,54,"20,59",2,Xavier de Benito Fraile,Drive,Santiago de Compostela,12/07/1993,"1,85",Madrid ,https://www.worldpadeltour.com/jugadores/jacobo-perez-cendon/,05/04/2021
+150,Pablo José Díaz Romero,151,97,71,31,40,"43,66",5,Jairo Jose Bautista Ortiz,Drive,Sevilla,16/12/1990,"1,76",Sevilla,https://www.worldpadeltour.com/jugadores/pablo-jose-diaz-romero/,05/04/2021
+151,Daniel Bressel Ambrossi,152,96,83,26,57,"31,33",3,David García Campos,Revés,Alpedrete - Madrid,03/01/1991,"1,83",Alpedrete,https://www.worldpadeltour.com/jugadores/daniel-bressel-ambrossi/,05/04/2021
+152,Jairo Jose Bautista Ortiz,152,96,9,3,6,"33,33",3,Fran Ramírez Navas,Revés,Málaga,11/07/2001,"1,90",Benalmadena - Málaga,https://www.worldpadeltour.com/jugadores/jairo-jose-bautista-ortiz/,05/04/2021
+153,Manuel Prado Prego,154,95,94,28,66,"29,79",2,David Antolín Solla,Revés,Pontevedra,16/02/1994,"1,81",Madrid ,https://www.worldpadeltour.com/jugadores/manuel-prado-prego/,05/04/2021
+154,Iker Del Valle González,155,94,67,18,49,"26,87",2,Enrique Goenaga Garcia,Revés,Madrid,11/03/2001,"1,86",Rivas Vaciamadrid,https://www.worldpadeltour.com/jugadores/iker-del-valle-gonzalez/,05/04/2021
+155,Simon Vasquez ,155,94,14,3,11,"21,43",3,Javier Valdés González,Drive,Angelholm - Suecia,21/12/1992,"1,73",Estocolmo - Suecia,https://www.worldpadeltour.com/jugadores/simon-vasquez/,05/04/2021
+156,Adrián Marqués Berdonce,157,93,11,3,8,"27,27",3,Daniel Luna Peinado,Drive,Palma de Mallorca,20/06/2002,"1,72",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/adrian-marques-berdonce/,05/04/2021
+157,Adrián Ronco López,158,92,36,14,22,"38,89",3,Javier Rodríguez Márquez,Drive,Madrid,31/10/1997,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/adrian-ronco-lopez/,05/04/2021
+158,Javier Rodríguez Márquez,159,91,42,12,30,"28,57",3,Adrián Ronco López,Revés,Cáceres,31/01/1998,1.79,Madrid,https://www.worldpadeltour.com/jugadores/javier-rodriguez-marquez/,05/04/2021
+159,Alfonso Sánchez Arriaga,160,89,92,32,60,"34,78",2,Adrián Corona Roldán,Revés,Valladolid,10/08/1998,"1,77",Valladolid,https://www.worldpadeltour.com/jugadores/alfonso-sanchez-arriaga/,05/04/2021
+160,Ferrán Bueno Gómez,161,87,77,32,45,"41,56",4,Boris Castro García,Drive,Barcelona,30/11/1995,"1,82",Barcelona,https://www.worldpadeltour.com/jugadores/ferran-bueno-gomez/,05/04/2021
+161,Luis Pozo Carballo,161,87,69,28,41,"40,58",4,Pedro Meléndez Amaya,Revés,Las Palmas de Gran Canaria,11/04/1999,"1,78",Málaga,https://www.worldpadeltour.com/jugadores/luis-pozo-carballo/,05/04/2021
+162,Daniel Luna Peinado,163,86,14,6,8,"42,86",2,Adrián Marqués Berdonce,Revés,Palma de Mallorca ,16/04/2002,"1,84",Palma de Mallorca ,https://www.worldpadeltour.com/jugadores/daniel-luna-peinado/,05/04/2021
+163,Enrique Goenaga Garcia,163,86,38,12,26,"31,58",2,Iker Del Valle González,Revés,Palma de Mallorca,08/03/2002,"1,76",Salamanca - Esp,https://www.worldpadeltour.com/jugadores/enrique-goenaga-garcia/,05/04/2021
+164,Ignacio Vilariño Gestoso,165,85,42,21,21,50,4,Pablo José Díaz Romero,Revés,Vigo,27/01/2000,"1,72",Vigo,https://www.worldpadeltour.com/jugadores/ignacio-vilarino-gestoso/,05/04/2021
+165,Carlos Mora Íscar,166,83,40,12,28,30,2,Marc Pou Serra,Revés,Palma de Mallorca,05/08/2000,"1,87",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/carlos-mora-iscar/,05/04/2021
+166,David Fernández Fernandez,166,83,22,9,13,"40,91",2,Juanlu Esbri Gonzalez,Drive,Madrid,27/03/1998,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/david-fernandez-fernandez/,05/04/2021
+167,Roberto Rodríguez Alonso,168,82,169,85,84,"50,3",4,Gabriel Espelleta Font,Drive,Caracas - Venezuela,25/11/1985,"1,72",MADRID,https://www.worldpadeltour.com/jugadores/roberto-rodriguez-alonso/,05/04/2021
+168,Adrien Maigret ,169,80,39,21,18,"53,85",5,Robin Haziza,Revés,París,24/06/1987,"1,90",Le Chesnay - Francia,https://www.worldpadeltour.com/jugadores/adrien-maigret/,05/04/2021
+169,Carlos Marti Vaño,169,80,23,7,16,"30,43",4,Jose Jimenez Casas,Revés,Bocairent - Valencia,29/02/1996,"1,85",Bocairent - Valencia,https://www.worldpadeltour.com/jugadores/carlos-marti-vano/,05/04/2021
+170,Cayetano Rocafort Lores,169,80,118,63,55,"53,39",5,Simon Vasquez,Revés,Málaga,04/10/1994,"1,75",Marbella,https://www.worldpadeltour.com/jugadores/cayetano-rocafort-lores/,05/04/2021
+171,Gonzalo Pérez Arbona,169,80,52,10,42,"19,23",4,Juan Carlos Diaz Martin,Drive,Valencia,04/07/1998,"1,90",Carcaxent,https://www.worldpadeltour.com/jugadores/gonzalo-perez-arbona/,05/04/2021
+172,Javier Escalante ,169,80,181,73,108,"40,33",4,Andrés Britos,Revés,Chaco - Arg,17/02/1986,"1,86",Barcelona,https://www.worldpadeltour.com/jugadores/javier-escalante/,05/04/2021
+173,Pedro San Román Gomendio,169,80,134,60,74,"44,78",5,David Fernández Fernandez,Revés,Madrid,18/11/1996,"1,86",Madrid,https://www.worldpadeltour.com/jugadores/pedro-san-roman-gomendio/,05/04/2021
+174,Julio Sierra Morales,175,79,103,39,64,"37,86",5,Víctor Manuel Mena Gil,Drive,Cuenca,13/02/1999,"1,70",Madrid,https://www.worldpadeltour.com/jugadores/julio-sierra-morales/,05/04/2021
+175,Richard Brooks ,176,78,158,80,78,"50,63",4,Alejandro Tasa Van Beek,Drive,Rustenburg - S. Africa,11/06/1981,"1,72",Alicante,https://www.worldpadeltour.com/jugadores/richard-brooks/,05/04/2021
+176,Christian Ramos Abad,177,75,186,106,80,"56,99",4,Richard Brooks,Revés,Alicante,06/09/1988,"1,80",Alicante,https://www.worldpadeltour.com/jugadores/christian-ramos-abad/,05/04/2021
+177,Ricardo Martins ,177,75,52,18,34,"34,62",3,David Antolín Solla,Revés,Lisboa - Portugal,27/08/1991,"1,82",Málaga- Espanha,https://www.worldpadeltour.com/jugadores/ricardo-martins/,05/04/2021
+178,Juanlu Esbri Gonzalez,179,74,4,1,3,25,2,David Fernández Fernandez,Revés,Castellón de la Plana,22/01/2001,1'82,Castellón de la Plana,https://www.worldpadeltour.com/jugadores/juanlu-esbri-gomzalez/,05/04/2021
+179,Pablo Valín Fernández,180,73,53,13,40,"24,53",2,Daniel Avilés Cayuela,Revés,Lugo,16/07/1986,"1,81",A Coruña,https://www.worldpadeltour.com/jugadores/pablo-valin-fernandez/,05/04/2021
+180,Alejandro Gonzalez Perez,181,71,16,3,13,"18,75",2,Mario Ortega Ripoll,Drive,Madrid,08/06/2001,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/alejandro-gonzalez-perez/,05/04/2021
+181,Javier De Paiz Ferrer,181,71,187,96,91,"51,34",5,Carlos Pérez Cabeza,Drive,Lanzarote,26/08/1989,"1,83",Madrid ,https://www.worldpadeltour.com/jugadores/javier-de-paiz-ferrer/,05/04/2021
+182,Emilio Sanchez Chamero,183,69,8,3,5,"37,5",2,Jose Jimenez Casas,Revés,Madrid,27/03/2003,"1,82",Getafe,https://www.worldpadeltour.com/jugadores/emilio-sanchez-chamero/,05/04/2021
+183,Francisco Arenas Gualda,183,69,41,14,27,"34,15",2,Rubén Sánchez Sánchez,Drive,Madrid,27/02/1993,"1,76",Madrid,https://www.worldpadeltour.com/jugadores/francisco-arenas-gualda/,05/04/2021
+184,Gabriel Espelleta Font,183,69,37,12,25,"32,43",4,Eduard Altimires Ros,Revés,Barcelona,11/09/1994,"1,87",Premia de Mar,https://www.worldpadeltour.com/jugadores/gabriel-espelleta-font/,05/04/2021
+185,Raul Medina Lopez,183,69,26,8,18,"30,77",2,Federico Mouriño,Revés,Palma de Mallorca,18/01/2000,"1,85",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/raul-medina-lopez/,05/04/2021
+186,Yain Melgratti ,183,69,109,66,43,"60,55",6,Santiago Frugoni,Revés,Chaco - Arg,25/01/1992,"1,85",BARCELONA,https://www.worldpadeltour.com/jugadores/yain-melgratti/,05/04/2021
+187,Claudio Conrado Lanzinger Zurita,188,68,66,16,50,"24,24",1,Juan Manuel Vázquez,Drive,Las Palmas de Gran Canaria,15/12/1993,"1,70",Madrid,https://www.worldpadeltour.com/jugadores/claudio-conrado-lanzinger-zurita/,05/04/2021
+188,Alejandro Tasa Van Beek,189,67,58,5,53,"8,62",2,Richard Brooks,Revés,Benidorm - Alicante,09/01/1999,"1,73",Benidorm - Alicante,https://www.worldpadeltour.com/jugadores/alejandro-tasa-van-beek/,05/04/2021
+189,Alejandro Gil Muñoz,190,66,56,13,43,"23,21",2,Emilio Sanchez Chamero,Drive,Avila,28/06/1999,"1,82",Avila,https://www.worldpadeltour.com/jugadores/alejandro-gil-munoz/,05/04/2021
+190,Iván Arrondo Pérez,190,66,32,6,26,"18,75",1,Adrián Corona Roldán,Revés,Valladolid,01/12/2000,"1,80",Valladolid,https://www.worldpadeltour.com/jugadores/ivan-arrondo-perez/,05/04/2021
+191,Fermín Ferreyra Estevez,192,65,121,53,68,"43,8",3,Roberto Rodríguez Alonso,Revés,Córdoba - Arg,06/09/1990,"1,77",Madrid,https://www.worldpadeltour.com/jugadores/fermin-ferreyra-estevez/,05/04/2021
+192,José Osete Montoro ,194,64,40,17,23,"42,5",3,Julio Perez Luque,Revés,Sevilla,27/11/1989,"1,80",Sevilla,https://www.worldpadeltour.com/jugadores/jose-osete-montoro/,05/04/2021
+193,Simone Cremona ,194,64,5,0,5,0,0,Daniele Cattaneo,Drive,Codognio - Italia,14/09/1987,"1,81",Via Bosi 22 PONTENURE (PC)- Italia,https://www.worldpadeltour.com/jugadores/simone-cremona/,05/04/2021
+194,Adrián Corona Roldán,196,60,60,16,44,"26,67",2,Alfonso Sánchez Arriaga,Drive,Medina del Campo,15/12/1991,"1,71",medina del campo,https://www.worldpadeltour.com/jugadores/adrian-corona-roldan/,05/04/2021
+195,Pablo García Rodrigo,196,65,0,0,0,0,4,Raúl Díaz García,Drive,Madrid ,23/01/2003,"1,88",Toledo ,https://www.worldpadeltour.com/jugadores/pablo-garcia-rodrigo/,05/04/2021
+196,Christoph Krenn ,197,59,66,22,44,"33,33",1,David Alten,Revés,Viena - Austria,25/05/1983,"2,02",Viena - Austria,https://www.worldpadeltour.com/jugadores/christoph-krenn/,05/04/2021
+197,Daniel Avilés Cayuela,197,59,65,24,41,"36,92",2,Pablo Valín Fernández,Drive,Sevilla,24/11/1991,"1,80",Sevilla,https://www.worldpadeltour.com/jugadores/daniel-aviles-cayuela/,05/04/2021
+198,David Alten ,197,59,65,22,43,"33,85",1,Christoph Krenn,Drive,Viena - Austria,04/12/1986,"1,83",Viena - Austria,https://www.worldpadeltour.com/jugadores/david-alten/,05/04/2021
+199,Iago González Niño,197,59,44,11,33,25,2,Pelayo Villaverde Millán,Revés,Vigo,04/11/1997,"1,75",Vigo,https://www.worldpadeltour.com/jugadores/iago-gonzalez-nino-gonzalez-nino/,05/04/2021
+200,Jose Jimenez Casas,201,58,1,0,1,0,2,Emilio Sanchez Chamero,Drive,Granada,21/02/2004,"1,77",Alcudia de Guadix,https://www.worldpadeltour.com/jugadores/jose-jimenez-casas/,05/04/2021
+201,Juan Carlos Diaz Martin,201,58,20,4,16,20,1,Gonzalo Pérez Arbona,Revés,Salamanca,12/06/2001,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/juan-carlos-diaz-martin/,05/04/2021
+202,Federico Mouriño ,203,56,2,1,1,50,3,Raul Medina Lopez,Drive,San Martín de los Andes,05/10/1999,178,Madrid,https://www.worldpadeltour.com/jugadores/federico-mourino/,05/04/2021
+203,Roger Aromi Siquier,204,54,49,19,30,"38,78",2,Ferrán Bueno Gómez,Revés,Mataró,29/04/1997,"1,80",Mataró,https://www.worldpadeltour.com/jugadores/roger-aromi-siquier/,05/04/2021
+204,Fabricio Cattaneo ,205,53,228,114,114,50,4,Daniel Windahl,Drive,Quilmes - Arg,07/08/1989,"1,70",Salamanca - Esp,https://www.worldpadeltour.com/jugadores/fabricio-cattaneo/,05/04/2021
+205,Rubén Sánchez Sánchez ,205,53,26,9,17,"34,62",2,Francisco Arenas Gualda,Revés,Adra ,13/01/1994,"1,76",Almería ,https://www.worldpadeltour.com/jugadores/ruben-sanchez-sanchez/,05/04/2021
+206,Michele Bruno ,207,56,0,0,0,0,0,Andrés Britos,,,14/01/1989,,,https://www.worldpadeltour.com/jugadores/michele-bruno/,05/04/2021
+207,Marc Bernils Garcia,217,47,36,21,15,"58,33",5,Jeremy Scatena,Drive,Blanes - Gerona,25/02/1999,"1,87",Blanes - Gerona,https://www.worldpadeltour.com/jugadores/marc-bernils-garcia/,05/04/2021
+208,Pedro Borja Mulet ,544,2,0,0,0,0,0,Antonio Borja Mulet,,,01/09/2002,,,https://www.worldpadeltour.com/jugadores/pedro-borja-mulet/,05/04/2021
+209,Alberto Alejandro Cetz Romero ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alberto-alejandro-cetz-romero/,05/04/2021
+210,Daniel Romero ,324,10,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/daniel-romero/,05/04/2021
+211,Wichy Hernandez Tirado ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/wichy-hernandez-tirado/,05/04/2021
+212,Martín Araújo De Lizarza ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-araujo-de-lizarza/,05/04/2021
+213,Javier Marti Hernanz,233,37,0,0,0,0,4,Miguel Semmler Arranz,,,11/01/1992,,,https://www.worldpadeltour.com/jugadores/javier-marti-hernanz/,05/04/2021
+214,José Juan Matea Delgado,352,7,0,0,0,0,1,Mario Ortega Ripoll,,,13/11/1989,,,https://www.worldpadeltour.com/jugadores/jose-juan-matea-delgado/,05/04/2021
+215,Francisco José Tobaria Castro,424,3,16,9,7,"56,25",4,Cayetano Rocafort Lores,Drive,Málaga,07/03/1986,"1,82",Málaga,https://www.worldpadeltour.com/jugadores/francisco-jose-torabia-castro/,05/04/2021
+216,Guillermo Villafañe ,375,5,2,1,1,50,1,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/guillermo-villafane/,05/04/2021
+217,Julio Martínez Gutiérrez,375,5,18,8,10,"44,44",2,Fabián Ordoñez Bustelo,Revés,Madrid,08/01/1979,"1,77",Madrid,https://www.worldpadeltour.com/jugadores/julio-martinez-gutierrez/,05/04/2021
+218,Gabriel Pelfini Campos ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/gabriel-pelfini-campos/,05/04/2021
+219,Alessandro Belotti ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alessandro-belotti/,05/04/2021
+220,Jeremy Ritz ,424,3,5,1,4,20,1,Dimitri Huet,Drive,Enchien les Bains - Francia,06/05/1986,"1,78",Cannes,https://www.worldpadeltour.com/jugadores/jeremy-ritz/,05/04/2021
+221,Pablo Diaz Del Guante Valentin Fernández ,294,14,1,0,1,0,0,José Manuel Ortiz Llerena,Drive,Madrid ,02/02/1996,"1,69",Madrid ,https://www.worldpadeltour.com/jugadores/pablo-diaz-del-guante-valentin-fernandez/,05/04/2021
+222,Ahmed Ghatwary ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ahmed-ghatwary/,05/04/2021
+223,Luis Alfonso Chacón Gilo,283,19,0,0,0,0,1,Alejandro Tasa Van Beek,Drive,Valdepeñas,02/10/2002,1.83,Valdepeñas,https://www.worldpadeltour.com/jugadores/luis-alfonso-chacon-gilo/,05/04/2021
+224,Omar Tarraf ,363,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/omar-tarraf/,05/04/2021
+225,Pedro Meléndez Amaya,230,36,1,0,1,0,2,Luis Pozo Carballo,Drive,Sevilla,19/06/1997,"1,79",Sevilla,https://www.worldpadeltour.com/jugadores/pedro-melendez-amaya/,05/04/2021
+226,Maxime Bourgoin ,412,4,2,0,2,0,0,Jean Thomas Peyrou,Revés,Nancy ,19/07/1990,"1,86",Chelles,https://www.worldpadeltour.com/jugadores/maxime-bourgoin/,05/04/2021
+227,Andreas Näf ,424,3,1,0,1,0,0,Javier Clar Alberti,Revés,Zürich,14/04/1992,184,Zürich,https://www.worldpadeltour.com/jugadores/andreas-naf/,05/04/2021
+228,José Manuel Ortiz Llerena,432,3,0,0,0,0,0,Pablo Diaz Del Guante Valentin Fernández,Revés,Mérida,06/01/2005,1.80,Villafranca de los Barros,https://www.worldpadeltour.com/jugadores/jose-manuel-ortiz-llerena/,05/04/2021
+229,Jorge Hernandez Negrin ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jorge-hernandez-negrin/,05/04/2021
+230,Lilian Fouré ,424,3,1,0,1,0,0,Thomas Deschamps,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lilian-foure/,05/04/2021
+231,Oscar Matias Almada ,324,10,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/oscar-matias-almada/,05/04/2021
+232,Santiago Gerpe ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/santiago-gerpe/,05/04/2021
+233,Carlos García Campos,242,30,55,12,43,"21,82",1,Emilio Sanchez Chamero,Drive,Madrid,24/04/1997,"1,74",Madrid,https://www.worldpadeltour.com/jugadores/carlos-garcia-campos/,05/04/2021
+234,Patrick Pouquet ,424,3,1,0,1,0,0,Morgan Mannarino,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/patrick-pouquet/,05/04/2021
+235,Nicolas Trancart ,284,18,0,0,0,0,1,Loïc Le Panse Fernandez,Drive,Muret,11/07/1991,1.66,Madrid,https://www.worldpadeltour.com/jugadores/nicolas-trancart/,05/04/2021
+236,Federico Morales ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/federico-morales/,05/04/2021
+237,Pablo Cuesta Gómez,346,7,7,1,6,"14,29",1,Antón Márquez Larrea,Revés,Mondragón (Guipúzcoa),11/10/1999,"1,85",Durango (Vizcaya),https://www.worldpadeltour.com/jugadores/pablo-cuesta-gomez/,05/04/2021
+238,Ahmed Tarek Khattab ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ahmed-tarek-khattab/,05/04/2021
+239,Sebastián Iranzo-Díaz Blanco,244,29,42,8,34,"19,05",2,Alejandro Urzola Abad,Drive,La Plata - Arg,25/05/1986,"1,84",Valladolid,https://www.worldpadeltour.com/jugadores/sebastian-iranzo-diaz-blanco/,05/04/2021
+240,Matías Gutiérrez ,320,10,1,0,1,0,0,Gonzalo Vera,Revés,Córdoba - Arg,24/01/1990,"1,84",Córdoba - Arg,https://www.worldpadeltour.com/jugadores/matias-gutierrez/,05/04/2021
+241,Wildcard 3 ,412,4,0,0,0,0,0,Wildcard 3,,,01/01/1900,,,https://www.worldpadeltour.com/jugadores/wildcard-3/,05/04/2021
+242,Pedro Jesus Robles Rodriguez,432,3,0,0,0,0,0,Francisco Arenas Gualda,Revés,Cadiz,19/12/1994,1'80,Conil de la frontera,https://www.worldpadeltour.com/jugadores/pedro-jesus-robles-rodriguez/,05/04/2021
+243,Felipe Gonzalez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/felipe-gonzalez/,05/04/2021
+244,Fernando Hector Rodriguez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fernando-hector-rodriguez/,05/04/2021
+245,Juan Pereiro González,424,3,5,2,3,40,2,Joel Fernández Muñoz,Drive,"Ferrol, A Coruña",15/09/2000,"1,75",Las Palmas De Gran Canaria,https://www.worldpadeltour.com/jugadores/juan-pereiro-gonzalez/,05/04/2021
+246,Juan Francisco Martinez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-francisco-martinez/,05/04/2021
+247,Abdulla Abdulhamid Abdulla ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/abdulla-abdulhamid-abdulla/,05/04/2021
+248,Marcos Cordoba Lugo ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marcos-cordoba-lugo/,05/04/2021
+249,Jorge Burgos Luca De Tena ,363,6,0,0,0,0,0,Alejandro Gonzalez Perez,Revés,Sevilla,26/08/1994,"1,75",Sevilla,https://www.worldpadeltour.com/jugadores/jorge-burgos-luca-de-tena/,05/04/2021
+250,Bram Maijer ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/bram-maijer/,05/04/2021
+251,Seyed Rouhollah ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/seyed-rouhollah/,05/04/2021
+252,Pasquale De Ruvo ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pasquale-de-ruvo/,05/04/2021
+253,Javier Clar Alberti,254,25,29,7,22,"24,14",2,Daniel Luna Peinado,Drive,Palma de Mallorca,12/06/1997,"1,87",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/javier-clar-alberti/,05/04/2021
+254,Aleix Casadevall Gras ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/aleix-casadevall-gras/,05/04/2021
+255,Alberto Franchi ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alberto-franchi/,05/04/2021
+256,Fabio Marcelli ,358,6,8,0,8,0,0,Gianmarco Toccini,Revés,Córdoba,28/08/2003,"1,73",Córdoba,https://www.worldpadeltour.com/jugadores/fabio-marcelli/,05/04/2021
+257,Higor Ensslin Alves ,268,23,0,0,0,0,1,Alfonso Viuda Hernández,Drive,Rio Branco Uruguay ,15/03/2001,1.88,Valladolid ,https://www.worldpadeltour.com/jugadores/higor-ensslin-alves/,05/04/2021
+258,Martín Noschese ,346,7,14,6,8,"42,86",3,Roberto Saba,Drive,Buenos Aires - Arg,20/08/1991,"1,88",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/martin-noschese/,05/04/2021
+259,Simone Iacovino ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/simone-iacovino/,05/04/2021
+260,Saverio Palmieri ,346,7,6,0,6,0,0,Luca Mezzetti,Revés,Roma - Italia,21/06/1985,"1,78",Roma - Italia,https://www.worldpadeltour.com/jugadores/saverio-palmieri/,05/04/2021
+261,Till Gygax ,272,22,0,0,0,0,0,Norbert Nemcsek,Revés,Bern,14/08/1998,187cm,Mörigen,https://www.worldpadeltour.com/jugadores/till-gygax/,05/04/2021
+262,Patricio Nahuel Belluati López,209,51,60,21,39,35,2,Jorge Juan Gomez,Drive,Buenos Aires - Arg,17/12/1998,"1,75",Madrid,https://www.worldpadeltour.com/jugadores/patricio-nahuel-belluati-lopez/,05/04/2021
+263,Mario Gutiérrez Soria,568,1,1,0,1,0,0,Francisco José Calvache Segura,,,08/02/1988,,,https://www.worldpadeltour.com/jugadores/mario-gutierrez-soria/,05/04/2021
+264,Yeray Cabota Aznar,568,1,1,0,1,0,0,Jorge Ferre Sainz,Revés,Valencia,24/06/2002,179,Valencia,https://www.worldpadeltour.com/jugadores/yeray-cabota-aznar/,05/04/2021
+265,Khalid Nagy ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/khalid-nagy/,05/04/2021
+266,Joao Magalhaes ,375,5,5,0,5,0,0,André Maia,Revés,Porto - Portugal,09/02/1993,"1,91",Porto - Portugal,https://www.worldpadeltour.com/jugadores/joao-magalhaes/,05/04/2021
+267,Marcelo Javier Monroig ,379,5,2,1,1,50,1,Javier Clar Alberti,,,01/10/1977,,,https://www.worldpadeltour.com/jugadores/marcelo-javier-monroig/,05/04/2021
+268,Antón Márquez Larrea,209,51,44,10,34,"22,73",2,Hugo García Martínez,Drive,Madrid,21/07/2000,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/anton-marquez-larrea/,05/04/2021
+269,Miguel Angel Valencia Rivero ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/miguel-angel-valencia-rivero/,05/04/2021
+270,Panske Claudius ,424,3,2,0,2,0,0,Messerschmidt Jonas,Drive,Duisborg - Alemania,03/05/1990,"1,80",Duisburg,https://www.worldpadeltour.com/jugadores/panske-claudius/,05/04/2021
+271,Abdulla Ahmed Ahli ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/abdulla-ahmed-ahli/,05/04/2021
+272,Pedro Jose Cerdeño Alonso,346,7,3,0,3,0,0,Patricio Nahuel Belluati López,Revés,Toledo,02/07/1999,"1,76",Toledo,https://www.worldpadeltour.com/jugadores/pedro-jose-cerdeno-alonso/,05/04/2021
+273,Alfredo Iezza ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alfredo-iezza/,05/04/2021
+274,Guillermo Closa Puncernau,424,3,2,1,1,50,1,Arnau Riba Corbella,Drive,Barcelona,12/09/1988,"1,80",Gava,https://www.worldpadeltour.com/jugadores/guillermo-closa-puncernau/,05/04/2021
+275,Cristobal García Blanco,568,1,0,0,0,0,0,,,,25/08/1993,,,https://www.worldpadeltour.com/jugadores/cristobal-garcia-blanco/,05/04/2021
+276,Albert Torras Cortada,237,33,48,19,29,"39,58",2,Antonio José Cardona Botella,Drive,Barcelona,14/01/1990,"1,86",Barcelona,https://www.worldpadeltour.com/jugadores/albert-torras-cortada/,05/04/2021
+277,Christopher Moore ,419,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/christopher-moore/,05/04/2021
+278,Nacho Blazquez Domínguez ,432,3,1,0,1,0,0,Arno de Proost,Revés,Madrid,01/08/1996,"1,78 metros",Madrid,https://www.worldpadeltour.com/jugadores/nacho-blazquez-dominguez/,05/04/2021
+279,Gabriel Toledo Amador,424,3,1,0,1,0,0,Angel Diaz Gomez,,,22/01/2002,,,https://www.worldpadeltour.com/jugadores/gabriel-toledo-amador/,05/04/2021
+280,Diego Alberto Ballote Uxul ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/diego-alberto-ballote-uxul/,05/04/2021
+281,Enric Sanmartí Beleta,338,8,36,23,13,"63,89",6,Ferrán Bueno Gómez,Revés,Barcelona,11/06/1982,"1,82",Barcelona,https://www.worldpadeltour.com/jugadores/enric-sanmarti-beleta/,05/04/2021
+282,Daniel Martínez Otero,424,3,1,0,1,0,0,Ager Blanco Dorao,Revés,Bilbao,24/01/2002,196,Bilbao,https://www.worldpadeltour.com/jugadores/daniel-martinez-otero/,05/04/2021
+283,Pedro Morales Sureda,338,8,2,1,1,50,1,,Revés,PALMA DE MALLORCA,16/11/1988,177,PALMA DE MALLORCA,https://www.worldpadeltour.com/jugadores/pedro-morales-sureda/,05/04/2021
+284,Christian Boehnke ,568,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/christian-boehnke/,05/04/2021
+285,Humberto Rios Covian Morcillo ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/humberto-rios-covian-morcillo/,05/04/2021
+286,Pablo Olmo Villa,568,1,1,0,1,0,0,Eduardi Fernández Fraga,Revés,A Coruña,14/06/2001,"1,80",A Coruña,https://www.worldpadeltour.com/jugadores/pablo-olmo-villa/,05/04/2021
+287,Titas Mikelevicius ,290,14,3,0,3,0,0,Hugo García Martínez,Revés,Vilnius,27/01/1994,182,Vilnius,https://www.worldpadeltour.com/jugadores/titas-mikelevicius/,05/04/2021
+288,Fernando Romero ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fernando-romero/,05/04/2021
+289,Giorgio Scarano ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/giorgio-scarano/,05/04/2021
+290,Sergi Nogueras Lorenzo,222,41,193,100,93,"51,81",5,,Revés,Barcelona,12/09/1991,"1,87",Barcelona,https://www.worldpadeltour.com/jugadores/sergi-nogueras-lorenzo/,05/04/2021
+291,Fernando Cebrian Groba,424,3,0,0,0,0,0,,,,28/02/2001,,,https://www.worldpadeltour.com/jugadores/fernando-cebrian-groba/,05/04/2021
+292,Gilverto Arturo Vargas Conde ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/gilverto-arturo-vargas-conde/,05/04/2021
+293,Jean Thomas Peyrou ,412,4,2,0,2,0,0,Maxime Bourgoin,Drive,Bordeaux,27/09/1984,"1,82",Bordeaux,https://www.worldpadeltour.com/jugadores/jean-thomas-peyrou/,05/04/2021
+294,Matheus De Ávila Simonato,223,40,3,1,2,"33,33",1,Francisco Gomes,Revés,Cascavel - Brasil,11/11/1991,"1,87",Balneário Camboriú - Brasil,https://www.worldpadeltour.com/jugadores/matheus-de-avila-simonato/,05/04/2021
+295,Emanuele Fanti ,282,17,3,0,3,0,1,Marco Cassetta,Drive,Roma,13/04/1984,"1,80",Roma,https://www.worldpadeltour.com/jugadores/emanuele-fanti/,05/04/2021
+296,Hamidreza Sarbazi ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/hamidreza-sarbazi/,05/04/2021
+297,Jose Maria Garcia Sanchez-Castilla,432,3,0,0,0,0,0,Adrián Rodríguez Rodríguez-Manzaneque,Revés,SEVILLA,15/04/2003,1.90,SEVILLA,https://www.worldpadeltour.com/jugadores/jose-maria-garcia-sanchez-castilla/,05/04/2021
+298,Arnau Riba Corbella,316,11,0,0,0,0,1,Belar Vera Lopez,Revés,Barcelona ,07/07/1989,"1,78",Cerdanyola del Vallès,https://www.worldpadeltour.com/jugadores/arnau-riba-corbella/,05/04/2021
+299,Diego Campos Rodríguez,424,3,11,3,8,"27,27",1,Pedro Díaz Torregrosa,Drive,Toledo,25/04/1990,"1,71",Mocejón,https://www.worldpadeltour.com/jugadores/diego-campos-rodriguez/,05/04/2021
+300,André Veiga Trindade ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/andre-veiga-trindade/,05/04/2021
+301,Fidel Guimarey San Gregorio,424,3,2,0,2,0,0,Ángel Castañeda Fraga,Drive,Lugo,20/02/1991,"1,69",Lugo,https://www.worldpadeltour.com/jugadores/fidel-guimarey-san-gregorio/,05/04/2021
+302,Carlos Ibañez Orquin,338,8,3,1,2,"33,33",1,Christian Medina Murphy,Drive,Elche,04/09/1994,"1,81",Elche,https://www.worldpadeltour.com/jugadores/carlos-ibanez-orquin/,05/04/2021
+303,Álvaro Delgado Sánchez,304,13,0,0,0,0,0,Gabriel Espelleta Font,Drive,Madrid,01/08/2003,1'85,Madrid,https://www.worldpadeltour.com/jugadores/alvaro-delgado-sanchez/,05/04/2021
+304,Alejandro Urzola Abad,209,51,29,4,25,"13,79",1,Hugo García Martínez,Drive,Zaragoza,08/10/1999,"1,70",Zaragoza,https://www.worldpadeltour.com/jugadores/alejandro-urzola-abad/,05/04/2021
+305,Jorge Ivan Castañeda Macazaga ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jorge-ivan-castaneda-macazaga/,05/04/2021
+306,Umberto Prezioso ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/umberto-prezioso/,05/04/2021
+307,Wilson Arceo Romero ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/wilson-arceo-romero/,05/04/2021
+308,Ignacio Asenjo Tomás,330,9,18,7,11,"38,89",2,Gustavo Garcia Jimenez,Drive,Granada,03/12/1998,"1,75",Granada,https://www.worldpadeltour.com/jugadores/ignacio-asenjo-tomas/,05/04/2021
+309,Norbert Nemcsek ,334,9,0,0,0,0,0,Till Gygax,,,04/09/1991,,,https://www.worldpadeltour.com/jugadores/norbert-nemcsek/,05/04/2021
+310,Javier López García,285,16,26,12,14,"46,15",4,Claudio Conrado Lanzinger Zurita,Revés,Puerto de Sagunto - Valencia,06/12/1989,"1,77",Dubai,https://www.worldpadeltour.com/jugadores/javier-lopez/,05/04/2021
+311,Walter Ramos ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/walter-ramos/,05/04/2021
+312,Fernando Zambrano Sanchez ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fernando-zambrano-sanchez/,05/04/2021
+313,Fernando Aldao Sánchez,424,3,14,3,11,"21,43",1,Borja López Vidal,Drive,A Coruña,21/03/1985,"1,85",A Coruña,https://www.worldpadeltour.com/jugadores/fernando-aldao-sanchez/,05/04/2021
+314,Tomas Alonso ,363,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/tomas-alonso/,05/04/2021
+315,Oscar Benejam Florit,432,3,0,0,0,0,0,Pedro Ríos,,,31/08/1993,,,https://www.worldpadeltour.com/jugadores/oscar-benejam-florit/,05/04/2021
+316,Pablo Cardona Huerta,290,16,0,0,0,0,1,Daniel Bressel Ambrossi,Drive,Mérida ,03/11/2004,"1,85 cm",Mérida ,https://www.worldpadeltour.com/jugadores/pablo-cardona-huerta/,05/04/2021
+317,Álvaro García Gallego,271,20,152,75,77,"49,34",4,Mario Cerezo Casado,Drive,Murcia,22/08/1989,"1,80",Murcia,https://www.worldpadeltour.com/jugadores/alvaro-garcia-gallego/,05/04/2021
+318,Iván Navarrete Pedraza,278,18,8,1,7,"12,5",1,Antoni Josep Calafell Calero,Revés,Palma de Mallorca,20/06/1999,"1,80",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/ivan-navarrete-pedraza/,05/04/2021
+319,Francisco González De Rafael,299,13,16,3,13,"18,75",1,Jacobo Pérez Cendón,Revés,A Coruña,09/03/1999,"1,87",A Coruña,https://www.worldpadeltour.com/jugadores/francisco-gonzalez-de-rafael/,05/04/2021
+320,Miguel Miñano Ortinez,432,3,0,0,0,0,0,Victor Tur Checa,Drive,Palma de Mallorca,29/08/2003,"1,84",Palma,https://www.worldpadeltour.com/jugadores/miguel-minano-ortinez/,05/04/2021
+321,Rafael Luque Cuesta,262,23,6,0,6,0,0,Gonzalo Pérez Arbona,Drive,Madrid,24/08/1992,"1,85",Madrid,https://www.worldpadeltour.com/jugadores/rafael-luque-cuesta/,05/04/2021
+322,Pelayo Villaverde Millán,232,35,51,19,32,"37,25",3,Alfonso Sánchez Arriaga,Drive,Valladolid,17/11/1991,"1,85",Valladolid,https://www.worldpadeltour.com/jugadores/pelayo-villaverde-millan/,05/04/2021
+323,Rodrigo Compañ Morales ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/rodrigo-compan-morales/,05/04/2021
+324,Karim Diab ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/karim-diab/,05/04/2021
+325,Eisa Al Marzooqi,424,3,2,1,1,50,1,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/eisa-al-marzooqi/,05/04/2021
+326,Joulot Benjamin ,412,4,1,0,1,0,0,Pierre Etienne Morillon,,,01/01/1980,,,https://www.worldpadeltour.com/jugadores/joulot-benjamin/,05/04/2021
+327,Pepe Aliaga Cruz ,363,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pepe-aliaga-cruz/,05/04/2021
+328,Federico Beltrami ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/federico-beltrami/,05/04/2021
+329,Bruno Caldarelli ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/bruno-caldarelli/,05/04/2021
+330,Óscar Guiral Mallart,532,2,0,0,0,0,0,,Revés,Zaragoza ,19/10/2000,"1,70",Zaragoza ,https://www.worldpadeltour.com/jugadores/oscar-guiral-mallart/,05/04/2021
+331,Javier Eloy Pérez Pérez,330,9,28,8,20,"28,57",2,Jacobo Pérez Cendón,Revés,Tenerife,28/12/1985,"1,82",Tenerife,https://www.worldpadeltour.com/jugadores/javier-eloy-perez-perez/,05/04/2021
+332,Daniel Luengo Calado,358,6,4,0,4,0,0,Ionian Antonelly Carballo Hernández,Drive,Sevilla,07/06/1990,"1,89",Sevilla,https://www.worldpadeltour.com/jugadores/daniel-luengo-calado/,05/04/2021
+333,Alejandro Pita Fernández,424,3,1,0,1,0,0,Pablo Alvarez Carreiro,Revés,Coruña,30/09/1995,"1,87",Coruña,https://www.worldpadeltour.com/jugadores/alejandro-pita-fernandez/,05/04/2021
+334,Matthew Mcfarlane ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/matthew-mcfarlane/,05/04/2021
+335,Valentín Piastri ,419,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/valentin-piastri/,05/04/2021
+336,Daniel Granda González,424,3,2,1,1,50,1,Rafael Conde Ripoll,Revés,avilés,16/05/1993,1.83,avilés,https://www.worldpadeltour.com/jugadores/daniel-granda-gonzalez/,05/04/2021
+337,Fabian Verdecana Garrido ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fabian-verdecana-garrido/,05/04/2021
+338,Karim Mohamed Beltagui ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/karim-mohamed-beltagui/,05/04/2021
+339,Javier Bravo Álvarez,254,25,11,3,8,"27,27",2,Carlos Pérez Cabeza,Drive,Málaga,15/01/1990,"1,69",Málaga - España,https://www.worldpadeltour.com/jugadores/javier-bravo-alvarez/,05/04/2021
+340,Alvaro Cañasveras Boza,230,36,42,19,23,"45,24",5,Jesús Ruíz Bohorquez,Revés,Córdoba - Esp,03/09/1996,"1,72",Córdoba - Esp,https://www.worldpadeltour.com/jugadores/alvaro-canasveras-boza/,05/04/2021
+341,Karim Salah ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/karim-salah/,05/04/2021
+342,Filippo Scala ,311,11,1,0,1,0,0,Lorenzo Di Giovanni Lorenzo Di Giovanni,Revés,Faenza - Italia,17/07/1991,"1,76",Imola - Italia,https://www.worldpadeltour.com/jugadores/filippo-scala/,05/04/2021
+343,Juan Bautista Moratorio Larrechea ,263,24,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-bautista-moratorio-larrechea/,05/04/2021
+344,Rodrigo Maya ,375,5,4,0,4,0,0,Joao Francisco Fernandes,Drive,Lisboa - Portugal,30/09/1985,"1,74",Lisboa - Portugal,https://www.worldpadeltour.com/jugadores/rodrigo-maya/,05/04/2021
+345,Francisco Neves ,375,5,9,4,5,"44,44",1,Ricardo Martins,Drive,Porto - Portugal,01/09/1984,"1,68",Porto - Portugal,https://www.worldpadeltour.com/jugadores/francisco-neves/,05/04/2021
+346,Marious Zelba ,568,1,0,0,0,0,0,,Revés,Vladivostok ,15/05/1990,1.85,Marbella,https://www.worldpadeltour.com/jugadores/zelba-marious/,05/04/2021
+347,Javier Palasi Lozano,282,17,53,21,32,"39,62",3,Mario Cerezo Casado,Drive,Alicante,20/09/1990,"1,77",Alicante,https://www.worldpadeltour.com/jugadores/javier-palasi-lozano/,05/04/2021
+348,Gustavo Daniel Morales ,290,14,14,2,12,"14,29",1,Arnau Iñíguez Fernández,Revés,Corrientes - Argentina,20/01/1983,"1,75",Andorra,https://www.worldpadeltour.com/jugadores/gustavo-daniel-morales/,05/04/2021
+349,Mario Lozano Encinas,424,3,27,7,20,"25,93",1,Sergio Mauricio Bursa García,Revés,Salamanca,05/09/1988,"1,83",Valladolid,https://www.worldpadeltour.com/jugadores/mario-lozano-encinas/,05/04/2021
+350,Joaquin Bolognese ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/joaquin-bolognese/,05/04/2021
+351,Lennart Samuelsen ,568,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/lennart-samuelsen/,05/04/2021
+352,Miguel Morales Domenech,532,2,0,0,0,0,0,,,,12/09/2001,,,https://www.worldpadeltour.com/jugadores/miguel-morales-domenech/,05/04/2021
+353,Marc Pou Serra,244,29,11,2,9,"18,18",1,Carlos Mora Íscar,Drive,PALMA DE MALLORCA - ESPAÑA,18/04/1997,1’80,Marratxi ,https://www.worldpadeltour.com/jugadores/marc-pou-serra/,05/04/2021
+354,Nicolás Fynn ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nicolas-fynn/,05/04/2021
+355,Gabriel Loredo Almanza,424,3,15,7,8,"46,67",3,Kalle Vainola,Drive,Mexico ,08/07/1984,1.78,España ,https://www.worldpadeltour.com/jugadores/gabriel-loredo-almanza/,05/04/2021
+356,Juan Miguel Such Pérez,311,11,33,11,22,"33,33",3,Christian Ramos Abad,Drive,Alicante,09/03/1984,"1,88",Alfaz del Pi,https://www.worldpadeltour.com/jugadores/juan-miguel-such-perez/,05/04/2021
+357,Guillem Figuerola Santiago,320,10,9,3,6,"33,33",1,Arnau Iñíguez Fernández,Revés,Valls - Tarragona,30/07/1998,"1,76",Valls - Tarragona,https://www.worldpadeltour.com/jugadores/guillem-figuerola-santiago/,05/04/2021
+358,Joao Francisco Fernandes ,375,5,2,0,2,0,0,Rodrigo Maya,Revés,Vila Real de Santo Antonio,17/09/1995,"1,82",Málaga,https://www.worldpadeltour.com/jugadores/joao-francisco-fernandes/,05/04/2021
+359,Manuel Jose’ Fernandez Diaz ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/manuel-jose-fernandez-diaz/,05/04/2021
+360,Enrique Martos López,220,42,35,9,26,"25,71",1,Rubén Sánchez Sánchez,Drive,Baza,11/08/1994,"1,71",Almería,https://www.worldpadeltour.com/jugadores/enrique-martos-lopez/,05/04/2021
+361,Alex Casas Solsona,419,4,3,2,1,"66,67",2,Eduard Altimires Ros,Revés,Tarragona,30/06/1997,1.90,Cambrils,https://www.worldpadeltour.com/jugadores/alex-casas-solsona/,05/04/2021
+362,Salem Alhouli ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/salem-alhouli/,05/04/2021
+363,Enrique Akram Sicilia Amrani ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/enrique-akram-sicilia-amrani/,05/04/2021
+364,Jimmy Hourani ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jimmy-hourani/,05/04/2021
+365,Giordano Orecchio Orecchio,544,2,0,0,0,0,0,,Drive,Roma,28/08/1979,"1,73",Roma,https://www.worldpadeltour.com/jugadores/giordano-orecchio/,05/04/2021
+366,Sebastiao Mendonça ,330,9,24,6,18,25,2,Ricardo Martins,Drive,Lisboa - Portugal,21/08/1995,"1,78",Estoril - Portugal,https://www.worldpadeltour.com/jugadores/sebastiao-mendonca/,05/04/2021
+367,Jonathan Adeline ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jonathan-adeline/,05/04/2021
+368,Diego Alberto Lozano Medina ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/diego-alberto-lozano-medina/,05/04/2021
+369,Federico Chiribao Pombo ,324,10,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/federico-chiribao-pombo/,05/04/2021
+370,Martín Araújo ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-araujo/,05/04/2021
+371,Yann Auradou ,412,4,3,1,2,"33,33",1,Thomas Mitjana,Revés,Mont Saint Aignon,17/04/1989,"1,75",Plaisir,https://www.worldpadeltour.com/jugadores/yann-auradou/,05/04/2021
+372,Joel Fernández Muñoz,424,3,5,2,3,40,2,Juan Pereiro González,Revés,Las Palmas de G.C.,14/06/2000,"1,79",Las Palmas ,https://www.worldpadeltour.com/jugadores/joel-fernandez-munoz/,05/04/2021
+373,Nick Braet ,330,9,5,1,4,20,1,David García Campos,Drive,Ghent,15/02/1991,"1,85",Ghent,https://www.worldpadeltour.com/jugadores/nick-braet/,05/04/2021
+374,Armando Calvetti ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/armando-calvetti/,05/04/2021
+375,Javier Fisher ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/javier-fisher/,05/04/2021
+376,David Gutiérrez ,262,23,140,50,90,"35,71",4,Juan Carlos Diaz Martin,Revés,Corrientes,28/08/1981,"1,81",Madrid,https://www.worldpadeltour.com/jugadores/david-gutierrez/,05/04/2021
+377,Hazem Beltagui ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/hazem-beltagui/,05/04/2021
+378,Roberto Belmont Pastor,299,13,2,1,1,50,1,Emilio Sanchez Chamero,Drive,Madrid,27/04/2003,1'55,Madrid,https://www.worldpadeltour.com/jugadores/roberto-belmont-pastor/,05/04/2021
+379,Dob Engstrom ,432,3,0,0,0,0,0,Jose Jimenez Casas,Revés,Stockholm,01/12/1995,175,Lidingo,https://www.worldpadeltour.com/jugadores/dob-engstrom/,05/04/2021
+380,Daisuke Shoyama ,375,5,1,0,1,0,0,Hugo García Martínez,,,03/11/1975,,,https://www.worldpadeltour.com/jugadores/daisuke-shoyama/,05/04/2021
+381,Diogo Schaefer ,320,10,53,15,38,"28,3",2,Jorge Señorán Frutuoso,Revés,Lisboa - Portugal,29/04/1987,"1,93",Lisboa,https://www.worldpadeltour.com/jugadores/diogo-schaefer/,05/04/2021
+382,Andrés Eduardo Perez Vera ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/andres-eduardo-perez-vera/,05/04/2021
+383,Pablo Castillo Valverde,375,5,50,17,33,34,3,José María Mouliaa López,Drive,Melilla,06/11/1999,"1,75",Melilla,https://www.worldpadeltour.com/jugadores/pablo-castillo-valverde/,05/04/2021
+384,Stefano Marini ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/stefano-marini/,05/04/2021
+385,Loïc Le Panse Fernandez,228,39,9,1,8,"11,11",1,Nicolas Trancart,Drive,Brou/Chanteraine,15/05/1986,"1,75",Lisses,https://www.worldpadeltour.com/jugadores/loic-le-panse-fernandez/,05/04/2021
+386,Walef Vinicius Silva,568,1,7,1,6,"14,29",1,Sam Jones,Drive,Acailandia - Brasil,25/09/2000,"1,74",Blanes - Gerona,https://www.worldpadeltour.com/jugadores/walef-vinicius-silva/,05/04/2021
+387,Martín Rodriguez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-rodriguez/,05/04/2021
+388,Rafael Romero Hernández,223,40,5,0,5,0,0,Alejandro Fernández Cuevas,Drive,CORDOBA - ESPAÑA,08/04/1985,0,,https://www.worldpadeltour.com/jugadores/rafael-romero-hernandez/,05/04/2021
+389,Juan Figueroa Ayala ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-figueroa-ayala/,05/04/2021
+390,Martín Rodriguez Parentini ,324,10,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-rodriguez-parentini/,05/04/2021
+391,Alejandro Colinas Suarez ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alejandro-colinas-suarez/,05/04/2021
+392,Aparicio Etcheberry Coito ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/aparicio-etcheberry-coito/,05/04/2021
+393,Martin Rafael Abud Kuhner ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-rafael-abud-kuhner/,05/04/2021
+394,Oscar Vazquez Fernandez,234,34,9,4,5,"44,44",2,Christian Medina Murphy,Drive,Ourense,15/09/1999,"1,80",Alicante,https://www.worldpadeltour.com/jugadores/oscar-vazquez-fernandez/,05/04/2021
+395,Alessandro Tinti ,304,12,1,0,1,0,0,Nicolo Cotto,Revés,Roma,11/12/1991,183,Roma,https://www.worldpadeltour.com/jugadores/alessandro-tinti/,05/04/2021
+396,Javier Navarro Pérez,330,9,6,2,4,"33,33",1,Víctor Manuel Mena Gil,Drive,Valencia,03/05/2001,"1,76",Valencia,https://www.worldpadeltour.com/jugadores/javier-navarro-perez/,05/04/2021
+397,Simon Boisse ,304,12,1,0,1,0,0,Loïc Le Panse Fernandez,,,19/06/1983,,,https://www.worldpadeltour.com/jugadores/simon-boisse/,05/04/2021
+398,Joaquim Florensa Hernandez,375,5,2,1,1,50,1,Jesús Ruíz Bohorquez,Drive,Barcelona,03/04/2001,"1,81",Barcelona,https://www.worldpadeltour.com/jugadores/joaquim-florensa-hernandez/,05/04/2021
+399,Sido Nijholt ,424,3,1,0,1,0,0,Peter Bruijsten,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/sido-nijholt/,05/04/2021
+400,Seif Abdel Aziz ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/seif-abdel-aziz/,05/04/2021
+401,Lorenzo Di Giovanni Lorenzo Di Giovanni ,246,30,0,0,0,0,0,Filippo Scala,Revés,Chieti,25/12/1987,190,Milano,https://www.worldpadeltour.com/jugadores/lorenzo-di-giovanni-lorenzo-di-giovanni/,05/04/2021
+402,Gianmarco Toccini ,311,11,10,1,9,10,1,Fabio Marcelli,Drive,Frascati ,23/07/1980,"1,77",Grottaferrata ,https://www.worldpadeltour.com/jugadores/gianmarco-toccini/,05/04/2021
+403,Augustas Radziukynas ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/augustas-radziukynas/,05/04/2021
+404,Victor Manuel Vega Ceballos ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/victor-manuel-vega-ceballos/,05/04/2021
+405,Ignacio González Torres,346,7,18,4,14,"22,22",2,Laurent Montoisy,Drive,Alicante,31/12/1979,"1,68",Alicante,https://www.worldpadeltour.com/jugadores/ignacio-gonzalez-torres/,05/04/2021
+406,Eduard Altimires Ros,311,11,7,2,5,"28,57",2,Gabriel Espelleta Font,Revés,Terrassa,29/04/1993,"1,92",Terrassa,https://www.worldpadeltour.com/jugadores/eduard-altimires-ros/,05/04/2021
+407,Maciej Naduk ,424,3,1,0,1,0,0,,Drive,Warsaw,01/02/1994,180,Warsaw,https://www.worldpadeltour.com/jugadores/maciej-naduk/,05/04/2021
+408,Denis Aguilar ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/denis-aguilar/,05/04/2021
+409,Sergio Esteban Barroso,342,8,0,0,0,0,1,Pedro Carlos García-Consuegra Gutiérrez,Revés,Madrid,10/04/1996,174,Madrid,https://www.worldpadeltour.com/jugadores/sergio-esteban-barroso/,05/04/2021
+410,Ismael Ferro Aguilera,271,20,18,5,13,"27,78",2,Carlos Mora Íscar,Drive,Es Castell (Menorca),26/12/1994,"1,73",Barcelona,https://www.worldpadeltour.com/jugadores/ismael-ferro-aguilera/,05/04/2021
+411,Alejandro Testa Gareta ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alejandro-testa-gareta/,05/04/2021
+412,Stefano Reitano ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/stefano-reitano/,05/04/2021
+413,Francesco Sasso ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/francesco-sasso/,05/04/2021
+414,Manuel Valcarcel Sanchez ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/manuel-valcarcel-sanchez/,05/04/2021
+415,Cameron Dollimore ,532,2,0,0,0,0,0,,,,28/08/2001,,,https://www.worldpadeltour.com/jugadores/cameron-dollimore/,05/04/2021
+416,Ivan Dafonte Navas,334,9,0,0,0,0,0,José Carlos Bernal Rodríguez,Drive,CADIZ,04/11/1996,"1,69",CADIZ,https://www.worldpadeltour.com/jugadores/ivan-dafonte-navas/,05/04/2021
+417,Mohammed Abbas ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mohammed-abbas/,05/04/2021
+418,Pedro Santiago Castañeyra Delgado ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pedro-santiago-castaneyra-delgado/,05/04/2021
+419,Ferran Insa Sotillo,215,48,35,15,20,"42,86",3,Guillermo Casal Maldonado,Revés,Granollers - Barcelona,21/07/1994,"1,79",Barcelona,https://www.worldpadeltour.com/jugadores/ferran-insa-sotillo/,05/04/2021
+420,Néstor Hernández Ribas ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nestor-hernandez-ribas/,05/04/2021
+421,Nicolás Moral Luna,568,1,1,0,1,0,0,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/nicolas-moral-luna/,05/04/2021
+422,Óscar Bosca Alabart,532,2,3,1,2,"33,33",1,,Revés,Manilva,16/08/1990,194,Estepona,https://www.worldpadeltour.com/jugadores/oscar-bosca-alabart/,05/04/2021
+423,Francisco Guerrero Cordero,294,14,0,0,0,0,1,,Drive,Málaga ,30/07/2003,1'76,Coin ,https://www.worldpadeltour.com/jugadores/francisco-guerrero-cordero/,05/04/2021
+424,Jacobo Blanco De Miguel,268,21,165,75,90,"45,45",5,Manuel Prado Prego,Drive,Madrid,16/05/1986,"1,79",Madrid,https://www.worldpadeltour.com/jugadores/jacobo-blanco-de-miguel/,05/04/2021
+425,Sergio Borrero Fernández De La Puente,254,25,7,1,6,"14,29",1,Arnau Iñíguez Fernández,Drive,Sevilla,17/06/2001,"1,90",Sevilla,https://www.worldpadeltour.com/jugadores/sergio-borrero-fernandez-de-la-puente/,05/04/2021
+426,João Pedro Flores Rodrigues,304,12,31,14,17,"45,16",3,Ignacio Vilariño Gestoso,Drive,Alegrete - Brasil,26/01/1996,"1,75",Balneário Camboriú ,https://www.worldpadeltour.com/jugadores/joao-pedro-flores-rodrigues/,05/04/2021
+427,Saeed Al Marri ,375,5,3,2,1,"66,67",2,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/saeed-al-marri/,05/04/2021
+428,Gustavo Garcia Jimenez,258,24,21,3,18,"14,29",1,Rubén Sánchez Sánchez,Revés,Granada,29/02/1996,"1,87",Granada,https://www.worldpadeltour.com/jugadores/gustavo-garcia-jimenez/,05/04/2021
+429,Pablo Tejero Delgado ,432,3,0,0,0,0,0,Daniel Santigosa Sastre,Revés,El cuervo de Sevilla,30/03/2004,"1,78",El cuervo de Sevilla,https://www.worldpadeltour.com/jugadores/pablo-tejero-delgado/,05/04/2021
+430,Julián Carve ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/julian-carve/,05/04/2021
+431,Marco Meloni ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marco-meloni/,05/04/2021
+432,Francisco José Calvache Segura,251,27,9,4,5,"44,44",1,Rubén Sánchez Sánchez,Revés,Almería ,10/11/1994,"1,95 cm","Aguadulce, Almería ",https://www.worldpadeltour.com/jugadores/francisco-jose-calvache-segura/,05/04/2021
+433,Sam Jones ,568,1,4,0,4,0,0,Walef Vinicius Silva,Revés,Londres,27/12/1999,"1,78",Barcelona,https://www.worldpadeltour.com/jugadores/sam-jones-samuel-jones/,05/04/2021
+434,Juan Bautista Moratorio ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-bautista-moratorio/,05/04/2021
+435,Messerschmidt Jonas ,358,6,1,0,1,0,0,Panske Claudius,,,20/06/1987,,,https://www.worldpadeltour.com/jugadores/messerschmidt-jonas/,05/04/2021
+436,Raul Mestre Gonzalez ,544,2,0,0,0,0,0,,,,29/04/2001,,,https://www.worldpadeltour.com/jugadores/raul-mestre-gonzalez/,05/04/2021
+437,Seif Elkhayat ,363,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/seif-elkhayat/,05/04/2021
+438,Alejandro Fernández Cuevas,226,40,1,0,1,0,0,Rafael Romero Hernández,,México DF,09/09/1993,,,https://www.worldpadeltour.com/jugadores/alejandro-fernandez-cuevas/,05/04/2021
+439,Federico Chiribao ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/federico-chiribao/,05/04/2021
+440,Thomas Leygue ,307,12,0,0,0,0,0,Nicolas Trancart,Revés,Aix-en-provence,04/12/2001,188,Aix-en-provence,https://www.worldpadeltour.com/jugadores/thomas-leygue/,05/04/2021
+441,Vicente Delas Maset,363,6,0,0,0,0,0,,Revés,Valencia,04/11/1998,"1,91",Valencia,https://www.worldpadeltour.com/jugadores/vicente-delas-maset/,05/04/2021
+442,Jorge Juan Gomez,240,31,10,4,6,40,1,Julio Pulido Alegre,Drive,Madrid,19/02/1990,168,Madrid,https://www.worldpadeltour.com/jugadores/jorge-juan-gomez/,05/04/2021
+443,Ager Blanco Dorao,424,3,3,0,3,0,0,Daniel Martínez Otero,Drive,Bilbao,22/12/2000,"1,70",Bilbao,https://www.worldpadeltour.com/jugadores/ager-blanco-dorao/,05/04/2021
+444,Morgan Mannarino ,424,3,2,0,2,0,0,Patrick Pouquet,Revés,Soily Sous Montmorency,21/01/1985,"1,85",Soily Sous Montmorency,https://www.worldpadeltour.com/jugadores/morgan-mannarino/,05/04/2021
+445,Álvaro Pérez Gas,568,1,4,1,3,25,1,Víctor Cava Canals,Drive,Alicante,24/11/2001,"1,70",Alicante,https://www.worldpadeltour.com/jugadores/alvaro-perez-gas/,05/04/2021
+446,Laurent Montoisy ,358,6,5,3,2,60,2,Ignacio González Torres,Drive,Bruselas - Bélgica,29/05/1987,"1,95",Bruselas - Bélgica,https://www.worldpadeltour.com/jugadores/laurent-montoisy/,05/04/2021
+447,Walter Imbert ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/walter-imbert/,05/04/2021
+448,Juan Ramiro Cardos Correa ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-ramiro-cardos-correa/,05/04/2021
+449,Nicolo Cotto ,350,7,0,0,0,0,0,Alessandro Tinti,Drive,Biella,16/08/1982,1.80,Monza,https://www.worldpadeltour.com/jugadores/nicolo-cotto/,05/04/2021
+450,Lorenzo Rossi Tani,271,20,16,5,11,"31,25",2,Daniele Cattaneo,Revés,Roma,17/03/1993,"1,89",Roma - Italia,https://www.worldpadeltour.com/jugadores/lorenzo-rossi-tani/,05/04/2021
+451,Jose Mena Macias,320,10,0,0,0,0,1,Karlos Rodríguez Vidal,Drive,Malaga,23/05/2002,"1,80",Malaga,https://www.worldpadeltour.com/jugadores/jose-mena-macias/,05/04/2021
+452,Kristopher Sotiriu ,375,5,1,0,1,0,0,Matthias Ederer,,,14/02/1986,,,https://www.worldpadeltour.com/jugadores/kristopher-sotiriu/,05/04/2021
+453,Julio Cesar Julianoti ,223,40,5,2,3,40,2,Stefano Flores,Drive,Porto Alegre - Bra,09/02/1989,"1,83",Porto Alegre - Bra,https://www.worldpadeltour.com/jugadores/julio-cesar-julianoti/,05/04/2021
+454,Victor Tur Checa,432,3,0,0,0,0,0,Miguel Miñano Ortinez,Revés,Ibiza,21/02/2004,"1,77",Barcelona,https://www.worldpadeltour.com/jugadores/victor-tur-checa/,05/04/2021
+455,Antonio María Nogueira ,375,5,12,2,10,"16,67",1,Pedro Araújo,Drive,Porto - Portugal,06/11/1989,"1,73",Porto - Portugal,https://www.worldpadeltour.com/jugadores/antonio-maria-nogueira/,05/04/2021
+456,Alejandro Moya Rodríguez ,294,14,1,0,1,0,0,Gonzalo Pérez Arbona,Revés,Madrid,17/12/1996,182cm/ 71kg,Madrid,https://www.worldpadeltour.com/jugadores/alejandro-moya-rodriguez/,05/04/2021
+457,Belar Vera Lopez,316,11,0,0,0,0,1,Arnau Riba Corbella,Revés,Barcelona,17/09/2003,"1,78",Barcelona,https://www.worldpadeltour.com/jugadores/belar-vera-lopez/,05/04/2021
+458,Marco Cassetta ,285,16,1,0,1,0,1,Emanuele Fanti,Revés,Torino,27/05/1999,1.82,Torino,https://www.worldpadeltour.com/jugadores/marco-cassetta/,05/04/2021
+459,Fernando Domínguez Cruz,304,12,0,0,0,0,1,Luís Ortega Pérez,Revés,Marbella ,05/03/2001,1.75 ,Marbella ,https://www.worldpadeltour.com/jugadores/fernando-dominguez-cruz/,05/04/2021
+460,Pablo Suarez Ferazzi ,277,20,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/pablo-suarez-ferazzi/,05/04/2021
+461,Juan Ignacio Artía Malugani ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-ignacio-artia-malugani/,05/04/2021
+462,Sergio Gonzalez Martínez ,251,27,10,2,8,20,1,Juan Carlos Diaz Martin,Drive,Valladolid ,17/08/2000,"1,68",Valladolid ,https://www.worldpadeltour.com/jugadores/sergio-gonzalez-martinez/,05/04/2021
+463,Andrea Apside ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/andrea-apside/,05/04/2021
+464,Rubén Álamo Cruz,532,2,6,2,4,"33,33",1,Rafael Moreno Negrin,Revés,Las Palmas de Gran Canaria,22/11/1981,"1,82",Las Palmas,https://www.worldpadeltour.com/jugadores/ruben-alamo-cruz/,05/04/2021
+465,Marco Brunetti ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marco-brunetti/,05/04/2021
+466,Ramiro Pereyra ,234,34,14,7,7,50,4,Martín Andornino,Revés,Mar del Plata - Arg,15/05/1996,"1,75",Mar del Plata - Arg,https://www.worldpadeltour.com/jugadores/ramiro-pereyra/,05/04/2021
+467,Peter Bruijsten ,338,8,8,0,8,0,0,Sido Nijholt,Revés,Almelo - Holanda,09/05/1983,"1,85",Oldenzaal - Holanda,https://www.worldpadeltour.com/jugadores/peter-bruijten/,05/04/2021
+468,Ismael Rodriguez Mazario,375,5,1,0,1,0,0,Francisco Jurado Sosa,Drive,Madrid,27/03/2003,"1,85",Madrid,https://www.worldpadeltour.com/jugadores/ismael-rodriguez-mazario/,05/04/2021
+469,Thomas Mitjana ,412,4,2,1,1,50,1,Yann Auradou,Revés,Saint-Germain-en-Laye,26/06/1991,1m75,Crespieres,https://www.worldpadeltour.com/jugadores/thomas-mitjana/,05/04/2021
+470,Raúl Pérez Acosta,209,51,41,14,27,"34,15",4,Guillermo Lahoz Rodríguez,Drive,Tenerife,22/11/1978,"1,72",Tenerife,https://www.worldpadeltour.com/jugadores/raul-perez-acosta/,05/04/2021
+471,Dean Mcfarlane ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/dean-mcfarlane/,05/04/2021
+472,Alberto Micali ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alberto-micali/,05/04/2021
+473,Andres Esquiliano Peralta ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/andres-esquiliano-peralta/,05/04/2021
+474,Marcelo Capitani ,267,22,124,55,69,"44,35",5,Alfonso Viuda Hernández,Revés,Santa Fe - Arg,30/05/1975,"1,70",Pamplona,https://www.worldpadeltour.com/jugadores/marcelo-capitani/,05/04/2021
+475,Daniele Cattaneo ,237,33,13,4,9,"30,77",1,Simone Cremona,Revés,Vimercate - Italia,10/09/1989,"1,87",Genova - Italia,https://www.worldpadeltour.com/jugadores/daniele-cattaneo/,05/04/2021
+476,Enrique Lagarejos Blanco,375,5,153,84,69,"54,9",5,Jaime Muñoz Enrile,Drive,Madrid,21/04/1985,"1,71",Madrid,https://www.worldpadeltour.com/jugadores/enrique-lagarejos-blanco/,05/04/2021
+477,Christian Guisado Fernández ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/christian-guisado-fernandez/,05/04/2021
+478,Karim Nsouli ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/karim-nsouli/,05/04/2021
+479,André Delmar ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/andre-delmar/,05/04/2021
+480,Kilian Jordan ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/kilian-jordan/,05/04/2021
+481,Kalle Vainola ,432,3,1,0,1,0,0,Gabriel Loredo Almanza,Revés,LAHTI ,15/12/1971,183,Kauniainen,https://www.worldpadeltour.com/jugadores/kalle-vainola/,05/04/2021
+482,Diego Rosell García,240,31,69,21,48,"30,43",2,Brandon Ethan Sfez,Revés,Puertollano,30/10/1996,"1,89",Malaga,https://www.worldpadeltour.com/jugadores/diego-rosell-garcia/,05/04/2021
+483,Exequiel Mouriño ,424,3,2,1,1,50,1,Federico Mouriño,Revés,Mar del plata,29/04/1997,1.70,Burriana,https://www.worldpadeltour.com/jugadores/exequiel-mourino/,05/04/2021
+484,Jorge Etcheberry Carrasco ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jorge-etcheberry-carrasco/,05/04/2021
+485,Ivan Guillermo Gallo ,432,3,0,0,0,0,0,,Drive,san andres de giles,21/01/1967,"1,74",PATERNA,https://www.worldpadeltour.com/jugadores/ivan-guillermo-gallo/,05/04/2021
+486,Diego Pascual Simon Tomas,316,11,0,0,0,0,0,Jose Pedro Montalban Martin,Revés,Murcia,18/09/2002,1.76,Malaga,https://www.worldpadeltour.com/jugadores/diego-pascual-simon-tomas/,05/04/2021
+487,Dimitri Huet ,424,3,3,1,2,"33,33",1,Jeremy Ritz,Revés,Boulogne Billancourt ,17/05/1985,"1,86",Boulogne Billancourt ,https://www.worldpadeltour.com/jugadores/dimitri-huet/,05/04/2021
+488,Rodrigo Montoya ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/rodrigo-montoya/,05/04/2021
+489,Igor Amondarain González,234,34,10,3,7,30,1,David García Campos,Drive,San Sebastian,01/04/2002,"1,68",Salamanca,https://www.worldpadeltour.com/jugadores/igor-amondarain-gonzalez/,05/04/2021
+490,Ibrahim Fetov ,424,3,1,0,1,0,0,Jose Manuel Blanquez Montoya,,,29/04/1988,,,https://www.worldpadeltour.com/jugadores/ibrahim-fetov/,05/04/2021
+491,Pedro Araújo ,375,5,6,0,6,0,0,Antonio María Nogueira,Revés,Lisboa ,11/03/2000,"1,80",Lisboa ,https://www.worldpadeltour.com/jugadores/pedro-araujo/,05/04/2021
+492,Matthias Ederer ,375,5,1,0,1,0,0,Kristopher Sotiriu,,,20/06/1979,,,https://www.worldpadeltour.com/jugadores/matthias-ederer/,05/04/2021
+493,Marcello Motta ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marcello-motta/,05/04/2021
+494,Pedro Ríos ,424,3,4,2,2,50,2,Oscar Benejam Florit,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/pedro-rios/,05/04/2021
+495,Israel Jose Fernandez Seda ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/israel-jose-fernandez-seda/,05/04/2021
+496,Raul Hernandez Peñalosa ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/raul-hernandez-penalosa/,05/04/2021
+497,Johannes Lindmeyer ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/johannes-lindmeyer/,05/04/2021
+498,Daniel Jalón Fernández,311,11,5,1,4,20,1,Álvaro Sacristán Ballesteros,Revés,Madrid,02/07/1984,"1,84",Madrid,https://www.worldpadeltour.com/jugadores/daniel-jalon-fernandez/,05/04/2021
+499,Mattia Guerra ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mattia-guerra/,05/04/2021
+500,Francisco Alameda Robles,268,23,0,0,0,0,1,Karlos Rodríguez Vidal,Drive,Malaga,10/08/1992,"1,82",Malaga,https://www.worldpadeltour.com/jugadores/francisco-alameda-robles/,05/04/2021
+501,Hamad Busamnoh ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/hamad-busamnoh/,05/04/2021
+502,Valentín Wenger ,294,14,0,0,0,0,0,Ivan Lopez Muñoz,Revés,Biel,11/02/1994,1.78,La Neuveville,https://www.worldpadeltour.com/jugadores/valentin-wenger/,05/04/2021
+503,Cristian Donnet ,363,6,0,0,0,0,0,,Drive,Neuquen,22/10/1977,179,"Dubai, UAE",https://www.worldpadeltour.com/jugadores/cristian-donnet/,05/04/2021
+504,Javier Romero Rodríguez,424,3,107,52,55,"48,6",6,Víctor Saenz de Navarrete,Revés,Puertollano,13/10/1983,"1,78",Puertollano,https://www.worldpadeltour.com/jugadores/javier-romero-rodriguez/,05/04/2021
+505,Ionian Antonelly Carballo Hernández,358,6,8,0,8,0,0,Alberto Molina Domínguez,Revés,México D.F.,16/09/2001,"1,65",Houston (Texas) - USA,https://www.worldpadeltour.com/jugadores/ionian-antonelly-carballo-hernandez/,05/04/2021
+506,David Garrido Fernández,568,1,2,0,2,0,0,Jaime Picazo Candel Picazo Candel,Revés,Murcia,29/06/1989,"1,84",Murcia,https://www.worldpadeltour.com/jugadores/david-garrido-fernandez/,05/04/2021
+507,Cristian Calneggia ,258,24,140,58,82,"41,43",6,Sergio Gonzalez Martínez,Revés,Córdoba (Arg),12/06/1980,"1,73",Pamplona,https://www.worldpadeltour.com/jugadores/cristian-calneggia/,05/04/2021
+508,Jose Manuel Huertas Ruiz ,379,5,0,0,0,0,0,José Carlos Bernal Rodríguez,Drive,marbella,29/11/1994,"1,74",marbella,https://www.worldpadeltour.com/jugadores/jose-manuel-huertas-ruiz/,05/04/2021
+509,Fabio Beraldo ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fabio-beraldo/,05/04/2021
+510,Pedro Carlos García-Consuegra Gutiérrez ,324,10,0,0,0,0,1,Pablo Diaz Del Guante Valentin Fernández,Revés,Madrid ,01/02/1996,"1,87",Madrid,https://www.worldpadeltour.com/jugadores/pedro-carlos-garcia-consuegra-gutierrez/,05/04/2021
+511,Arnau Iñíguez Fernández,232,35,20,4,16,20,2,Sergio Borrero Fernández de La Puente,Drive,Barcelona,05/06/1999,"1,83",Alpicat - Lleida,https://www.worldpadeltour.com/jugadores/arnau-iniguez-fernandez/,05/04/2021
+512,Joao Paulo Meirelles Martins ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/joao-paulo-meirelles-martins/,05/04/2021
+513,Manuel Rocafort Lores,358,6,22,8,14,"36,36",2,Nicolás Suescun,Drive,Marbella - Málaga,21/05/1997,"1,70",Roma - Italia,https://www.worldpadeltour.com/jugadores/manuel-rocafort-lores/,05/04/2021
+514,Julio Perez Luque,242,30,24,6,18,25,2,Francisco Arenas Gualda,Revés,Cádiz,08/06/1983,"1,71",Cádiz ,https://www.worldpadeltour.com/jugadores/julio-perez-luque/,05/04/2021
+515,Eduardi Fernández Fraga,568,1,1,0,1,0,0,Pablo Olmo Villa,,,06/06/2002,,,https://www.worldpadeltour.com/jugadores/eduardi-fernandez-fraga/,05/04/2021
+516,Robin Haziza ,237,33,50,15,35,30,2,Johan Bergeron,Drive,Paris,10/03/1983,"1,80",Nice,https://www.worldpadeltour.com/jugadores/robin-haziza/,05/04/2021
+517,Ramon Perez Goicoechea ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ramon-perez-goicoechea/,05/04/2021
+518,Adrian Mendez Vives,544,2,0,0,0,0,0,Ivan Lopez Muñoz,Drive,Valencia ,05/08/1993,1.80,Valencia ,https://www.worldpadeltour.com/jugadores/adrian-mendez-vives/,05/04/2021
+519,Eduard Bainad Puig,338,8,142,60,82,"42,25",4,Pedro Alonso-Martínez,Revés,Barcelona,25/10/1983,"1,80",Barcelona,https://www.worldpadeltour.com/jugadores/eduard-bainad-puig/,05/04/2021
+520,Zayed Abbas ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/zayed-abbas/,05/04/2021
+521,Mario Huete Hernández,268,21,19,7,12,"36,84",2,Matías Marina Artuso,Revés,Madrid,16/12/1993,"1,83",Getafe - Madrid,https://www.worldpadeltour.com/jugadores/mario-huete-hernandez/,05/04/2021
+522,Antoni Josep Calafell Calero,424,3,58,29,29,50,4,Iván Navarrete Pedraza,Drive,Palma de Mallorca,09/07/1983,"1,82",Palma de Mallorca,https://www.worldpadeltour.com/jugadores/antoni-josep-calafell-calero/,05/04/2021
+523,Maxime Moreau ,213,50,46,10,36,"21,74",2,Adrián Marqués Berdonce,Revés,Niza - Francia,16/07/1987,"1,83",Cannes - Francia,https://www.worldpadeltour.com/jugadores/maxime-moreau/,05/04/2021
+524,Xavier Masson ,346,7,1,0,1,0,0,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/xavier-masson/,05/04/2021
+525,Pablo Alvarez Carreiro,412,4,9,0,9,0,0,Hugo García Martínez,Drive,Orense,23/09/1991,"1,81",A Coruña,https://www.worldpadeltour.com/jugadores/pablo-alvarez-carreiro/,05/04/2021
+526,Martín Castro ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/martin-castro/,05/04/2021
+527,Mauricio Andrini ,424,3,58,17,41,"29,31",2,Maxime Moreau,Drive,Pehuajo - Arg,11/04/1984,"1,80",Barcelona,https://www.worldpadeltour.com/jugadores/mauricio-andrini/,05/04/2021
+528,Inzerillo Jerome ,363,6,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/inzerillo-jerome/,05/04/2021
+529,Karim El Sheraai ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/karim-el-sheraai/,05/04/2021
+530,Álvaro Sacristán Ballesteros,330,9,4,0,4,0,0,Daniel Jalón Fernández,Drive,Madrid,04/11/1997,"1,76",Madrid,https://www.worldpadeltour.com/jugadores/alvaro-sacristan-ballesteros/,05/04/2021
+531,Vinicius Trevisan ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/vinicius-trevisan/,05/04/2021
+532,Sergio Arias Aznar,432,3,0,0,0,0,0,Antonio Borja Mulet,Drive,Caravaca de la cruz,02/03/2004,1.82,Caravaca de la cruz,https://www.worldpadeltour.com/jugadores/sergio-arias-aznar/,05/04/2021
+533,Eduardo Abaitua Vazguez,268,21,2,1,1,50,1,Juan Manuel Vázquez,Drive,bilbao,20/10/1996,169,portugalete,https://www.worldpadeltour.com/jugadores/eduardo-abaitua-vazguez/,05/04/2021
+534,Adrián Rodríguez Rodríguez-Manzaneque,432,3,0,0,0,0,0,Jose Maria Garcia Sanchez-Castilla,Revés,Valencia,13/03/2003,"1,80",Valencia,https://www.worldpadeltour.com/jugadores/adrian-rodriguez-rodriguez-manzaneque/,05/04/2021
+535,Joel Nazareno Ventura ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/joel-nazareno-ventura/,05/04/2021
+536,Eduardo Romero Rodríguez,375,5,124,61,63,"49,19",6,Antonio José Cardona Botella,Drive,Puertollano,13/10/1983,"1,78",Puertollano,https://www.worldpadeltour.com/jugadores/eduardo-romero-rodriguez/,05/04/2021
+537,Julio Pulido Alegre,248,28,17,1,16,"5,88",1,Jorge Juan Gomez,Revés,El Puerto de Sta. María - Cádiz,25/05/1993,"1,89",Madrid,https://www.worldpadeltour.com/jugadores/julio-pulido-alegre/,05/04/2021
+538,Luca Bassani ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/luca-bassani/,05/04/2021
+539,Matias Karelovic Rojas,379,5,0,0,0,0,0,Francisco Álvarez Tapia,Revés,Punta Arenas,20/09/2002,"1,74",Punta Arenas,https://www.worldpadeltour.com/jugadores/matias-karelovic-rojas/,05/04/2021
+540,Fernando Pablo Alarcón ,424,3,1,0,1,0,0,Matías Rivera,Revés,Parana - Arg,13/03/1978,"1,71",Aventura - Florida,https://www.worldpadeltour.com/jugadores/fernando-pablo-alarcon/,05/04/2021
+541,Joel Climent Subirats,375,5,22,8,14,"36,36",1,Guillem Figuerola Santiago,Drive,Tortosa - Tarragona,24/10/1990,"1,80",Cambrils ,https://www.worldpadeltour.com/jugadores/joel-climent-subirats/,05/04/2021
+542,Ignacio Nicolás Regalía Beneitez,338,8,21,1,20,"4,76",1,Arnau Iñíguez Fernández,Revés,Buenos Aires - Arg,08/09/1976,"1,90",Cuenca,https://www.worldpadeltour.com/jugadores/ignacio-nicolas-regalia-beneitez/,05/04/2021
+543,Hugo Lorenzo Serrano ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/hugo-lorenzo-serrano/,05/04/2021
+544,Arno De Proost ,432,3,1,0,1,0,0,Nacho Blazquez Domínguez,Drive,Bonheiden,05/01/1996,171cm,Wakkerzeel,https://www.worldpadeltour.com/jugadores/arno-de-proost/,05/04/2021
+545,Enrique Gomez Mesa,568,1,1,0,1,0,0,Javier Cardenas Navas,Drive,Loja - Granada,01/07/1986,"1,82",Granada,https://www.worldpadeltour.com/jugadores/enrique-gomez-mesa/,05/04/2021
+546,Brian Williams ,432,3,0,0,0,0,0,,Drive,Puerto Madryn,14/03/1988,"1,79 cm","Cancun, México ",https://www.worldpadeltour.com/jugadores/brian-williams/,05/04/2021
+547,Xavier De Benito Fraile,290,14,67,26,41,"38,81",3,Víctor Saenz de Navarrete,Revés,Madrid,23/11/1992,"1,89",Madrid,https://www.worldpadeltour.com/jugadores/xavier-de-benito-fraile/,05/04/2021
+548,John Larsson ,665,0,2,0,2,0,0,Christoffer Sonesson,Drive,Halmstad - Suecia,18/05/1990,"1,87",Halmstad - Suecia,https://www.worldpadeltour.com/jugadores/john-larsson/,05/04/2021
+549,Franco Soria Kutscher ,263,24,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/franco-soria-kutscher/,05/04/2021
+550,Goni Vera ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/goni-vera/,05/04/2021
+551,Brandon Ethan Sfez,304,13,0,0,0,0,1,Diego Rosell García,Drive,Malaga,28/03/2002,"1,80 m",Malaga,https://www.worldpadeltour.com/jugadores/brandon-ethan-sfez/,05/04/2021
+552,Uriël Maarsen ,244,29,33,9,24,"27,27",2,Bram Meijer,Revés,Spijkenisse - Países Bajos,17/07/1992,"1,90",Rijswijk - Países Bajos,https://www.worldpadeltour.com/jugadores/uriel-maarsen/,05/04/2021
+553,Yazan Alkassem ,568,1,1,0,1,0,0,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/yazan-alkassem/,05/04/2021
+554,Mario Ortega Ripoll,276,19,3,1,2,"33,33",1,Alejandro Gonzalez Perez,Revés,Massamagrell,11/11/2002,1.75,Massamagrell,https://www.worldpadeltour.com/jugadores/mario-ortega-ripoll/,05/04/2021
+555,Gerard Godo Ortega,338,8,25,7,18,28,1,Aitor García Bassas,Drive,Girona,23/07/1986,"1,76",Girona,https://www.worldpadeltour.com/jugadores/gerard-godo-ortega/,05/04/2021
+556,Fredrik Ask ,424,3,2,0,2,0,0,Max Sjövall,Revés,Oslo,05/09/1990,184,Oslo,https://www.worldpadeltour.com/jugadores/fredrik-ask/,05/04/2021
+557,Bram Meijer ,244,29,33,8,25,"24,24",3,Uriël Maarsen,Drive,Almelo - Hol,13/10/1994,"1,95",Almelo - Hol,https://www.worldpadeltour.com/jugadores/bram-meijer/,05/04/2021
+558,Nicholas Frank ,419,4,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/nicholas-frank/,05/04/2021
+559,Mohammad Alfalasi ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mohammad-alfalasi/,05/04/2021
+560,Wael Wahby ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/wael-wahby/,05/04/2021
+561,Jose Pedro Montalban Martin,282,17,2,0,2,0,0,Antonio José Cardona Botella,Drive,Granada ,14/05/2002,1.75,Malaga ,https://www.worldpadeltour.com/jugadores/jose-pedro-montalban-martin/,05/04/2021
+562,Rafael Conde Ripoll,358,6,5,1,4,20,1,Daniel Granda González,Drive,Gijón,16/02/1993,"1,72",Gijón,https://www.worldpadeltour.com/jugadores/rafael-conde-ripoll/,05/04/2021
+563,Pablo González Neria,299,13,88,37,51,"42,05",6,Luis Pozo Carballo,Drive,Plasencia,21/09/1984,"1,78",JÁVEA (ALICANTE),https://www.worldpadeltour.com/jugadores/pablo-gonzalez-neria/,05/04/2021
+564,Jose Manuel Blanquez Montoya,424,3,1,0,1,0,0,Ibrahim Fetov,Revés,Almería ,21/02/1991,1.81,Suiza,https://www.worldpadeltour.com/jugadores/jose-manuel-blanquez-montoya/,05/04/2021
+565,Fabio Castelli ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/fabio-castelli/,05/04/2021
+566,Ivan García Aceituno,214,49,47,14,33,"29,79",2,Daniel de Castro Bautista,Revés,Madrid,12/07/1994,"1,70",Madrid,https://www.worldpadeltour.com/jugadores/ivan-garcia-aceituno/,05/04/2021
+567,Karlos Rodríguez Vidal,252,28,0,0,0,0,1,Francisco Alameda Robles,Revés,Malaga,16/02/1995,1.73,Malaga,https://www.worldpadeltour.com/jugadores/karlos-rodriguez-vidal/,05/04/2021
+568,Thomas Deschamps ,304,12,5,1,4,20,1,Hugo García Martínez,Drive,"Kortrijk, Belgium",19/07/1996,1m79,"Ghent, Belgium",https://www.worldpadeltour.com/jugadores/thomas-deschamps/,05/04/2021
+569,Jorge Couceiro Figueroa,290,14,26,4,22,"15,38",1,Julio Pulido Alegre,Drive,A Coruña,19/02/1995,"1,83",A Coruña,https://www.worldpadeltour.com/jugadores/jorge-couceiro-figueroa/,05/04/2021
+570,Matteo Casula ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/matteo-casula/,05/04/2021
+571,Felipe Alvarez De Los Corrales Lora-Villar ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/felipe-alvarez-de-los-corrales-lora-villar/,05/04/2021
+572,Mario Buzik ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mario-buzik/,05/04/2021
+573,Sergio Beracierto Gil,375,5,21,10,11,"47,62",3,Jaime Muñoz Enrile,Revés,Málaga,26/10/1981,"1,73",Alhaurín de la Torre - Málaga,https://www.worldpadeltour.com/jugadores/sergio-beracierto-gil/,05/04/2021
+574,Ignacio Sager Nagel ,379,5,0,0,0,0,0,,,,28/08/1997,,,https://www.worldpadeltour.com/jugadores/ignacio-sager-nagel/,05/04/2021
+575,Daniel Rodriguez De Porras ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/daniel-rodriguez-de-porras/,05/04/2021
+576,James Maughan ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/james-maughan/,05/04/2021
+577,Jorge Ferre Sainz,568,1,1,0,1,0,0,Yeray Cabota Aznar,Drive,Alcoy,10/05/2001,"1,83",Valencia ,https://www.worldpadeltour.com/jugadores/jorge-ferre-sainz/,05/04/2021
+578,Vitor Meirelles Martins ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/vitor-meirelles-martins/,05/04/2021
+579,Sandro Sassu ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/sandro-sassu/,05/04/2021
+580,Leo Torigino ,432,3,0,0,0,0,0,,,,01/01/2000,,,https://www.worldpadeltour.com/jugadores/leo-torigino/,05/04/2021
+581,Frederick Bott ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/frederick-bott/,05/04/2021
+582,José Carlos Bernal Rodríguez,253,26,6,0,6,0,0,Jesús Espejo Sánchez,Revés,Marbella,20/12/1992,1'83,Marbella,https://www.worldpadeltour.com/jugadores/jose-carlos-bernal-rodriguez/,05/04/2021
+583,Michele Notarnicola ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/michele-notarnicola/,05/04/2021
+584,Jaime Fermosell Delgado,334,9,0,0,0,0,2,Luís Ortega Pérez,,,06/12/1997,,,https://www.worldpadeltour.com/jugadores/jaime-fermosell-delgado/,05/04/2021
+585,Javier Agustín Reiter ,254,25,22,10,12,"45,45",2,Alejandro Gil Muñoz,Revés,Buenos Aires - Arg,27/11/1989,"1,85",Buenos Aires - Arg,https://www.worldpadeltour.com/jugadores/javier-agustin-reiter/,05/04/2021
+586,Fabián Ordoñez Bustelo,375,5,8,4,4,50,1,Julio Martínez Gutiérrez,Revés,Montevideo - Uru,24/05/1973,"1,85",Pamplona,https://www.worldpadeltour.com/jugadores/fabian-ordonez-bustelo/,05/04/2021
+587,Seif Abou Senna ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/seif-abou-senna/,05/04/2021
+588,Khurram Kalia ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/khurram-kalia/,05/04/2021
+589,Jaume Oliver Serra ,285,16,0,0,0,0,1,Marc Pou Serra,Revés,Palma de Mallorca ,17/04/1996,189cm ,Palma de Mallorca ,https://www.worldpadeltour.com/jugadores/jaume-oliver/,05/04/2021
+590,Emilio Misas ,346,7,3,2,1,"66,67",2,,,,01/01/0001,0,,https://www.worldpadeltour.com/jugadores/emilio-misas/,05/04/2021
+591,Carlo Testa ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/carlo-testa/,05/04/2021
+592,Gonzalo Lopez ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/gonzalo-lopez/,05/04/2021
+593,Daniel Santigosa Sastre ,363,6,0,0,0,0,0,Pablo Tejero Delgado,Drive,Madrid,16/02/2004,"1,80",Madrid,https://www.worldpadeltour.com/jugadores/daniel-santigosa-sastre/,05/04/2021
+594,Daniel Lopez Gutierrez,320,10,1,0,1,0,1,Francisco Arenas Gualda,Drive,Madrid,02/04/2002,184/68,Alcorcon,https://www.worldpadeltour.com/jugadores/daniel-lopez-gutierrez/,05/04/2021
+595,Juan Carlos Gama Gonzalez,290,14,3,0,3,0,0,Roberto Belmont Pastor,Revés,Avila,31/05/2003,"1,89",Avila,https://www.worldpadeltour.com/jugadores/juan-carlos-gama-gonzalez/,05/04/2021
+596,Shane Stone ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/shane-stone/,05/04/2021
+597,Enrique Pérez Cabeza,311,11,2,1,1,50,1,Carlos Pérez Cabeza,Revés,Malaga,01/04/2001,"1,89m/ 82 kg",Malaga,https://www.worldpadeltour.com/jugadores/enrique-perez-cabeza/,05/04/2021
+598,Antonio González Vázquez-Monjardín,215,48,55,18,37,"32,73",4,Daniel de Castro Bautista,Revés,Orense,30/09/1994,"1,79",Orense,https://www.worldpadeltour.com/jugadores/antonio-gonzalez-vazquez-monjardin/,05/04/2021
+599,Mauricio Solis ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mauricio-solis/,05/04/2021
+600,Alessandro Cannavera ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alessandro-cannavera/,05/04/2021
+601,Víctor Cava Canals,346,7,5,1,4,20,1,Álvaro Pérez Gas,Revés,Alicante,22/09/1999,"1,91",San Vicente del Raspeig,https://www.worldpadeltour.com/jugadores/victor-cava-canals/,05/04/2021
+602,Daryoush Nouri ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/daryoush-nouri/,05/04/2021
+603,Bo Hou Zhang ,424,3,1,0,1,0,0,Jose Pedro Montalban Martin,,,07/01/1997,,,https://www.worldpadeltour.com/jugadores/bo-hou-zhang/,05/04/2021
+604,Antonio Borja Mulet,432,3,0,0,0,0,0,Sergio Arias Aznar,Revés,Alicante,16/11/2004,"1,77",Altea,https://www.worldpadeltour.com/jugadores/antonio-borja-mulet/,05/04/2021
+605,Ali Almarzooqi ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ali-almarzooqi/,05/04/2021
+606,Eligio Ixqui Perez Guerrero ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/eligio-ixqui-perez-guerrero/,05/04/2021
+607,Borja López Vidal,358,6,27,2,25,"7,41",1,Fernando Aldao Sánchez,Drive,Ferrol,04/11/1989,"1,72",Ferrol,https://www.worldpadeltour.com/jugadores/borja-lopez-vidal/,05/04/2021
+608,Ángel Castañeda Fraga,424,3,6,0,6,0,0,Fidel Guimarey San Gregorio,Revés,A Coruña,06/09/1993,"1,76",A Coruña,https://www.worldpadeltour.com/jugadores/angel-castaneda-fraga/,05/04/2021
+609,Luca Mezzetti ,346,7,0,0,0,0,0,Saverio Palmieri,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/luca-mezzetti/,05/04/2021
+610,Louie Harris ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/louie-harris/,05/04/2021
+611,Miguel Barredo Quinzaños ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/miguel-barredo-quinzanos/,05/04/2021
+612,Claudio Santibañez ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/claudio-santibanez/,05/04/2021
+613,Adel Abdelfatah ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/adel-abdelfatah/,05/04/2021
+614,Luis Fernando Alvarez Arce,424,3,1,0,1,0,0,Jose Pedro Montalban Martin,,,25/01/2001,,,https://www.worldpadeltour.com/jugadores/luis-fernando-alvarez-arce/,05/04/2021
+615,Matias Nahuel Fernandez Popovich,424,3,2,0,2,0,0,Fredrik Ask,Revés,Asuncion ,27/10/1995,"1,88",Marbella ,https://www.worldpadeltour.com/jugadores/matias-nahuel-fernandez-popovich/,05/04/2021
+616,Bernardo Corrochano Cid,424,3,16,2,14,"12,5",1,Julio Pulido Alegre,Revés,Talavera de la Reina,23/03/1986,"1,75",Fuerteventura,https://www.worldpadeltour.com/jugadores/bernardo-corrochano-cid/,05/04/2021
+617,Javier Puerto Elvira,218,46,36,11,25,"30,56",3,Daniel de Castro Bautista,Revés,Alicante,16/09/1997,"1,82",Alicante,https://www.worldpadeltour.com/jugadores/javier-puerto-elvira/,05/04/2021
+618,Francesco Molteni ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/francesco-molteni/,05/04/2021
+619,Francisco Álvarez Tapia ,379,5,0,0,0,0,0,Matias Karelovic Rojas,Drive,Punta Arenas ,29/11/2001,1.79,Punta Arenas ,https://www.worldpadeltour.com/jugadores/francisco-alvarez-tapia/,05/04/2021
+620,Miguel Deus ,432,3,0,0,0,0,0,,Drive,Lisboa,06/04/1993,"1,80",Lisboa,https://www.worldpadeltour.com/jugadores/miguel-deus/,05/04/2021
+621,Carlo Aliffi ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/carlo-aliffi/,05/04/2021
+622,Alejandro Caton Calvo ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alejandro-caton-calvo/,05/04/2021
+623,Juan Martin Cesca ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/juan-martin-cesca/,05/04/2021
+624,Pedro Díaz Torregrosa,285,16,14,2,12,"14,29",1,Luis Alfonso Chacón Gilo,Drive,Ciudad Real,09/04/1997,"1,73",Ciudad Real,https://www.worldpadeltour.com/jugadores/pedro-diaz-torregrosa/,05/04/2021
+625,Mariano Duilio Gombi ,591,1,0,0,0,0,0,,Revés,Buenos Aires,18/02/1979,1.76,Merida Yucatan,https://www.worldpadeltour.com/jugadores/mariano-gombi-brostein/,05/04/2021
+626,André Maia ,375,5,6,0,6,0,0,Joao Magalhaes,Drive,Porto - Portugal,20/06/1994,"1,76",Porto - Portugal,https://www.worldpadeltour.com/jugadores/andre-maia/,05/04/2021
+627,Cristobal Martines ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/cristobal-martines/,05/04/2021
+628,Mahmoud Barakat ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/mahmoud-barakat/,05/04/2021
+629,Jose Antonio Escamilla Martin ,379,5,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jose-antonio-escamilla-martin/,05/04/2021
+630,Gianluca Angilella ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/gianluca-angilella/,05/04/2021
+631,Pierre Etienne Morillon ,346,7,4,1,3,25,1,Johan Bergeron,Drive,Tassin,10/05/1983,"1,91",Lyon,https://www.worldpadeltour.com/jugadores/pierre-etienne-morillon/,05/04/2021
+632,Sebastian Cuello ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/sebastian-cuello/,05/04/2021
+633,Jesús Bermúdez Carrasco,568,1,18,1,17,"5,56",1,Pedro Jose Cerdeño Alonso,Drive,Talavera de la reina,14/09/1979,"1,80",Talavera de la Reina,https://www.worldpadeltour.com/jugadores/jesus-bermudez-carrasco/,05/04/2021
+634,Alessandro Miceli Campailla ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alessandro-miceli-campailla/,05/04/2021
+635,Rodrigo Clemente Quijano Hernandez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/rodrigo-clemente-quijano-hernandez/,05/04/2021
+636,Luis Fabricio Villatoro Estevez ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/luis-fabricio-villatoro-estevez/,05/04/2021
+637,Alonso Rodríguez Martínez,224,42,0,0,0,0,2,Enrique Goenaga Garcia,Revés,Torres de la Alameda ,03/04/2003,"1,85",Torres de la Alameda ,https://www.worldpadeltour.com/jugadores/alonso-rodriguez-martinez/,05/04/2021
+638,Ivan Lopez Muñoz,277,20,0,0,0,0,0,Valentín Wenger,Revés,Almería ,17/12/1987,1.80,Zurich,https://www.worldpadeltour.com/jugadores/ivan-lopez-munoz/,05/04/2021
+639,Salman Qassim ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/salman-qassim/,05/04/2021
+640,João Bastos ,375,5,46,12,34,"26,09",2,Diogo Schaefer,Drive,Oporto,03/10/1989,"1,86",Oporto,https://www.worldpadeltour.com/jugadores/joao-bastos/,05/04/2021
+641,Luigi Piazzolla ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/luigi-piazzolla/,05/04/2021
+642,Riccardo Sinicropi ,258,25,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/riccardo-sinicropi/,05/04/2021
+643,Marcelo Tachdjian ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/marcelo-tachdjian/,05/04/2021
+644,José Luis García ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/jose-luis-garcia/,05/04/2021
+645,Sherif El Sheraai ,544,2,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/sherif-el-sheraai/,05/04/2021
+646,Ricardo Arceo Baeza ,432,3,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/ricardo-arceo-baeza/,05/04/2021
+647,Alberto Grasso ,591,1,0,0,0,0,0,,,,01/01/0001,,,https://www.worldpadeltour.com/jugadores/alberto-grasso/,05/04/2021
+648,Sergio Mauricio Bursa García,424,3,57,22,35,"38,6",2,Sebastián Iranzo-Díaz Blanco,Revés,Buenos Aires,03/12/1981,"1,80",Tarragona,https://www.worldpadeltour.com/jugadores/sergio-mauricio-bursa-garcia/,05/04/2021
+649,Stefano Flores ,223,40,8,4,4,50,3,Julio Cesar Julianoti,Revés,San Miguel Do Este - Brasil,01/01/1998,"1,79",Itaijai - Brasil,https://www.worldpadeltour.com/jugadores/stefano-flores/,05/04/2021
+650,Héctor Guisande Fraga,304,12,9,4,5,"44,44",3,Antonio González Vázquez-Monjardín,Drive,Vigo,21/12/2000,"1,83",Vigo,https://www.worldpadeltour.com/jugadores/hector-guisande-fraga/,05/04/2021
+651,Lucas Silveira Da Cunha,219,43,246,136,110,"55,28",7,Alejandro Gonzalez Perez,Revés,Porto Alegre,17/07/1991,"1,78",Madrid,https://www.worldpadeltour.com/jugadores/lucas-silveira-da-cunha/,05/04/2021
